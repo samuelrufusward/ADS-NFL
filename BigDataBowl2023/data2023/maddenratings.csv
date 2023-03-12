@@ -1,0 +1,1680 @@
+﻿nflId,height,weight,birthDate,collegeName,officialPosition,displayName,Madden displayName,,College from Madden,Birth Date from Madden,Check College,Check Birth date,,
+25511,06-Apr,225,03/08/1977,Michigan,QB,Tom Brady,,,Michigan,03/08/1977,True,True,,True
+28963,06-May,240,02/03/1982,"Miami, O.",QB,Ben Roethlisberger,,,Miami Univ.,02/03/1982,False,True,,True
+29550,06-Apr,328,22/01/1982,Arkansas,T,Jason Peters,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+29851,06-Feb,225,02/12/1983,California,QB,Aaron Rodgers,,,California,02/12/1983,True,True,,True
+30078,06-Feb,228,24/11/1982,Harvard,QB,Ryan Fitzpatrick,,,Harvard,24/11/1982,True,True,,True
+30842,06-Jun,267,19/05/1984,UCLA,TE,Marcedes Lewis,,,UCLA,19/05/1984,True,True,,True
+30869,06-Jul,330,12/12/1981,Louisiana State,T,Andrew Whitworth,,,LSU,12/12/1981,False,True,,True
+33084,06-Apr,217,17/05/1985,Boston College,QB,Matt Ryan,,,Boston College,17/05/1985,True,True,,True
+33107,06-Apr,315,30/08/1985,Virginia Tech,T,Duane Brown,,,Virginia Tech,30/08/1985,True,True,,True
+33130,05-Oct,175,01/12/1986,California,WR,DeSean Jackson,,,California,01/12/1986,True,True,,True
+33131,06-Aug,300,01/09/1986,Miami,DE,Calais Campbell,,,Miami,01/09/1986,True,True,,True
+33138,06-Mar,222,02/07/1985,Michigan,QB,Chad Henne,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+33241,06-Mar,219,05/15/1986,San Diego,QB,Josh Johnson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+33566,05-Nov,185,02/11/1985,Texas Tech,WR,Danny Amendola,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+34452,06-Mar,220,07/02/1988,Georgia,QB,Matthew Stafford,,,Georgia,07/02/1988,True,True,,True
+34457,06-Apr,330,25/01/1987,Alabama,T,Andre Smith,False,,North Carolina,20/04/1997,False,False,,False
+34465,6-0,204,20/12/1987,Ohio State,SS,Malcolm Jenkins,,,Ohio State,20/12/1987,True,True,,True
+34472,06-Apr,311,19/11/1985,California,C,Alex Mack,,,California,19/11/1985,True,True,,True
+34540,06-May,254,07/04/1987,South Carolina,TE,Jared Cook,,,South Carolina,07/04/1987,True,True,,True
+34654,05-Nov,195,13/08/1987,Rutgers,FS,Jason McCourty,,,Rutgers,13/08/1987,True,True,,True
+34777,06-Mar,310,03/01/1986,Troy,NT,Steve McLendon,,,Troy,03/01/1986,True,True,,True
+34843,06-Feb,215,13/10/1985,Michigan State,QB,Brian Hoyer,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+35441,06-Apr,313,06/01/1987,Nebraska,DE,Ndamukong Suh,,,Nebraska,06/01/1987,True,True,,True
+35442,06-Apr,300,25/02/1988,Oklahoma,DT,Gerald McCoy,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+35443,06-May,320,19/07/1988,Oklahoma,T,Trent Williams,,,Oklahoma,19/07/1988,True,True,,True
+35446,05-Nov,195,14/04/1989,Florida,CB,Joe Haden,,,Florida,14/04/1989,True,True,,True
+35449,06-Mar,304,12/05/1987,California,DE,Tyson Alualu,,,California,12/05/1987,True,True,,True
+35452,06-Feb,265,03/04/1988,Michigan,DE,Brandon Graham,,,Michigan,03/04/1988,True,True,,True
+35454,06-May,275,01/01/1989,South Florida,DE,Jason Pierre-Paul,,,USF,01/01/1989,False,True,,True
+35459,05-Oct,185,10/04/1988,Alabama,SS,Kareem Jackson,,,Alabama,10/04/1988,True,True,,True
+35462,06-May,314,21/03/1989,Iowa,T,Bryan Bulaga,,,Iowa,21/03/1989,True,True,,True
+35466,05-Oct,195,13/08/1987,Rutgers,FS,Devin McCourty,,,Rutgers,13/08/1987,True,True,,True
+35470,06-Feb,254,13/08/1988,Texas Christian,DE,Jerry Hughes,,,TCU,13/08/1988,False,True,,True
+35472,06-May,325,06/06/1988,Indiana,G,Rodger Saffold,Rodger Saffold III,,#N/A,#N/A,#N/A,#N/A,Rodger Saffold III,Rodger Saffold III
+35481,06-Jun,265,14/05/1989,Arizona,TE,Rob Gronkowski,,,Arizona,14/05/1989,True,True,,True
+35485,06-Apr,329,10/10/1988,East Carolina,NT,Linval Joseph,,,East Carolina,10/10/1988,True,True,,True
+35493,06-Jun,285,28/02/1989,Florida,OLB,Carlos Dunlap,Carlos Dunlap II,,#N/A,#N/A,#N/A,#N/A,Carlos Dunlap II,Carlos Dunlap II
+35521,05-Nov,180,17/03/1987,Southern Methodist,WR,Emmanuel Sanders,,,SMU,17/03/1987,False,True,,True
+35522,06-Mar,335,08/06/1988,Kentucky,DT,Corey Peters,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+35527,05-Nov,195,09/01/1988,Citadel,WR,Andre Roberts,,,Citadel,09/01/1988,True,True,,True
+35534,06-Jul,265,24/11/1986,Miami,TE,Jimmy Graham,,,Miami,24/11/1986,True,True,,True
+35539,06-Mar,273,22/12/1987,Southern California,DE,Everson Griffen,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+35562,06-Apr,330,25/03/1987,Louisiana State,DT,Al Woods,,,LSU,25/03/1987,False,True,,True
+35634,05-Oct,185,07/10/1988,Central Michigan,WR,Antonio Brown,False,,Central Michigan,10/07/1988,True,False,,False
+36712,06-Jan,210,09/09/1987,Rice,FS,Andrew Sendejo,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+36785,06-Aug,330,27/10/1985,Texas State,T,Ty Nsekhe,,,Texas State,27/10/1985,True,True,,True
+37075,06-Mar,250,26/03/1989,Texas A&amp;M,OLB,Von Miller,,,Texas AM,26/03/1989,False,True,,True
+37077,06-Apr,210,31/07/1988,Georgia,WR,A.J. Green,,,Georgia,31/07/1988,True,True,,True
+37078,06-Jan,203,11/07/1990,Louisiana State,CB,Patrick Peterson,,,LSU,11/07/1990,False,True,,True
+37079,06-Mar,220,08/02/1989,Alabama,WR,Julio Jones,,,Alabama,08/02/1989,True,True,,True
+37082,06-May,320,12/12/1990,Southern California,T,Tyron Smith,,,USC,12/12/1990,False,True,,True
+37083,06-Apr,235,15/10/1989,Missouri,QB,Blaine Gabbert,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+37084,06-May,288,22/03/1989,Wisconsin,DE,J.J. Watt,,,Wisconsin,22/03/1989,True,True,,True
+37087,06-Apr,257,18/05/1990,North Carolina,OLB,Robert Quinn,,,North Carolina,18/05/1990,True,True,,True
+37089,06-Apr,265,16/08/1988,Purdue,DE,Ryan Kerrigan,,,Purdue,16/08/1988,True,True,,True
+37090,06-Aug,325,12/04/1988,Colorado,T,Nate Solder,,,Colorado,12/04/1988,True,True,,True
+37097,06-Apr,287,10/07/1989,California,DE,Cameron Jordan,,,California,10/07/1989,True,True,,True
+37100,06-Feb,210,26/07/1988,Colorado,CB,Jimmy Smith,,,Colorado,26/07/1988,True,True,,True
+37101,05-Sep,215,21/12/1989,Alabama,RB,Mark Ingram,Mark Ingram II,,#N/A,#N/A,#N/A,#N/A,Mark Ingram II,Mark Ingram II
+37104,06-May,295,06/05/1989,Ohio State,DT,Cameron Heyward,,,Ohio State,06/05/1989,True,True,,True
+37110,06-Feb,220,29/10/1987,Texas Christian,QB,Andy Dalton,,,TCU,29/10/1987,False,True,,True
+37112,06-Mar,268,10/05/1989,Pittsburgh,DE,Jabaal Sheard,,,#N/A,#N/A,#N/A,#N/A,Tom Compton,Tom Compton
+37118,06-Jun,265,09/11/1989,Notre Dame,TE,Kyle Rudolph,,,Notre Dame,09/11/1989,True,True,,True
+37130,06-Feb,315,12/07/1989,Florida State,C,Rodney Hudson,,,Florida State,12/07/1989,True,True,,True
+37139,05-Oct,192,22/08/1990,Kentucky,WR,Randall Cobb,,,Kentucky,22/08/1990,True,True,,True
+37145,06-Mar,270,21/01/1989,Georgia,OLB,Justin Houston,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+37174,06-Apr,246,23/07/1989,Mississippi State,OLB,K.J. Wright,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+37179,06-May,253,17/07/1988,Tennessee,TE,Luke Stocker,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+37200,6-0,195,26/07/1988,Eastern Washington,RB,Taiwan Jones,,,Eastern Wash.,26/07/1988,False,True,,True
+37213,06-Jun,335,06/05/1988,Texas Christian,T,Marcus Cannon,,,TCU,06/05/1988,False,True,,True
+37229,06-Mar,195,30/03/1988,Stanford,CB,Richard Sherman,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+37234,06-Jun,265,21/11/1987,Marshall,TE,Lee Smith,,,Marshall,21/11/1987,True,True,,True
+37240,06-Mar,265,17/12/1988,Mississippi State,OLB,Pernell McPhee,,,Mississippi St.,17/12/1988,False,True,,True
+37255,06-Jan,215,03/08/1989,Virginia Tech,QB,Tyrod Taylor,,,Virginia Tech,03/08/1989,True,True,,True
+37266,06-Mar,295,05/11/1987,Cincinnati,C,Jason Kelce,,,Cincinnati,05/11/1987,True,True,,True
+37308,06-Apr,315,17/03/1990,Arizona State,DT,Lawrence Guy,,,Arizona St.,17/03/1990,False,True,,True
+37317,6-0,225,05/07/1989,Southern California,MLB,Malcolm Smith,,,USC,05/07/1989,False,True,,True
+37724,05-Oct,199,18/06/1989,Kansas,CB,Chris Harris,Chris Harris Jr,,#N/A,#N/A,#N/A,#N/A,Chris Harris Jr,Chris Harris Jr
+37737,06-Jan,210,24/10/1987,"Monmouth, N.J.",WR,Chris Hogan,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+37778,06-Jan,235,24/08/1989,Auburn,ILB,Josh Bynes,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+37792,06-Jan,250,12/05/1989,Central Michigan,LB,Nick Bellore,,,Central Michigan,12/05/1989,True,True,,True
+37841,06-Mar,260,06/09/1987,Troy,DE,Mario Addison,,,Troy,06/09/1987,True,True,,True
+38538,06-Apr,207,27/07/1988,Texas A&amp;M,QB,Ryan Tannehill,,,Texas AM,27/07/1988,False,True,,True
+38540,06-Jan,202,19/09/1990,South Carolina,CB,Stephon Gilmore,,,South Carolina,19/09/1990,True,True,,True
+38542,06-Apr,310,13/12/1990,Mississippi State,DT,Fletcher Cox,,,Mississippi St.,13/12/1990,False,True,,True
+38544,06-May,305,21/12/1990,Louisiana State,DE,Michael Brockers,,,LSU,21/12/1990,False,True,,True
+38547,06-Feb,190,26/10/1989,Alabama,CB,Dre Kirkpatrick,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+38548,06-Feb,247,26/04/1989,South Carolina,OLB,Melvin Ingram,,,#N/A,#N/A,#N/A,#N/A,Cole Beasley,Cole Beasley
+38551,06-May,265,27/02/1990,Syracuse,OLB,Chandler Jones,,,Syracuse,27/02/1990,True,True,,True
+38553,06-Jun,305,01/12/1988,Iowa,T,Riley Reiff,,,Iowa,01/12/1988,True,True,,True
+38555,06-Mar,260,12/03/1990,Alabama,OLB,Dont'a Hightower,,,Alabama,12/03/1990,True,True,,True
+38556,06-Apr,258,21/07/1990,Illinois,DE,Whitney Mercilus,,,Illinois,21/07/1990,True,True,,True
+38557,06-Apr,315,08/03/1990,Wisconsin,G,Kevin Zeitler,,,Wisconsin,08/03/1990,True,True,,True
+38559,06-Feb,214,02/02/1989,Notre Dame,SS,Harrison Smith,,,Notre Dame,02/02/1989,True,True,,True
+38569,05-Oct,190,29/10/1988,North Alabama,CB,Janoris Jenkins,,,N. Alabama,29/10/1988,False,True,,True
+38577,6-0,242,27/06/1990,Utah State,MLB,Bobby Wagner,,,Utah State,27/06/1990,True,True,,True
+38578,6-0,208,19/03/1990,Illinois,SS,Tavon Wilson,,,Illinois,19/03/1990,True,True,,True
+38588,06-Jan,233,23/01/1990,Nebraska,ILB,Lavonte David,,,Nebraska,23/01/1990,True,True,,True
+38592,05-Nov,192,09/09/1989,Vanderbilt,CB,Casey Hayward,Casey Hayward Jr,,#N/A,#N/A,#N/A,#N/A,Casey Hayward Jr,Casey Hayward Jr
+38605,05-Nov,215,29/11/1988,Wisconsin,QB,Russell Wilson,,,Wisconsin,29/11/1988,True,True,,True
+38606,06-May,335,19/08/1989,"Miami, O.",G,Brandon Brooks,,,Miami Univ.,19/08/1989,False,True,,True
+38607,06-Feb,248,11/01/1989,Arkansas State,ILB,Demario Davis,,,Arkansas St.,11/01/1989,False,True,,True
+38613,06-Feb,215,22/08/1989,Rutgers,WR,Mohamed Sanu,Mohamed Sanu Sr,,#N/A,#N/A,#N/A,#N/A,Mohamed Sanu Sr,Mohamed Sanu Sr
+38619,06-Apr,352,16/11/1989,"Regina, Can.",DT,Akiem Hicks,,,Regina,16/11/1989,False,True,,True
+38622,05-Oct,183,14/11/1989,Florida International,WR,T.Y. Hilton,,,FIU,14/11/1989,False,True,,True
+38629,06-Mar,308,02/07/1989,Georgia,C,Ben Jones,,,Georgia,02/07/1989,True,True,,True
+38630,05-Oct,175,29/12/1989,Miami,WR,Travis Benjamin,,,Miami,29/12/1989,True,True,,True
+38632,06-Mar,202,19/08/1988,Michigan State,QB,Kirk Cousins,,,Michigan St.,19/08/1988,False,True,,True
+38642,06-Jun,325,01/08/1989,Mississippi,T,Bobby Massie,,,Ole Miss,01/08/1989,False,True,,True
+38667,06-May,290,11/01/1990,Tennessee,DT,Malik Jackson,,,Tennessee,11/01/1990,True,True,,True
+38673,6-0,200,15/12/1987,Coastal Carolina,CB,Josh Norman,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+38681,06-Mar,300,10/05/1990,Washington,G,Senio Kelemete,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+38696,06-Feb,198,12/03/1990,California,WR,Marvin Jones,,,#N/A,#N/A,#N/A,#N/A,Dont'a Hightower,Dont'a Hightower
+38707,6-0,200,17/06/1990,Presbyterian,FS,Justin Bethel,,,Presbyterian,17/06/1990,True,True,,True
+38718,6-0,239,24/03/1990,Kentucky,ILB,Danny Trevathan,,,Kentucky,24/03/1990,True,True,,True
+38779,06-Mar,308,08/06/1989,Southern Methodist,T,Kelvin Beachum,Kelvin Beachum Jr,,#N/A,#N/A,#N/A,#N/A,Kelvin Beachum Jr,Kelvin Beachum Jr
+38843,05-Oct,195,23/06/1990,Virginia,FS,Rodney McLeod,Rodney McLeod Jr,,#N/A,#N/A,#N/A,#N/A,Rodney McLeod Jr,Rodney McLeod Jr
+38868,06-Jan,212,07/08/1990,Wyoming,FS,Tashaun Gipson,Tashaun Gipson Sr,,#N/A,#N/A,#N/A,#N/A,Tashaun Gipson Sr,Tashaun Gipson Sr
+38937,06-Jan,215,17/02/1988,Houston,QB,Case Keenum,,,Houston,17/02/1988,True,True,,True
+38947,05-Aug,174,26/04/1989,Southern Methodist,WR,Cole Beasley,,,SMU,26/04/1989,False,True,,True
+39008,06-Jan,230,02/09/1990,Wagner,OLB,Julian Stanford,,,Wagner College,02/09/1990,False,True,,True
+39109,06-Mar,240,25/07/1990,Beloit,TE,Derek Carrier,,,Beloit College,25/07/1990,False,True,,True
+39146,06-May,310,11/04/1989,Oregon State,T,Mike Remmers,,,Oregon State,11/04/1989,True,True,,True
+39212,05-Nov,220,26/01/1990,Mississippi,RB,Brandon Bolden,,,Ole Miss,26/01/1990,False,True,,True
+39646,06-Mar,225,13/04/1991,Utah,WR,Josh Gordon,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+39684,06-Mar,305,26/02/1990,Pennsylvania,G,Greg Van Roten,,,Penn,26/02/1990,False,True,,True
+39907,06-Jul,270,22/04/1986,California-Irvine,TE,Darren Fells,,,UC Irvine,22/04/1986,False,True,,True
+39908,06-Feb,220,02/04/1990,"California, Pa.",FS,Erik Harris,,,California,02/04/1990,False,True,,True
+39941,05-Oct,207,26/02/1990,Southern Methodist,FS,Chris Banjo,,,SMU,26/02/1990,False,True,,True
+39947,06-Jul,315,05/01/1991,Central Michigan,T,Eric Fisher,,,Central Michigan,05/01/1991,True,True,,True
+39950,06-Jun,317,08/05/1990,Oklahoma,T,Lane Johnson,,,Oklahoma,08/05/1990,True,True,,True
+39954,05-Aug,179,15/03/1990,West Virginia,WR,Tavon Austin,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+39959,06-Mar,294,29/11/1990,Missouri,DT,Sheldon Richardson,,,Missouri,29/11/1990,True,True,,True
+39960,06-Feb,318,20/12/1989,Utah,DT,Star Lotulelei,,,Utah,20/12/1989,True,True,,True
+39965,06-May,311,15/08/1990,Syracuse,G,Justin Pugh,,,Syracuse,15/08/1990,True,True,,True
+39968,6-0,190,10/09/1990,Washington,CB,Desmond Trufant,,,Washington,10/09/1990,True,True,,True
+39971,06-Jan,218,19/06/1990,Florida State,CB,Xavier Rhodes,,,Florida State,19/06/1990,True,True,,True
+39973,06-Jan,212,06/06/1992,Clemson,WR,DeAndre Hopkins,,,Clemson,06/06/1992,True,True,,True
+39975,06-Feb,238,17/03/1991,Tennessee,RB,Cordarrelle Patterson,,,Tennessee,17/03/1991,True,True,,True
+39976,06-Feb,235,25/09/1991,Georgia,ILB,Alec Ogletree,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+39983,06-May,250,10/11/1990,Stanford,TE,Zach Ertz,,,Stanford,10/11/1990,True,True,,True
+39984,6-0,190,01/01/1991,Mississippi State,CB,Darius Slay,Darius Slay Jr,,#N/A,#N/A,#N/A,#N/A,Darius Slay Jr,Darius Slay Jr
+39985,05-Sep,205,22/11/1991,North Carolina,RB,Giovani Bernard,,,North Carolina,22/11/1991,True,True,,True
+39987,06-Mar,221,10/10/1990,West Virginia,QB,Geno Smith,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+39989,6-0,193,10/04/1992,Southern California,WR,Robert Woods,,,USC,10/04/1992,False,True,,True
+39993,6-0,246,03/12/1990,Louisiana State,ILB,Kevin Minter,,,LSU,03/12/1990,False,True,,True
+39996,06-Jan,225,18/02/1992,Michigan State,RB,Le'Veon Bell,,,#N/A,#N/A,#N/A,#N/A,Jaquiski Tartt,Jaquiski Tartt
+39997,06-Mar,340,30/03/1992,Ohio State,NT,Johnathan Hankins,,,Ohio State,30/03/1992,True,True,,True
+39998,06-Jan,245,05/05/1991,Florida,OLB,Jon Bostic,,,Florida,05/05/1991,True,True,,True
+40000,06-Mar,255,20/10/1989,Southern Mississippi,OLB,Jamie Collins,,,Southern Miss,20/10/1989,False,True,,True
+40001,06-Aug,295,14/07/1987,Southern Methodist,DT,Margus Hunt,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+40008,05-Oct,186,01/11/1988,Southeastern Louisiana,CB,Robert Alford,,,SE Louisiana,01/11/1988,False,True,,True
+40011,06-May,260,05/10/1989,Cincinnati,TE,Travis Kelce,,,Cincinnati,05/10/1989,True,True,,True
+40017,05-Sep,190,13/05/1992,Louisiana State,SS,Tyrann Mathieu,,,LSU,13/05/1992,False,True,,True
+40020,06-Apr,320,10/07/1991,Kent State,G,Brian Winters,,,Kent State,16/07/1991,True,False,,False
+40021,06-Jul,225,12/12/1989,North Carolina State,QB,Mike Glennon,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+40023,06-May,304,23/07/1991,Arkansas-Pine Bluff,T,Terron Armstead,,,Arkansas P.B.,23/07/1991,False,True,,True
+40024,06-Feb,211,27/04/1992,California,WR,Keenan Allen,,,California,27/04/1992,True,True,,True
+40026,05-Sep,179,19/11/1990,Texas,WR,Marquise Goodwin,,,Texas,19/11/1990,True,True,,True
+40030,06-Mar,327,11/07/1989,Georgia,NT,John Jenkins,,,Georgia,11/07/1989,True,True,,True
+40031,05-Nov,195,09/02/1991,Rutgers,FS,Logan Ryan,,,Rutgers,09/02/1991,True,True,,True
+40039,06-Jan,205,24/01/1991,Rutgers,SS,Duron Harmon,,,Rutgers,24/01/1991,True,True,,True
+40042,06-Jan,336,21/02/1989,Missouri Southern,NT,Brandon Williams,,,Missouri So. State,21/02/1989,False,True,,True
+40051,06-Apr,260,08/02/1991,Texas,DE,Alex Okafor,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+40070,06-Apr,307,12/02/1991,Cornell,C,J.C. Tretter,JC Tretter,,#N/A,#N/A,#N/A,#N/A,JC Tretter,JC Tretter
+40074,06-Jun,281,31/07/1991,Michigan State,DE,William Gholston,,,Michigan St.,31/07/1991,False,True,,True
+40077,06-Feb,260,14/10/1990,Ohio State,DE,John Simon,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+40078,06-Jan,240,23/04/1991,Harvard,FB,Kyle Juszczyk,,,Harvard,23/04/1991,True,True,,True
+40089,06-May,315,05/06/1991,Virginia,G,Oday Aboushi,,,Virginia,05/06/1991,True,True,,True
+40092,06-Jan,202,22/04/1992,Oklahoma,WR,Kenny Stills,,,#N/A,#N/A,#N/A,#N/A,Eric Tomlinson,Eric Tomlinson
+40095,06-Mar,263,16/09/1990,Buffalo,OLB,Steven Means,,,Buffalo,16/09/1990,True,True,,True
+40096,06-Jan,240,30/07/1991,Iowa State,OLB,A.J. Klein,,,Iowa State,30/07/1991,True,True,,True
+40107,6-0,197,31/12/1990,Iowa,FS,Micah Hyde,,,Iowa,31/12/1990,True,True,,True
+40124,06-May,310,24/08/1990,San Jose State,G,David Quessenberry,,,San Jose St.,24/08/1990,False,True,,True
+40129,06-Mar,230,18/01/1990,Central Florida,RB,Latavius Murray,,,UCF,21/02/1991,False,False,,False
+40138,05-Oct,215,02/07/1990,Nebraska,RB,Rex Burkhead,,,Nebraska,02/07/1990,True,True,,True
+40149,06-Jun,255,11/01/1990,Connecticut,TE,Ryan Griffin,,,Connecticut,11/01/1990,True,True,,True
+40151,06-Apr,319,27/05/1991,Colorado State-Pueblo,C,Ryan Jensen,,,CSU-Pueblo,27/05/1991,False,True,,True
+40166,6-0,191,25/04/1991,Oregon State,SS,Jordan Poyer,,,Oregon State,25/04/1991,True,True,,True
+40171,06-Apr,309,21/02/1990,Samford,DE,Nicholas Williams,Nick Williams,,#N/A,#N/A,#N/A,#N/A,Nick Williams,Nick Williams
+40253,06-Mar,249,26/08/1990,Florida,DE,Lerentee McCray,,,Florida,26/08/1990,True,True,,True
+40347,06-Mar,328,20/04/1991,Wyoming,NT,Mike Purcell,,,Wyoming,20/04/1991,True,True,,True
+40353,06-Feb,196,02/10/1989,Northern Illinois,CB,Rashaan Melvin,,,N. Illinois,02/10/1989,False,True,,True
+40416,06-Apr,295,23/04/1991,Alabama-Birmingham,T,Christopher Hubbard,,,#N/A,#N/A,#N/A,#N/A,Kyle Juszczyk,Kyle Juszczyk
+40463,06-Mar,263,02/07/1991,Pennsylvania,OLB,Brandon Copeland,,,Penn,02/07/1991,False,True,,True
+40488,06-Feb,200,22/08/1990,Minn. State-Mankato,WR,Adam Thielen,,,Minnesota State,22/08/1990,False,True,,True
+40608,06-Feb,293,06/02/1989,Alabama,NT,Damion Square,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+40615,06-Jul,230,29/07/1991,Wisconsin-Milwaukee,TE,Demetrius Harris,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+40621,06-Jan,215,15/11/1990,Kansas,SS,Bradley McDougald,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+40641,06-Jun,262,05/05/1990,Western Kentucky,TE,Jack Doyle,,,W. Kentucky,05/05/1990,False,True,,True
+40688,6-0,191,16/08/1991,Central Florida,CB,A.J. Bouye,,,UCF,16/08/1991,False,True,,True
+40825,06-Mar,265,03/08/1991,Idaho,OLB,Benson Mayowa,,,Idaho,03/08/1991,True,True,,True
+41069,06-Feb,300,05/06/1989,Iowa,C,James Ferentz,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+41222,06-Sep,320,22/09/1988,Army,T,Alejandro Villanueva,,,Army,22/09/1988,True,True,,True
+41227,06-May,255,14/02/1993,South Carolina,DE,Jadeveon Clowney,,,South Carolina,14/02/1993,True,True,,True
+41230,06-Jan,211,14/06/1993,Clemson,WR,Sammy Watkins,,,Clemson,14/06/1993,True,True,,True
+41231,06-Mar,269,22/02/1991,Buffalo,OLB,Khalil Mack,,,Buffalo,22/02/1991,True,True,,True
+41232,06-May,309,11/02/1992,Texas A&amp;M,T,Jake Matthews,,,Texas AM,11/02/1992,False,True,,True
+41233,06-May,231,21/08/1993,Texas A&amp;M,WR,Mike Evans,,,Texas AM,21/08/1993,False,True,,True
+41235,06-May,255,18/03/1992,UCLA,OLB,Anthony Barr,,,UCLA,18/03/1992,True,True,,True
+41236,06-Apr,253,10/04/1993,North Carolina,TE,Eric Ebron,,,North Carolina,10/04/1993,True,True,,True
+41237,06-Jul,309,22/07/1991,Michigan,T,Taylor Lewan,,,Michigan,22/07/1991,True,True,,True
+41238,05-Nov,198,05/11/1992,Louisiana State,WR,Odell Beckham,Odell Beckham Jr,,#N/A,#N/A,#N/A,#N/A,Odell Beckham Jr,Odell Beckham Jr
+41239,06-Jan,280,23/05/1991,Pittsburgh,DT,Aaron Donald,,,Pittsburgh,23/05/1991,True,True,,True
+41240,05-Nov,194,16/02/1992,Virginia Tech,CB,Kyle Fuller,,,Virginia Tech,16/02/1992,True,True,,True
+41242,06-Apr,315,20/11/1990,Notre Dame,G,Zack Martin,,,Notre Dame,20/11/1990,True,True,,True
+41243,06-Feb,250,19/06/1992,Alabama,ILB,C.J. Mosley,,,Alabama,19/06/1992,True,True,,True
+41246,05-Oct,183,25/09/1993,Oregon State,WR,Brandin Cooks,,,Oregon State,25/09/1993,True,True,,True
+41249,06-Feb,252,19/03/1991,Auburn,DE,Dee Ford,,,Auburn,19/03/1991,True,True,,True
+41251,05-Oct,188,18/06/1991,Texas Christian,CB,Jason Verrett,,,TCU,18/06/1991,False,True,,True
+41256,05-Nov,193,18/07/1991,Northern Illinois,FS,Jimmie Ward,,,N. Illinois,18/07/1991,False,True,,True
+41257,05-Nov,194,01/05/1992,Ohio State,CB,Bradley Roby,,,Ohio State,01/05/1992,True,True,,True
+41258,06-Feb,215,10/11/1992,Louisville,QB,Teddy Bridgewater,,,Louisville,10/11/1992,True,True,,True
+41262,06-Apr,310,01/01/1991,UCLA,G,Xavier Su'a-Filo,,,UCLA,01/01/1991,True,True,,True
+41263,06-Mar,265,28/04/1992,Boise State,DE,Demarcus Lawrence,,,Boise State,28/04/1992,True,True,,True
+41264,06-Apr,320,11/10/1991,Nevada,G,Joel Bitonio,,,Nevada,11/10/1991,True,True,,True
+41265,06-Mar,210,28/03/1991,Fresno State,QB,Derek Carr,,,Fresno State,28/03/1991,True,True,,True
+41269,06-Mar,250,26/03/1991,Brigham Young,OLB,Kyle Van Noy,,,BYU,26/03/1991,False,True,,True
+41270,05-Aug,185,27/11/1990,Florida State,SS,Lamarcus Joyner,,,Florida State,27/11/1990,True,True,,True
+41279,06-Mar,252,17/01/1993,Georgia Tech,OLB,Jeremiah Attaochu,,,Georgia Tech,17/01/1993,True,True,,True
+41282,06-Jan,215,24/12/1992,Fresno State,WR,Davante Adams,,,Fresno State,24/12/1992,True,True,,True
+41286,6-0,229,20/09/1990,Ohio State,RB,Carlos Hyde,,,Ohio State,20/09/1990,True,True,,True
+41290,06-Feb,220,24/08/1993,Penn State,WR,Allen Robinson,Allen Robinson II,,#N/A,#N/A,#N/A,#N/A,Allen Robinson II,Allen Robinson II
+41291,06-Feb,225,02/11/1991,Eastern Illinois,QB,Jimmy Garoppolo,,,E. Illinois,02/11/1991,False,True,,True
+41292,05-Nov,196,28/11/1992,Louisiana State,WR,Jarvis Landry,,,LSU,28/11/1992,False,True,,True
+41293,06-Jun,315,29/05/1991,Missouri,C,Justin Britt,,,Missouri,29/05/1991,True,True,,True
+41295,06-Jun,330,03/03/1991,Virginia,T,Morgan Moses,,,Virginia,03/03/1991,True,True,,True
+41296,06-May,310,17/10/1991,North Dakota State,T,Billy Turner,,,North Dakota St.,17/10/1991,False,True,,True
+41300,06-Feb,235,31/08/1992,Iowa,OLB,Christian Kirksey,,,Iowa,31/08/1992,True,True,,True
+41308,05-Nov,205,02/03/1992,Florida State,SS,Terrence Brooks,,,Florida State,02/03/1992,True,True,,True
+41310,06-Mar,336,12/07/1991,Mississippi State,G,Gabe Jackson,,,Mississippi St.,12/07/1991,False,True,,True
+41320,05-Nov,179,03/04/1990,Pittsburg State,WR,John Brown,,,Pittsburg St.,03/04/1990,False,True,,True
+41321,06-Mar,315,14/06/1993,Louisiana State,G,Trai Turner,,,LSU,14/06/1993,False,True,,True
+41322,06-Jun,315,25/01/1992,Miami,G,Brandon Linder,,,Miami,25/01/1992,True,True,,True
+41324,06-Jun,301,15/11/1990,Michigan,G,Michael Schofield,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+41325,05-Sep,205,03/05/1992,Georgia Southern,RB,Jerick McKinnon,,,Ga. Southern,03/05/1992,False,True,,True
+41327,06-Apr,257,22/01/1992,California,TE,Richard Rodgers,,,California,22/01/1992,True,True,,True
+41331,05-Nov,195,30/01/1992,Clemson,CB,Bashaud Breeland,,,Clemson,30/01/1992,True,True,,True
+41332,05-Aug,206,15/03/1992,Florida State,RB,Devonta Freeman,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+41336,06-Feb,350,27/12/1990,Louisiana Tech,DT,Justin Ellis,,,LA. Tech,27/12/1990,False,True,,True
+41338,6-0,191,06/08/1991,Duke,CB,Ross Cockrell,,,Duke,06/08/1991,True,True,,True
+41341,06-Apr,322,27/12/1991,Penn State,DT,DaQuan Jones,,,Penn State,17/12/1991,True,False,,False
+41348,6-0,235,10/06/1992,Iowa,ILB,Anthony Hitchens,,,Iowa,10/06/1992,True,True,,True
+41349,06-Jun,250,01/07/1991,Virginia Tech,TE,Logan Thomas,,,Virginia Tech,01/07/1991,True,True,,True
+41356,06-Jan,192,08/09/1990,Lindenwood,CB,Pierre Desir,,,Lindenwood,08/09/1990,True,True,,True
+41358,06-Feb,200,01/12/1991,North Carolina State,CB,Dontae Johnson,,,N.C. State,01/12/1991,False,True,,True
+41359,05-Oct,205,03/02/1992,Wisconsin,RB,James White,,,Wisconsin,03/02/1992,True,True,,True
+41361,6-0,230,07/10/1991,Boston College,OLB,Kevin Pierre-Louis,,,Boston College,07/10/1991,True,True,,True
+41362,05-Sep,192,23/04/1991,Utah State,CB,Nevin Lawson,,,Utah State,23/04/1991,True,True,,True
+41363,06-Jul,300,05/05/1991,Virginia,DE,Brent Urban,,,Virginia,05/05/1991,True,True,,True
+41376,05-Sep,186,18/12/1991,Purdue,SS,Ricardo Allen,,,Purdue,18/12/1991,True,True,,True
+41387,06-Feb,292,23/11/1991,Princeton,DT,Caraun Reid,,,Princeton,23/11/1991,True,True,,True
+41390,06-Mar,301,27/07/1991,Ohio State,C,Corey Linsley,,,Ohio State,27/07/1991,True,True,,True
+41403,06-Mar,256,24/06/1991,Southern California,OLB,Devon Kennard,,,USC,24/06/1991,False,True,,True
+41436,06-Mar,300,12/10/1989,Boise State,C,Matt Paradis,,,Boise State,12/10/1989,True,True,,True
+41448,6-0,204,28/07/1990,Ohio,CB,T.J. Carrie,,,Ohio,28/07/1990,True,True,,True
+41449,06-May,310,25/02/1991,Connecticut,DE,Shamar Stephen,,,Connecticut,25/02/1991,True,True,,True
+41464,06-Feb,290,11/08/1991,Illinois State,DE,Shelby Harris,,,Illinois St.,11/08/1991,False,True,,True
+41475,06-Mar,305,09/10/1991,Boise State,T,Charles Leno,Charles Leno Jr,,#N/A,#N/A,#N/A,#N/A,Charles Leno Jr,Charles Leno Jr
+41483,05-Nov,190,17/05/1992,Oregon,CB,Terrance Mitchell,,,Oregon,27/05/1992,True,False,,False
+41500,05-Nov,205,17/10/1992,Ball State,WR,Willie Snead,Willie Snead IV,,#N/A,#N/A,#N/A,#N/A,Willie Snead IV,Willie Snead IV
+41502,06-Feb,208,05/03/1990,Brigham Young,FS,Daniel Sorensen,,,BYU,05/03/1990,False,True,,True
+41506,05-Sep,195,12/07/1992,Georgia State,WR,Albert Wilson,,,Georgia State,12/07/1992,True,True,,True
+41532,06-May,310,17/12/1991,North Carolina,T,James Hurst,,,North Carolina,17/12/1991,True,True,,True
+41563,06-Aug,328,18/07/1991,Kansas State,T,Cornelius Lucas,,,#N/A,#N/A,#N/A,#N/A,Jimmie Ward,Jimmie Ward
+41595,06-Apr,332,09/05/1991,Colorado State-Pueblo,NT,Mike Pennel,,,CSU-Pueblo,09/05/1991,False,True,,True
+41599,06-Jan,232,06/05/1991,South Carolina State,ILB,Joe Thomas,,,S.C. State,06/05/1991,False,True,,True
+41619,06-Mar,316,06/07/1992,Texas,C,Trey Hopkins,,,Texas,06/07/1992,True,True,,True
+41630,06-Mar,317,31/05/1992,Central Florida,C,Justin McCray,,,UCF,31/05/1992,False,True,,True
+41665,06-Mar,310,05/05/1991,Clemson,G,Tyler Shatley,,,Clemson,05/05/1991,True,True,,True
+41667,06-Jun,306,14/02/1991,James Madison,T,Josh Wells,,,J. Madison,14/02/1991,False,True,,True
+41707,06-Apr,325,08/07/1991,Utah State,C,Tyler Larsen,,,Utah State,08/07/1991,True,True,,True
+41712,05-Nov,224,03/04/1992,Oklahoma,RB,Damien Williams,,,Oklahoma,03/04/1992,True,True,,True
+41722,06-Jun,290,17/02/1991,Stanford,DE,Josh Mauro,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+41786,06-Feb,270,02/05/1991,Texas Tech,DE,Kerry Hyder,,,Texas Tech,02/05/1991,True,True,,True
+41808,6-0,240,08/04/1992,San Jose State,FB,Keith Smith,,,San Jose St.,08/04/1992,False,True,,True
+41915,06-Feb,250,17/11/1992,Colorado State,OLB,Shaquil Barrett,,,Colorado St.,17/11/1992,False,True,,True
+41919,06-Feb,334,29/08/1990,Delaware,DT,Zach Kerr,,,Delaware,29/08/1990,True,True,,True
+41939,06-Jun,325,25/10/1991,Ohio State,G,Andrew Norwell,,,Ohio State,25/10/1991,True,True,,True
+41947,06-Mar,250,18/02/1991,Florida State,ILB,Christian Jones,,,Florida State,18/02/1991,True,True,,True
+41959,06-Jun,330,07/07/1992,Bloomsburg,G,Matt Feiler,,,Bloomsburg,07/07/1992,True,True,,True
+42030,05-Sep,183,12/07/1991,Pittsburgh,CB,K'Waun Williams,,,Pittsburgh,12/07/1991,True,True,,True
+42031,06-May,285,15/07/1990,Mississippi State,DE,Denico Autry,,,Mississippi St.,15/07/1990,False,True,,True
+42033,06-May,245,03/07/1991,Harvard,TE,Cameron Brate,,,Harvard,03/07/1991,True,True,,True
+42051,05-Aug,170,19/03/1992,McNeese State,WR,Diontae Spencer,,,McNeese St.,19/03/1992,False,True,,True
+42116,05-Nov,210,28/03/1992,Texas,SS,Adrian Phillips,,,Texas,28/03/1992,True,True,,True
+42302,06-Jun,255,10/04/1992,Canisius,TE,Chris Manhertz,,,Canisius,10/04/1992,True,True,,True
+42331,06-Jun,265,13/04/1992,No College,DE,Efe Obada,,,No College,13/04/1992,True,True,,True
+42344,06-Apr,231,06/01/1994,Florida State,QB,Jameis Winston,,,Florida State,06/01/1994,True,True,,True
+42346,06-Mar,255,03/08/1994,Florida,OLB,Dante Fowler,Younghoe Koo,,#N/A,#N/A,#N/A,#N/A,Younghoe Koo,Younghoe Koo
+42347,06-Jan,211,17/06/1994,Alabama,WR,Amari Cooper,,,Alabama,17/06/1994,True,True,,True
+42348,06-May,315,26/12/1991,Iowa,G,Brandon Scherff,,,Iowa,26/12/1991,True,True,,True
+42349,06-May,302,20/06/1994,Southern California,DT,Leonard Williams,,,USC,20/06/1994,False,True,,True
+42350,06-Mar,216,25/06/1992,West Virginia,WR,Kevin White,,,West Virginia,25/06/1992,True,True,,True
+42352,06-Jun,329,25/04/1994,Miami,G,Ereck Flowers,,,Miami,25/04/1994,True,True,,True
+42354,6-0,190,25/07/1992,Michigan State,CB,Trae Waynes,,,Michigan St.,25/07/1992,False,True,,True
+42355,06-Feb,345,20/08/1993,Washington,NT,Danny Shelton,,,Washington,20/08/1993,True,True,,True
+42356,06-Jul,316,04/11/1993,Stanford,G,Andrus Peat,,,Stanford,04/11/1993,True,True,,True
+42357,06-Mar,216,20/01/1993,Louisville,WR,DeVante Parker,,,Louisville,20/01/1993,True,True,,True
+42358,06-Jan,215,13/04/1993,Wisconsin,RB,Melvin Gordon,Trent Brown,,#N/A,#N/A,#N/A,#N/A,Trent Brown,Trent Brown
+42360,06-Jul,292,15/11/1993,Oregon,DE,Arik Armstead,,,Oregon,15/11/1993,True,True,,True
+42362,06-May,313,23/08/1992,Florida State,T,Cameron Erving,,,Florida State,23/08/1992,True,True,,True
+42363,6-0,198,24/05/1993,Southern California,WR,Nelson Agholor,,,USC,24/05/1993,False,True,,True
+42364,06-May,310,25/04/1992,Texas A&amp;M,T,Cedric Ogbuehi,,,Texas AM,25/04/1992,False,True,,True
+42365,06-Apr,269,12/02/1993,Kentucky,OLB,Bud Dupree,,,Kentucky,12/02/1993,True,True,,True
+42367,06-May,307,28/12/1993,Florida,T,D.J. Humphries,,,Florida,28/12/1993,True,True,,True
+42368,6-0,230,21/04/1994,Washington,OLB,Shaq Thompson,,,Washington,21/04/1994,True,True,,True
+42370,6-0,205,26/09/1992,Connecticut,CB,Byron Jones,,,Connecticut,26/09/1992,True,True,,True
+42371,06-Mar,312,09/02/1992,Duke,G,Laken Tomlinson,,,Duke,09/02/1992,True,True,,True
+42372,05-Oct,192,05/01/1993,Miami,WR,Phillip Dorsett,Phillip Dorsett II,,#N/A,#N/A,#N/A,#N/A,Phillip Dorsett II,Phillip Dorsett II
+42375,06-Feb,320,02/02/1994,Texas,DT,Malcom Brown,,,Texas,02/02/1994,True,True,,True
+42376,6-0,218,10/01/1994,Alabama,SS,Landon Collins,,,Alabama,10/01/1994,True,True,,True
+42377,06-Jun,338,23/06/1993,Penn State,T,Donovan Smith,,,Penn State,23/06/1993,True,True,,True
+42378,06-Mar,280,25/01/1994,Florida State,DT,Mario Edwards,,,#N/A,#N/A,#N/A,#N/A,Rayshawn Jenkins,Rayshawn Jenkins
+42380,06-Jan,199,03/03/1992,Ohio State,WR,Devin Smith,,,Ohio State,03/03/1992,True,True,,True
+42381,06-May,265,17/11/1992,Mississippi State,OLB,Preston Smith,,,Mississippi St.,17/11/1992,False,True,,True
+42382,06-Mar,320,06/01/1994,Florida State,NT,Eddie Goldman,,,Florida State,06/01/1994,True,True,,True
+42386,06-Apr,257,19/11/1992,Mississippi State,ILB,Benardrick McKinney,,,Mississippi St.,19/11/1992,False,True,,True
+42388,6-0,232,29/02/1992,UCLA,ILB,Eric Kendricks,,,UCLA,29/02/1992,True,True,,True
+42389,06-Jan,215,12/02/1992,Samford,SS,Jaquiski Tartt,,,Samford,18/02/1992,True,False,,False
+42390,06-Jan,205,03/10/1992,Utah,SS,Eric Rowe,,,Utah,03/10/1992,True,True,,True
+42391,05-Nov,240,05/12/1992,Miami,ILB,Denzel Perryman,,,Miami,05/12/1992,True,True,,True
+42392,06-Jun,305,21/04/1992,Missouri,C,Mitch Morse,,,Missouri,21/04/1992,True,True,,True
+42393,05-Nov,193,02/01/1994,Florida State,CB,Ronald Darby,,,Florida State,02/01/1994,True,True,,True
+42395,06-Jun,341,21/09/1992,Oklahoma,DE,Jordan Phillips,,,Oklahoma,21/09/1992,True,True,,True
+42397,05-Sep,203,13/06/1993,Nebraska,RB,Ameer Abdullah,,,Nebraska,13/06/1993,True,True,,True
+42398,06-Apr,252,12/04/1994,Minnesota,TE,Maxx Williams,,,Minnesota,12/04/1994,True,True,,True
+42400,06-Aug,328,13/05/1992,Wisconsin,T,Rob Havenstein,,,Wisconsin,13/05/1992,True,True,,True
+42401,06-Mar,260,13/03/1991,Missouri,OLB,Markus Golden,,,Missouri,13/03/1991,True,True,,True
+42402,06-May,315,10/03/1992,Colorado State,T,Ty Sambrailo,,,Colorado St.,10/03/1992,False,True,,True
+42403,06-May,255,23/11/1992,Nebraska,DE,Randy Gregory,,,Nebraska,23/11/1992,True,True,,True
+42404,06-Apr,307,17/04/1993,Hobart,G,Ali Marpet,,,Hobart,17/04/1993,True,True,,True
+42406,06-Mar,260,14/06/1993,Michigan,DE,Frank Clark,,,Michigan,14/06/1993,True,True,,True
+42410,06-Mar,325,03/10/1991,South Carolina,G,A.J. Cann,,,South Carolina,23/10/1991,True,False,,False
+42412,05-Oct,182,28/09/1992,Kansas State,WR,Tyler Lockett,,,Kansas State,28/09/1992,True,True,,True
+42416,06-Jan,210,16/04/1993,Indiana,RB,Tevin Coleman,,,Indiana,16/04/1993,True,True,,True
+42419,06-Mar,205,25/10/1992,Georgia,WR,Chris Conley,,,Georgia,25/10/1992,True,True,,True
+42421,6-0,196,01/06/1993,Florida State,CB,P.J. Williams,,,Florida State,01/06/1993,True,True,,True
+42424,06-Mar,315,12/08/1993,Louisville,G,John Miller,,,Louisville,12/08/1993,True,True,,True
+42427,06-Jan,236,27/06/1992,Texas,ILB,Jordan Hicks,,,Texas,27/06/1992,True,True,,True
+42428,06-Jun,250,15/10/1992,Rutgers,TE,Tyler Kroft,,,Rutgers,15/10/1992,True,True,,True
+42429,06-Jan,224,16/12/1991,Northern Iowa,RB,David Johnson,,,Northern Iowa,16/12/1991,True,True,,True
+42431,06-May,252,29/10/1994,Louisiana State,DE,Danielle Hunter,,,LSU,29/10/1994,False,True,,True
+42433,06-May,320,02/03/1992,Iowa,NT,Carl Davis,,,Iowa,02/03/1992,True,True,,True
+42436,06-Jun,301,03/08/1991,Stanford,DE,Henry Anderson,,,Stanford,03/08/1991,True,True,,True
+42437,6-0,216,22/01/1993,Stanford,WR,Ty Montgomery,,,#N/A,#N/A,#N/A,#N/A,Quandre Diggs,Quandre Diggs
+42441,05-Nov,194,22/01/1993,Oregon State,CB,Steven Nelson,,,#N/A,#N/A,#N/A,#N/A,Quandre Diggs,Quandre Diggs
+42443,06-Apr,318,14/11/1992,Auburn,DT,Angelo Blackson,,,Auburn,14/11/1992,True,True,,True
+42444,06-Feb,265,16/08/1993,Arkansas,OLB,Trey Flowers,,,Arkansas,16/08/1993,True,True,,True
+42445,06-Jun,330,31/08/1992,Oklahoma,T,Daryl Williams,,,Oklahoma,31/08/1992,True,True,,True
+42448,05-Sep,177,17/06/1993,Duke,WR,Jamison Crowder,,,Duke,17/06/1993,True,True,,True
+42460,06-Jun,252,07/08/1991,Oklahoma,TE,Blake Bell,,,Oklahoma,07/08/1991,True,True,,True
+42465,06-Apr,272,08/09/1992,Kentucky,OLB,Za'Darius Smith,,,Kentucky,08/09/1992,True,True,,True
+42467,06-Jan,227,03/08/1994,Louisiana State,OLB,Kwon Alexander,,,#N/A,#N/A,#N/A,#N/A,Younghoe Koo,Younghoe Koo
+42469,05-Sep,221,19/02/1993,South Carolina,RB,Mike Davis,,,South Carolina,19/02/1993,True,True,,True
+42470,6-0,243,28/05/1993,Minnesota,OLB,Damien Wilson,,,Minnesota,28/05/1993,True,True,,True
+42471,06-Apr,323,10/02/1992,Miami,G,Jon Feliciano,,,Miami,10/02/1992,True,True,,True
+42474,06-Jan,310,28/08/1993,Georgia Tech,G,Shaquille Mason,Shaq Mason,,#N/A,#N/A,#N/A,#N/A,Shaq Mason,Shaq Mason
+42476,06-Apr,309,09/11/1991,Florida,C,Max Garcia,,,Florida,09/11/1991,True,True,,True
+42477,06-Apr,310,03/05/1992,West Virginia,G,Mark Glowinski,,,West Virginia,03/05/1992,True,True,,True
+42480,6-0,305,28/04/1993,Clemson,DT,Grady Jarrett,,,Clemson,28/04/1993,True,True,,True
+42485,6-0,214,29/04/1993,Penn State,FS,Adrian Amos,,,Penn State,29/04/1993,True,True,,True
+42486,06-Feb,243,24/03/1992,Southern Illinois,TE,MyCole Pruitt,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+42488,05-Nov,192,18/08/1993,Memphis,CB,Bobby McCain,,,Memphis,18/08/1993,True,True,,True
+42489,6-0,191,29/11/1993,Maryland,WR,Stefon Diggs,,,Maryland,29/11/1993,True,True,,True
+42497,06-Feb,309,03/09/1992,Fresno State,DT,Tyeler Davison,,,Fresno State,03/09/1992,True,True,,True
+42500,06-Jun,260,14/01/1993,Auburn,TE,C.J. Uzomah,,,Auburn,14/01/1993,True,True,,True
+42503,06-Jul,250,04/06/1994,Penn State,TE,Jesse James,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+42511,6-0,240,01/02/1992,Rutgers,FB,Michael Burton,,,Rutgers,01/02/1992,True,True,,True
+42512,06-Feb,245,08/08/1993,Texas State,OLB,David Mayo,,,Texas State,18/08/1993,True,False,,False
+42516,06-Apr,245,14/01/1992,Illinois State,TE,James O'Shaughnessy,,,Illinois St.,14/01/1992,False,True,,True
+42535,06-Jan,300,01/22/1994,Arkansas,DT,Darius Philon,,,Arkansas,22/01/1994,True,False,,False
+42543,05-Sep,197,22/01/1993,Texas,FS,Quandre Diggs,,,Texas,22/01/1993,True,True,,True
+42547,06-Jun,255,13/09/1992,Georgia Tech,TE,Darren Waller,,,Georgia Tech,13/09/1992,True,True,,True
+42553,06-Jan,298,03/10/1992,Louisiana-Lafayette,DT,Christian Ringo,,,UL Lafayette,10/03/1992,False,False,,False
+42559,06-Feb,305,16/10/1993,Rice,NT,Christian Covington,,,Rice,16/10/1993,True,True,,True
+42560,06-Feb,307,03/07/1993,Southern Mississippi,DT,Rakeem Nunez-Roches,,,Southern Miss,03/07/1993,False,True,,True
+42565,06-Mar,300,27/11/1991,South Florida,C,Austin Reiter,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+42569,06-May,310,21/08/1994,Florida State,T,Bobby Hart,,,Florida State,21/08/1994,True,True,,True
+42587,06-Aug,380,13/04/1993,Florida,T,Trenton Brown,Trent Brown,,#N/A,#N/A,#N/A,#N/A,Trent Brown,Trent Brown
+42589,06-Apr,260,16/09/1993,Texas,TE,Geoff Swaim,,,Texas,16/09/1993,True,True,,True
+42593,06-Mar,220,26/12/1991,Northwestern,QB,Trevor Siemian,,,#N/A,#N/A,#N/A,#N/A,Brandon Scherff,Brandon Scherff
+42598,06-May,340,08/03/1991,Mars Hill,G,Denzelle Good,,,Mars Hill,08/03/1991,True,True,,True
+42654,06-Apr,320,26/07/1993,Louisiana State,T,La'el Collins,,,LSU,26/07/1993,False,True,,True
+42667,06-Feb,315,27/07/1993,Louisiana-Lafayette,DT,Justin Hamilton,,,UL Lafayette,27/07/1993,False,True,,True
+42718,05-Oct,197,09/04/1992,Purdue,RB,Raheem Mostert,,,Purdue,09/04/1992,True,True,,True
+42721,06-Jun,263,22/04/1992,Texas-El Paso,TE,Eric Tomlinson,,,UTEP,22/04/1992,False,True,,True
+42765,06-Apr,320,22/07/1992,Minn. State-Mankato,G,Chris Reed,,,Minnesota State,22/07/1992,False,True,,True
+42771,06-Feb,234,06/04/1993,Marshall,ILB,Neville Hewitt,,,Marshall,06/04/1993,True,True,,True
+42794,05-Aug,190,10/04/1993,Sacramento State,WR,DeAndre Carter,,,#N/A,#N/A,#N/A,#N/A,Eric Ebron,Eric Ebron
+42810,06-Apr,318,26/10/1991,Kansas State,C,B.J. Finney,,,Kansas State,26/10/1991,True,True,,True
+42816,05-Nov,184,29/08/1991,Oregon,CB,Troy Hill,,,Oregon,29/08/1991,True,True,,True
+42818,06-Apr,209,17/02/1992,Wisconsin-Whitewater,WR,Jake Kumerow,,,Wisc-Whitewater,17/02/1992,False,True,,True
+42826,06-Jan,292,29/12/1992,Clemson,DT,DeShawn Williams,,,Clemson,29/12/1992,True,True,,True
+42827,05-Nov,190,27/03/1993,Tennessee,CB,Justin Coleman,,,Tennessee,27/03/1993,True,True,,True
+42830,06-Jan,202,09/10/1991,Virginia,FS,Anthony Harris,,,Virginia,04/06/1992,True,False,,False
+42831,06-Jan,210,03/15/1993,Old Dominion,QB,Taylor Heinicke,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+42837,05-Nov,222,15/05/1993,Texas,RB,Malcolm Brown,,,Texas,15/05/1993,True,True,,True
+42869,06-Jan,254,27/06/1993,Stanford,OLB,James Vaughters,,,Stanford,27/06/1993,True,True,,True
+42883,06-Mar,300,10/07/1992,Georgia,C,David Andrews,,,Georgia,10/07/1992,True,True,,True
+42887,06-Feb,220,08/06/1993,Auburn,OLB,Brandon King,,,#N/A,#N/A,#N/A,#N/A,Joel Heath,Joel Heath
+42899,05-Sep,180,27/01/1993,South Carolina,WR,Damiere Byrd,,,South Carolina,27/01/1993,True,True,,True
+42901,06-Jan,208,25/07/1992,James Madison,SS,Dean Marlowe,,,J. Madison,25/07/1992,False,True,,True
+42924,06-Jun,325,15/09/1991,Idaho,T,Jesse Davis,,,Idaho,15/09/1991,True,True,,True
+42929,06-Feb,242,07/12/1993,Montana State,OLB,Alex Singleton,,,Montana State,07/12/1993,True,True,,True
+42935,05-Sep,188,23/10/1991,Rice,CB,Bryce Callahan,,,Rice,23/10/1991,True,True,,True
+42952,06-May,310,05/06/1992,Appalachian State,T,Kendall Lamm,,,Appalach. St.,05/06/1992,False,True,,True
+42954,06-Apr,310,23/04/1992,Toledo,C,Greg Mancz,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+43010,05-Nov,195,24/06/1993,Clemson,WR,Adam Humphries,,,Clemson,24/06/1993,True,True,,True
+43045,06-Apr,330,07/08/1991,West Virginia,G,Quinton Spain,,,West Virginia,07/08/1991,True,True,,True
+43062,06-Jan,240,15/08/1991,Cal Poly,ILB,Nick Dzubnar,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+43079,06-May,247,26/05/1992,James Madison,TE,Daniel Brown,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+43090,06-Apr,205,12/02/1992,Western Oregon,WR,Tyrell Williams,,,Western Oregon,12/02/1992,True,True,,True
+43206,06-Jun,248,09/01/1993,Penn State,TE,Ross Travis,Marcus Peters,,#N/A,#N/A,#N/A,#N/A,Marcus Peters,Marcus Peters
+43290,06-Apr,223,14/10/1994,California,QB,Jared Goff,,,California,14/10/1994,True,True,,True
+43291,06-May,237,30/12/1992,North Dakota State,QB,Carson Wentz,,,North Dakota St.,30/12/1992,False,True,,True
+43292,06-May,280,11/07/1995,Ohio State,OLB,Joey Bosa,,,Ohio State,11/07/1995,True,True,,True
+43293,6-0,228,22/07/1995,Ohio State,RB,Ezekiel Elliott,,,Ohio State,22/07/1995,True,True,,True
+43294,06-Jan,208,24/10/1994,Florida State,CB,Jalen Ramsey,,,Florida State,24/10/1994,True,True,,True
+43295,06-Jun,315,18/03/1994,Notre Dame,T,Ronnie Stanley,,,Notre Dame,18/03/1994,True,True,,True
+43296,06-Jul,300,17/03/1994,Oregon,DT,DeForest Buckner,,,Oregon,17/03/1994,True,True,,True
+43297,06-Jun,308,17/08/1994,Michigan State,T,Jack Conklin,,,Michigan St.,17/08/1994,False,True,,True
+43298,06-May,240,08/09/1992,Georgia,OLB,Leonard Floyd,,,Georgia,08/09/1992,True,True,,True
+43299,06-Jan,203,09/08/1995,Ohio State,CB,Eli Apple,,,Ohio State,09/08/1995,True,True,,True
+43300,05-Oct,204,03/06/1995,Florida,CB,Vernon Hargreaves,Vernon Hargreaves III,,#N/A,#N/A,#N/A,#N/A,Vernon Hargreaves III,Vernon Hargreaves III
+43301,06-Feb,305,02/04/1994,Louisville,DT,Sheldon Rankins,,,Louisville,02/04/1994,True,True,,True
+43302,06-May,313,02/08/1994,Mississippi,T,Laremy Tunsil,,,Ole Miss,02/08/1994,False,True,,True
+43303,05-Oct,200,08/09/1993,West Virginia,SS,Karl Joseph,,,West Virginia,08/09/1993,True,True,,True
+43306,06-Jan,216,26/07/1995,Florida,MLB,Keanu Neal,,,Florida,26/07/1995,True,True,,True
+43307,06-Apr,309,30/05/1993,Alabama,C,Ryan Kelly,,,Alabama,30/05/1993,True,True,,True
+43308,06-Mar,267,17/06/1994,Clemson,DE,Shaq Lawson,,,Clemson,17/06/1994,True,True,,True
+43310,6-0,184,16/04/1994,Notre Dame,WR,Will Fuller,Will Fuller V,,#N/A,#N/A,#N/A,#N/A,Will Fuller V,Will Fuller V
+43312,06-Feb,215,14/06/1995,Mississippi,WR,Laquon Treadwell,,,#N/A,#N/A,#N/A,#N/A,Jaylon Smith,Jaylon Smith
+43313,6-0,196,27/10/1992,Houston,CB,William Jackson,William Jackson III,,#N/A,#N/A,#N/A,#N/A,William Jackson III,William Jackson III
+43316,06-Mar,314,04/10/1995,UCLA,NT,Kenny Clark,,,UCLA,04/10/1995,True,True,,True
+43318,06-Apr,296,09/19/1994,Mississippi,DT,Robert Nkemdiche,,,Ole Miss,19/09/1994,False,False,,False
+43319,06-Apr,330,14/06/1994,Louisiana Tech,DT,Vernon Butler,Vernon Butler Jr,,#N/A,#N/A,#N/A,#N/A,Vernon Butler Jr,Vernon Butler Jr
+43320,06-May,325,02/06/1994,Texas A&amp;M,T,Germain Ifedi,,,Texas AM,02/06/1994,False,True,,True
+43321,06-Apr,275,06/11/1993,Oklahoma State,DE,Emmanuel Ogbah,,,Oklahoma St.,06/11/1993,False,True,,True
+43323,06-Feb,245,14/06/1995,Notre Dame,MLB,Jaylon Smith,,,Notre Dame,14/06/1995,True,True,,True
+43324,06-May,250,07/12/1994,Arkansas,TE,Hunter Henry,,,Arkansas,07/12/1994,True,True,,True
+43325,06-Jan,244,03/09/1995,UCLA,MLB,Myles Jack,,,UCLA,03/09/1995,True,True,,True
+43326,06-Jun,308,03/07/1994,Mississippi State,DT,Chris Jones,,,Mississippi St.,03/07/1994,False,True,,True
+43327,06-Jan,200,04/07/1993,Baylor,CB,Xavien Howard,,,Baylor,04/07/1993,True,True,,True
+43329,05-Oct,201,10/02/1993,Oklahoma,WR,Sterling Shepard,,,Oklahoma,10/02/1993,True,True,,True
+43330,06-Feb,252,23/09/1993,Alabama,ILB,Reggie Ragland,,,Alabama,24/09/1993,True,False,,False
+43332,06-Apr,314,08/05/1994,Penn State,NT,Austin Johnson,,,Penn State,08/05/1994,True,True,,True
+43333,06-May,287,11/05/1994,Illinois,OLB,Jihad Ward,,,Illinois,11/03/1994,True,False,,False
+43334,06-Mar,247,04/01/1994,Alabama,RB,Derrick Henry,,,Alabama,04/01/1994,True,True,,True
+43335,06-Apr,330,21/03/1995,Alabama,DT,A'Shawn Robinson,,,Alabama,21/03/1995,True,True,,True
+43337,06-Jun,301,17/05/1994,Indiana,T,Jason Spriggs,,,#N/A,#N/A,#N/A,#N/A,Alex Armah Jr,Alex Armah Jr
+43338,06-Mar,306,16/12/1992,Alabama,DT,Jarran Reed,,,Alabama,16/12/1993,True,False,,False
+43341,06-Jan,227,04/11/1994,Louisiana State,ILB,Deion Jones,,,LSU,04/11/1994,False,True,,True
+43343,05-Oct,192,12/11/1993,Clemson,CB,Mackensie Alexander,,,Clemson,12/11/1993,True,True,,True
+43344,06-Feb,203,15/11/1994,Pittsburgh,WR,Tyler Boyd,,,Pittsburgh,15/11/1994,True,True,,True
+43345,06-Mar,309,11/07/1992,Kansas State,G,Cody Whitehair,,,Kansas State,11/07/1992,True,True,,True
+43346,06-Mar,215,15/03/1995,Clemson,CB,T.J. Green,,,Clemson,15/03/1995,True,True,,True
+43347,06-Jan,202,23/10/1993,Maryland,FS,Sean Davis,,,Maryland,23/10/1993,True,True,,True
+43350,05-Nov,205,12/12/1994,Ohio State,SS,Vonn Bell,,,Ohio State,12/12/1994,True,True,,True
+43351,06-Jan,212,04/08/1993,Samford,CB,James Bradberry,James Bradberry IV,,#N/A,#N/A,#N/A,#N/A,James Bradberry IV,James Bradberry IV
+43352,06-Apr,287,23/09/1992,Georgia Tech,DE,Adam Gotsis,,,Georgia Tech,23/09/1992,True,True,,True
+43353,05-Nov,212,17/08/1993,Middle Tennessee,FS,Kevin Byard,,,Mid Tenn St.,17/08/1993,False,True,,True
+43354,06-Jul,275,12/04/1993,Penn State,DE,Carl Nassib,,,Penn State,12/04/1993,True,True,,True
+43356,06-Feb,308,08/04/1995,Nebraska,DT,Maliek Collins,,,Nebraska,08/04/1995,True,True,,True
+43358,06-Feb,246,31/03/1995,Maryland,DE,Yannick Ngakoue,,,Maryland,31/03/1995,True,True,,True
+43361,06-Mar,296,22/10/1993,Florida,DE,Jonathan Bullard,,,Florida,22/10/1993,True,True,,True
+43362,06-Jan,211,26/01/1994,Alabama,RB,Kenyan Drake,,,Alabama,26/01/1994,True,True,,True
+43366,06-Jan,215,22/02/1995,West Virginia,CB,Daryl Worley,,,#N/A,#N/A,#N/A,#N/A,Kaleb McGary,Kaleb McGary
+43367,06-May,308,18/11/1992,North Carolina State,G,Joe Thuney,,,N.C. State,18/11/1992,False,True,,True
+43368,06-Apr,303,29/10/1993,Oregon State,G,Isaac Seumalo,,,Oregon State,29/10/1993,True,True,,True
+43370,06-Apr,254,29/10/1994,Stanford,TE,Austin Hooper,,,Stanford,29/10/1994,True,True,,True
+43372,06-Mar,259,01/07/1994,Georgia,DE,Jordan Jenkins,,,Georgia,01/07/1994,True,True,,True
+43373,05-Nov,198,13/02/1995,Virginia Tech,CB,Kendall Fuller,,,Virginia Tech,13/02/1995,True,True,,True
+43376,06-Feb,235,20/08/1993,Utah State,OLB,Nick Vigil,,,Utah State,20/08/1993,True,True,,True
+43377,06-May,245,25/11/1991,Utah State,OLB,Kyler Fackrell,,,Utah State,25/11/1991,True,True,,True
+43378,06-Feb,305,07/02/1993,South Carolina State,DT,Javon Hargrave,,,S.C. State,07/02/1993,False,True,,True
+43380,06-Apr,235,11/12/1992,North Carolina State,QB,Jacoby Brissett,,,N.C. State,11/12/1992,False,True,,True
+43384,06-Jun,310,19/08/1992,Michigan,G,Graham Glasgow,,,Michigan,19/08/1992,True,True,,True
+43387,06-Feb,202,19/11/1993,Boston College,FS,Justin Simmons,,,Boston College,19/11/1993,True,True,,True
+43388,06-Jan,245,06/11/1993,Wisconsin,ILB,Joe Schobert,,,Wisconsin,06/11/1993,True,True,,True
+43392,06-Jan,294,01/07/1994,Notre Dame,DT,Sheldon Day,,,Notre Dame,01/07/1994,True,True,,True
+43393,05-Sep,185,14/03/1994,Temple,CB,Tavon Young,,,Temple,14/03/1994,True,True,,True
+43395,05-Nov,199,07/01/1994,Minnesota,FS,Eric Murray,,,Minnesota,07/01/1994,True,True,,True
+43396,06-Jan,200,16/06/1993,Cincinnati,WR,Chris Moore,,,Cincinnati,16/06/1993,True,True,,True
+43397,05-Nov,190,07/09/1993,North Carolina Central,CB,Ryan Smith,,,NC Central,07/09/1993,False,True,,True
+43399,06-Jun,257,01/01/1993,Western Kentucky,TE,Tyler Higbee,,,W. Kentucky,01/01/1993,False,True,,True
+43400,06-Feb,222,10/05/1993,Southern Utah,FS,Miles Killebrew,,,Southern Utah,10/05/1993,True,True,,True
+43402,06-Feb,242,26/05/1993,West Virginia,ILB,Nick Kwiatkoski,,,West Virginia,26/05/1993,True,True,,True
+43404,06-Apr,232,01/07/1993,Minnesota,ILB,De'Vondre Campbell,,,Minnesota,01/07/1993,True,True,,True
+43405,06-Mar,305,02/11/1994,Texas,DT,Hassan Ridgeway,,,Texas,02/11/1994,True,True,,True
+43407,6-0,212,04/08/1993,North Carolina State,SS,Juston Burris,,,N.C. State,04/08/1993,False,True,,True
+43409,06-Apr,300,13/11/1992,"Manitoba, Can.",DT,David Onyemata,,,Manitoba,13/11/1992,False,True,,True
+43411,06-Jan,328,06/03/1995,Baylor,DT,Andrew Billings,,,Baylor,06/03/1995,True,True,,True
+43413,6-0,200,14/08/1993,Miami,SS,Deon Bush,,,Miami,14/08/1993,True,True,,True
+43415,06-Jan,203,21/09/1994,Florida,WR,Demarcus Robinson,,,Florida,21/09/1994,True,True,,True
+43420,06-Feb,237,09/01/1994,Stanford,ILB,Blake Martinez,,,Stanford,09/01/1994,True,True,,True
+43422,06-Jan,177,23/07/1995,Louisiana State,CB,Rashard Robinson,,,LSU,23/07/1995,False,True,,True
+43424,06-Feb,238,29/07/1993,Mississippi State,QB,Dak Prescott,,,Mississippi St.,29/07/1993,False,True,,True
+43425,05-Nov,219,27/05/1992,Utah,RB,Devontae Booker,,,Utah,27/05/1992,True,True,,True
+43426,06-Jun,296,09/06/1994,Northwestern,DE,Dean Lowry,,,Northwestern,09/06/1994,True,True,,True
+43429,06-Feb,194,23/12/1994,Massachusetts,WR,Tajae Sharpe,,,Massachusetts,23/12/1994,True,True,,True
+43433,06-Apr,306,27/04/1993,Missouri,C,Connor McGovern,,,Missouri,27/04/1993,True,True,,True
+43435,06-Mar,261,15/08/1992,Grand Valley State,OLB,Matt Judon,Matthew Judon,,#N/A,#N/A,#N/A,#N/A,Matthew Judon,Matthew Judon
+43436,06-Apr,291,31/03/1993,Maryland,DT,Quinton Jefferson,,,Maryland,31/03/1993,True,True,,True
+43439,6-0,224,02/11/1994,Indiana,RB,Jordan Howard,,,Indiana,02/11/1994,True,True,,True
+43441,06-Mar,310,11/01/1994,Temple,DT,Matt Ioannidis,Matthew Ioannidis,,#N/A,#N/A,#N/A,#N/A,Matthew Ioannidis,Matthew Ioannidis
+43444,06-Jun,298,11/03/1993,North Dakota State,T,Joe Haeg,,,North Dakota St.,11/03/1993,False,True,,True
+43447,06-May,324,06/02/1992,South Carolina,T,Brandon Shell,,,South Carolina,06/02/1992,True,True,,True
+43453,06-Jun,320,16/06/1993,Texas Christian,G,Halapoulivaati Vaitai,,,TCU,16/06/1993,False,True,,True
+43454,05-Oct,185,01/03/1994,West Alabama,WR,Tyreek Hill,,,West Alabama,01/03/1994,True,True,,True
+43455,06-Mar,347,01/07/1994,Clemson,NT,D.J. Reader,,,Clemson,01/07/1994,True,True,,True
+43456,05-Nov,207,27/10/1994,Midwestern State,SS,Marqui Christian,,,Midwestern St.,27/10/1994,False,True,,True
+43460,05-Oct,210,08/26/1994,Arkansas,RB,Alex Collins,,,Arkansas,26/08/1994,True,False,,False
+43461,06-Jan,198,07/10/1994,Colorado State,WR,Rashard Higgins,,,Colorado St.,07/10/1994,False,True,,True
+43465,06-Jan,238,23/05/1993,Nebraska,FB,Andy Janovich,,,Nebraska,23/05/1993,True,True,,True
+43474,6-0,202,13/04/1993,William &amp; Mary,FS,DeAndre Houston-Carson,,,William Mary,13/04/1993,False,True,,True
+43475,05-Jul,169,30/10/1992,Texas Tech,WR,Jakeem Grant,Jakeem Grant Sr,,#N/A,#N/A,#N/A,#N/A,Jakeem Grant Sr,Jakeem Grant Sr
+43478,05-Nov,196,15/12/1993,Purdue,CB,Anthony Brown,,,Purdue,15/12/1993,True,True,,True
+43484,06-May,314,11/09/1993,San Jose State,G,Wes Schweitzer,,,San Jose St.,11/09/1993,False,True,,True
+43487,06-Feb,234,07/11/1992,Wisconsin,FB,Derek Watt,,,Wisconsin,07/11/1992,True,True,,True
+43490,06-Feb,209,05/09/1992,Arkansas,QB,Brandon Allen,,,#N/A,#N/A,#N/A,#N/A,Brandon Dunn,Brandon Dunn
+43495,06-Jan,189,16/08/1994,Southern Mississippi,WR,Mike Thomas,,,Southern Miss,16/08/1994,False,True,,True
+43497,06-Feb,230,16/05/1994,Eastern Illinois,ILB,Kamu Grugier-Hill,,,E. Illinois,16/05/1994,False,True,,True
+43498,06-Jan,193,26/05/1994,Virginia,CB,Maurice Canady,,,Virginia,26/05/1994,True,True,,True
+43503,6-0,238,22/04/1994,Houston,ILB,Elandon Roberts,,,Houston,22/04/1994,True,True,,True
+43507,6-0,185,11/30/1993,USC,CB,Kevon Seymour,,,USC,30/11/1993,True,False,,False
+43510,06-Apr,305,15/03/1993,Illinois,C,Ted Karras,,,Illinois,15/03/1993,True,True,,True
+43516,06-May,265,19/03/1994,Vanderbilt,OLB,Stephen Weatherly,,,Vanderbilt,19/03/1994,True,True,,True
+43522,6-0,191,06/04/1994,Louisiana State,CB,Jalen Mills,,,LSU,06/04/1994,False,True,,True
+43525,06-Jan,223,24/04/1994,Washington,RB,Dwayne Washington,,,Washington,24/04/1994,True,True,,True
+43533,06-Apr,215,11/02/1994,Clemson,FS,Jayron Kearse,,,Clemson,11/02/1994,True,True,,True
+43535,06-Jan,235,22/12/1992,Temple,MLB,Tyler Matakevich,,,Temple,22/12/1992,True,True,,True
+43540,06-Feb,236,11/12/1992,Oregon,ILB,Joe Walker,,,#N/A,#N/A,#N/A,#N/A,Jacoby Brissett,Jacoby Brissett
+43556,6-0,184,12/01/1994,Grambling State,WR,Chester Rogers,,,Grambling St.,12/01/1994,False,True,,True
+43584,05-Aug,182,08/08/1994,Holy Cross,WR,Kalif Raymond,,,Holy Cross,08/08/1994,True,True,,True
+43586,06-May,322,19/07/1992,Western Kentucky,T,George Fant,,,W. Kentucky,19/07/1992,False,True,,True
+43616,05-Nov,209,15/07/1992,Notre Dame,FS,Matthias Farley,,,Notre Dame,15/07/1992,True,True,,True
+43638,06-Mar,292,23/10/1992,Ferris State,DT,Justin Zimmer,,,Ferris State,23/10/1992,True,True,,True
+43640,06-Jun,313,12/01/1992,Southern Mississippi,T,Rashod Hill,,,Southern Miss,12/01/1992,False,True,,True
+43641,05-Sep,184,09/03/1994,Mississippi,CB,Mike Hilton,,,Ole Miss,09/03/1994,False,True,,True
+43645,06-Feb,210,09/02/1994,Michigan,SS,Jarrod Wilson,,,Michigan,09/02/1994,True,True,,True
+43648,06-May,315,19/04/1993,Cincinnati,T,Justin Murray,,,Cincinnati,01/04/1993,True,False,,False
+43663,6-0,195,06/11/1992,Wisconsin,WR,Alex Erickson,,,Wisconsin,06/11/1992,True,True,,True
+43694,6-0,340,06/11/1992,Samford,NT,Michael Pierce,,,Samford,06/11/1992,True,True,,True
+43695,06-Mar,313,17/02/1993,Duke,C,Matt Skura,,,Duke,17/02/1993,True,True,,True
+43698,06-Mar,315,20/12/1992,Mississippi,DT,Woodrow Hamilton,,,Ole Miss,20/12/1992,False,True,,True
+43700,05-Oct,190,20/09/1993,Auburn,CB,Jonathan Jones,,,Auburn,20/09/1993,True,True,,True
+43712,6-0,198,14/10/1991,Florida Atlantic,CB,Sharrod Neasman,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+43722,05-Oct,195,15/08/1993,Arkansas State,RB,J.D. McKissic,,,Arkansas St.,15/08/1993,False,True,,True
+43746,06-Mar,202,18/01/1994,Illinois,WR,Geronimo Allison,,,Illinois,18/01/1994,True,True,,True
+43757,05-Nov,202,28/10/1992,Connecticut,SS,Andrew Adams,,,Connecticut,28/10/1992,True,True,,True
+43761,05-Sep,158,28/01/1994,Boise State,CB,Donte Deayon,Dont'e Deayon,,#N/A,#N/A,#N/A,#N/A,Dont'e Deayon,Dont'e Deayon
+43775,06-Apr,263,17/06/1995,Notre Dame,OLB,Romeo Okwara,,,Notre Dame,01/07/1995,True,False,,False
+43787,06-May,294,23/07/1993,Texas-El Paso,DT,Roy Robertson-Harris,,,UTEP,23/07/1993,False,True,,True
+43791,06-Mar,275,12/09/1994,Colorado State-Pueblo,DE,Morgan Fox,,,Colorado St.,12/09/1994,False,True,,True
+43797,06-Mar,228,18/11/1993,Washington,OLB,Cory Littleton,,,Washington,18/11/1993,True,True,,True
+43808,06-Mar,190,09/05/1993,Temple,WR,Robby Anderson,,,Temple,09/05/1993,True,True,,True
+43821,06-Apr,299,10/09/1992,UCLA,C,Jake Brendel,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+43845,06-Mar,230,30/01/1993,California,TE,Stephen Anderson,,,California,30/01/1993,True,True,,True
+43854,06-Apr,263,31/07/1993,Stanford,OLB,Brennan Scarlett,,,Stanford,31/07/1993,True,True,,True
+43861,05-Nov,225,27/02/1994,Auburn,RB,Peyton Barber,,,Auburn,27/06/1994,True,False,,False
+43880,06-Feb,234,17/08/1993,Idaho,RB,Elijhaa Penny,,,Idaho,17/08/1993,True,True,,True
+43938,06-Jan,318,03/01/1993,Southern California,DT,Antwaun Woods,,,USC,03/01/1993,False,True,,True
+43971,05-Nov,235,22/07/1993,"Augustana, S.D.",FB,C.J. Ham,,,Augustana,22/07/1993,False,True,,True
+43986,6-0,190,24/01/1993,South Carolina State,CB,Antonio Hamilton,,,S.C. State,24/01/1993,False,True,,True
+44003,06-Jan,207,05/08/1994,Texas,WR,Marcus Johnson,,,Texas,05/08/1994,True,True,,True
+44009,06-Mar,240,28/08/1993,Pittsburgh,TE,J.P. Holtz,,,Pittsburgh,28/08/1993,True,True,,True
+44029,05-Nov,170,21/04/1994,Washington,WR,Jaydon Mickens,,,Washington,21/04/1994,True,True,,True
+44045,05-Aug,207,15/10/1993,Southern Mississippi,RB,Jalen Richard,,,Southern Miss,15/10/1993,False,True,,True
+44068,06-Mar,313,30/07/1993,Duke,G,Lucas Patrick,,,Duke,30/07/1993,True,True,,True
+44075,06-Apr,240,04/03/1994,Air Force,TE,Garrett Griffin,,,Air Force,04/03/1994,True,True,,True
+44123,06-Feb,215,25/03/1993,"Concordia, Minn",WR,Brandon Zylstra,,,Concordia,25/03/1993,False,True,,True
+44174,06-Jan,236,22/02/1993,Texas Tech,ILB,Sam Eguavoen,,,Texas Tech,22/02/1993,True,True,,True
+44202,6-0,200,14/06/1993,"Regina, Can.",CB,Tevaughn Campbell,,,Regina,14/06/1993,False,True,,True
+44767,05-Sep,183,05/12/1993,Louisiana State,WR,Cyril Grayson,,,#N/A,#N/A,#N/A,#N/A,Carlos Watkins,Carlos Watkins
+44792,06-May,267,19/09/1993,Virginia Commonwealth,TE,Mo Alie-Cox,,,Virginia Commonwealth,19/09/1993,True,True,,True
+44813,06-Apr,272,29/12/1995,Texas A&amp;M,DE,Myles Garrett,,,Texas AM,29/12/1995,False,True,,True
+44814,06-Feb,215,20/08/1994,North Carolina,QB,Mitchell Trubisky,,,North Carolina,20/08/1994,True,True,,True
+44815,06-Feb,280,26/08/1995,Stanford,DT,Solomon Thomas,,,Stanford,26/08/1995,True,True,,True
+44816,6-0,228,18/01/1995,Louisiana State,RB,Leonard Fournette,,,LSU,18/01/1995,False,True,,True
+44817,06-Mar,209,11/01/1995,Western Michigan,WR,Corey Davis,,,W. Michigan,11/01/1995,False,True,,True
+44818,06-Jan,213,17/10/1995,Louisiana State,SS,Jamal Adams,,,LSU,17/10/1995,False,True,,True
+44819,06-Apr,218,04/10/1994,Clemson,WR,Mike Williams,,,Clemson,04/10/1994,True,True,,True
+44820,05-Nov,205,07/06/1996,Stanford,RB,Christian McCaffrey,,,Stanford,07/06/1996,True,True,,True
+44821,05-Nov,194,27/11/1995,Washington,WR,John Ross,,,#N/A,#N/A,#N/A,#N/A,A.J. Cole III,A.J. Cole III
+44822,06-Mar,230,17/09/1995,Texas Tech,QB,Patrick Mahomes,,,Texas Tech,17/09/1995,True,True,,True
+44823,6-0,192,20/05/1996,Ohio State,CB,Marshon Lattimore,,,Ohio State,20/05/1996,True,True,,True
+44825,06-Jan,235,22/09/1994,Temple,OLB,Haason Reddick,,,Temple,22/09/1994,True,True,,True
+44826,06-Mar,259,25/06/1996,Tennessee,DE,Derek Barnett,,,Tennessee,25/06/1996,True,True,,True
+44827,06-Jan,212,02/04/1996,Ohio State,FS,Malik Hooker,,,#N/A,#N/A,#N/A,#N/A,James Washington,James Washington
+44828,6-0,197,08/07/1996,Alabama,CB,Marlon Humphrey,,,Alabama,08/07/1996,True,True,,True
+44829,06-Mar,300,16/01/1995,Alabama,DT,Jonathan Allen,,,Alabama,16/01/1995,True,True,,True
+44830,05-Nov,185,18/09/1995,Southern California,CB,Adoree' Jackson,,,USC,18/09/1995,False,True,,True
+44831,06-Jun,250,18/11/1994,Alabama,TE,O.J. Howard,,,Alabama,19/11/1994,True,False,,False
+44832,06-May,300,27/05/1992,Utah,T,Garett Bolles,,,Utah,27/05/1992,True,True,,True
+44833,06-Jan,245,16/11/1994,Florida,MLB,Jarrad Davis,,,Florida,16/11/1995,True,False,,False
+44834,06-Mar,250,06/03/1995,Missouri,OLB,Charles Harris,,,Missouri,06/03/1995,True,True,,True
+44835,06-Mar,240,02/09/1994,Mississippi,TE,Evan Engram,,,Ole Miss,02/09/1994,False,True,,True
+44837,05-Nov,213,04/10/1995,Michigan,SS,Jabrill Peppers,,,Michigan,04/10/1995,True,True,,True
+44838,06-Feb,265,02/11/1995,UCLA,DE,Takkarist McKinley,,,UCLA,02/11/1995,True,True,,True
+44839,05-Nov,192,16/01/1995,Louisiana State,CB,Tre'Davious White,,,LSU,16/01/1995,False,True,,True
+44840,06-Jun,270,07/11/1994,Michigan,DE,Taco Charlton,,,Michigan,07/11/1994,True,True,,True
+44841,06-Apr,246,10/07/1996,Miami,TE,David Njoku,,,Miami,10/07/1996,True,True,,True
+44842,06-Apr,252,11/10/1994,Wisconsin,OLB,T.J. Watt,,,Wisconsin,11/10/1994,True,True,,True
+44844,06-Jun,314,22/04/1994,Wisconsin,T,Ryan Ramczyk,,,Wisconsin,22/04/1994,True,True,,True
+44845,06-Mar,200,05/05/1995,Washington,CB,Kevin King,,,Washington,05/05/1995,True,True,,True
+44846,06-Jun,320,09/10/1995,Alabama,T,Cam Robinson,,,Alabama,09/10/1995,True,True,,True
+44847,06-Jun,299,06/20/1996,Michigan State,DT,Malik McDowell,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+44848,05-Oct,195,10/01/1996,Washington,SS,Budda Baker,,,Washington,10/01/1996,True,True,,True
+44849,06-Feb,200,30/03/1995,East Carolina,WR,Zay Jones,,,East Carolina,30/03/1995,True,True,,True
+44851,6-0,207,09/03/1993,Florida,FS,Marcus Maye,,,Florida,09/03/1993,True,True,,True
+44852,05-Nov,195,11/08/1996,Ohio State,WR,Curtis Samuel,,,Ohio State,11/08/1996,True,True,,True
+44853,05-Oct,210,10/08/1995,Florida State,RB,Dalvin Cook,,,Florida State,10/08/1995,True,True,,True
+44854,06-Jan,195,08/09/1996,Utah,FS,Marcus Williams,,,Utah,08/09/1996,True,True,,True
+44855,6-0,181,21/05/1996,Washington,CB,Sidney Jones,,,#N/A,#N/A,#N/A,#N/A,Josh Allen,Josh Allen
+44856,06-Mar,240,25/06/1994,South Alabama,TE,Gerald Everett,,,South Alabama,25/06/1994,True,True,,True
+44857,06-Jun,257,24/10/1994,Ashland,TE,Adam Shaheen,,,Ashland,24/10/1994,True,True,,True
+44859,06-Mar,240,23/05/1995,Houston,OLB,Tyus Bowser,,,Houston,23/05/1995,True,True,,True
+44860,06-Jan,220,24/07/1996,Oklahoma,RB,Joe Mixon,,,Oklahoma,24/07/1996,True,True,,True
+44863,06-Apr,280,30/09/1994,Florida State,DE,DeMarcus Walker,,,Florida State,30/09/1994,True,True,,True
+44865,6-0,191,12/31/1995,Florida,FS,Teez Tabor,,,Florida,31/12/1996,True,False,,False
+44867,06-Mar,318,28/02/1994,Alabama,DT,Dalvin Tomlinson,,,Alabama,28/02/1994,True,True,,True
+44869,06-Mar,238,02/12/1994,Vanderbilt,ILB,Zach Cunningham,,,Vanderbilt,12/12/1994,True,False,,False
+44870,06-Jun,320,05/08/1995,Louisiana State,C,Ethan Pocic,,,LSU,05/08/1995,False,True,,True
+44871,06-Jul,289,14/06/1994,Villanova,DE,Tanoh Kpassagnon,,,Villanova,14/06/1994,True,True,,True
+44872,6-0,202,24/05/1995,Colorado,CB,Chidobe Awuzie,,,Colorado,24/05/1995,True,True,,True
+44874,06-Jan,215,22/11/1996,Southern California,WR,JuJu Smith-Schuster,,,USC,22/11/1996,False,True,,True
+44875,06-May,320,26/04/1994,Temple,T,Dion Dawkins,,,Temple,26/04/1994,True,True,,True
+44876,06-May,325,18/03/1994,Western Michigan,T,Taylor Moton,,,W. Michigan,18/08/1994,False,False,,False
+44877,06-Mar,305,03/06/1994,North Carolina-Charlotte,DT,Larry Ogunjobi,,,Charlotte,03/06/1994,False,True,,True
+44878,06-Feb,195,21/03/1995,Colorado,CB,Ahkello Witherspoon,,,Colorado,21/03/1995,True,True,,True
+44879,05-Oct,215,25/07/1995,Tennessee,RB,Alvin Kamara,,,Tennessee,25/07/1995,True,True,,True
+44880,06-Mar,264,02/03/1995,Illinois,DE,Dawuane Smoot,,,Illinois,02/03/1995,True,True,,True
+44881,06-Feb,208,15/06/1993,Eastern Washington,WR,Cooper Kupp,,,Eastern Wash.,15/06/1993,False,True,,True
+44882,06-Mar,303,06/07/1994,Ohio State,C,Pat Elflein,,,Ohio State,06/07/1994,True,True,,True
+44885,06-Apr,270,02/05/1995,Kansas State,DE,Jordan Willis,,,Kansas State,02/05/1995,True,True,,True
+44886,06-May,300,25/08/1993,Michigan,DE,Chris Wormley,,,Michigan,25/10/1993,True,False,,False
+44887,06-Jan,230,09/08/1994,Louisiana State,ILB,Duke Riley,,,LSU,09/08/1994,False,True,,True
+44888,06-Mar,240,22/09/1994,Florida,ILB,Alex Anzalone,,,Florida,22/09/1994,True,True,,True
+44892,06-Apr,266,18/03/1994,Ohio,DE,Tarell Basham,,,Ohio,18/03/1994,True,True,,True
+44893,6-0,204,09/04/1994,UCLA,CB,Fabian Moreau,,,UCLA,09/04/1994,True,True,,True
+44896,06-Jan,209,27/02/1996,Penn State,WR,Chris Godwin,,,Penn State,27/02/1996,True,True,,True
+44898,05-Nov,216,06/08/1995,Toledo,RB,Kareem Hunt,,,Toledo,06/08/1995,True,True,,True
+44902,6-0,198,20/07/1995,Central Florida,CB,Shaquill Griffin,,,UCF,20/07/1995,False,True,,True
+44903,6-0,209,19/12/1995,Boston College,FS,John Johnson,John Johnson III,,#N/A,#N/A,#N/A,#N/A,John Johnson III,John Johnson III
+44904,05-Oct,195,31/08/1995,Michigan,CB,Jourdan Lewis,,,Michigan,31/08/1995,True,True,,True
+44905,06-Apr,304,24/07/1995,Auburn,DE,Montravius Adams,,,Auburn,24/07/1995,True,True,,True
+44906,05-Nov,188,27/02/1995,Tennessee,CB,Cameron Sutton,,,Tennessee,27/02/1995,True,True,,True
+44908,06-Apr,213,03/11/1993,Northern Illinois,WR,Kenny Golladay,,,N. Illinois,03/11/1993,False,True,,True
+44911,06-Feb,209,29/08/1995,West Virginia,CB,Rasul Douglas,,,West Virginia,29/08/1995,True,True,,True
+44912,06-Mar,248,22/08/1995,Florida International,TE,Jonnu Smith,,,FIU,22/08/1995,False,True,,True
+44915,06-Apr,270,05/12/1994,Florida Atlantic,DE,Trey Hendrickson,,,FAU,05/12/1994,False,True,,True
+44917,06-Jan,233,05/05/1995,Pittsburgh,RB,James Conner,,,Pittsburgh,05/05/1995,True,True,,True
+44922,06-Mar,316,12/07/1994,Iowa,DT,Jaleel Johnson,,,#N/A,#N/A,#N/A,#N/A,Deante Burton,Deante Burton
+44923,6-0,176,21/11/1993,Oklahoma,WR,Dede Westbrook,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+44925,6-0,202,10/12/1993,Alabama,SS,Eddie Jackson,,,Alabama,10/12/1993,True,True,,True
+44926,06-Jan,220,25/01/1994,Miami,SS,Rayshawn Jenkins,,,Miami,25/01/1994,True,True,,True
+44927,05-Nov,240,16/09/1995,Oklahoma,RB,Samaje Perine,,,Oklahoma,16/09/1995,True,True,,True
+44930,06-Mar,196,16/02/1995,Texas A&amp;M,WR,Josh Reynolds,,,Texas AM,16/02/1995,False,True,,True
+44931,06-Apr,221,16/09/1993,North Carolina,WR,Mack Hollins,,,North Carolina,16/09/1993,True,True,,True
+44937,6-0,233,31/01/1995,Tennessee,OLB,Jalen Reeves-Maybin,,,Tennessee,31/01/1995,True,True,,True
+44938,06-Mar,245,09/05/1995,Eastern Washington,DE,Samson Ebukam,,,Eastern Wash.,09/05/1995,False,True,,True
+44942,06-Jun,330,21/10/1995,Florida,T,David Sharpe,,,#N/A,#N/A,#N/A,#N/A,Marquel Lee,Marquel Lee
+44943,06-Jul,325,09/01/1995,Bucknell,T,Julien Davenport,Julie'n Davenport,,#N/A,#N/A,#N/A,#N/A,Julie'n Davenport,Julie'n Davenport
+44944,06-May,275,26/07/1994,Arkansas,DE,Deatrich Wise,Deatrich Wise Jr,,#N/A,#N/A,#N/A,#N/A,Deatrich Wise Jr,Deatrich Wise Jr
+44947,6-0,213,03/04/1995,Brigham Young,RB,Jamaal Williams,,,BYU,03/04/1995,False,True,,True
+44949,06-Apr,284,28/03/1995,Oregon State,G,Sean Harlow,,,#N/A,#N/A,#N/A,#N/A,Al-Quadin Muhammad,Al-Quadin Muhammad
+44953,6-0,210,01/10/1994,Clemson,RB,Wayne Gallman,Wayne Gallman Jr,,#N/A,#N/A,#N/A,#N/A,Wayne Gallman Jr,Wayne Gallman Jr
+44955,06-Mar,297,05/12/1993,Clemson,DE,Carlos Watkins,,,Clemson,05/12/1993,True,True,,True
+44956,6-0,210,07/03/1996,South Florida,RB,Marlon Mack,,,USF,07/03/1996,False,True,,True
+44957,06-Apr,315,20/10/1993,"Albany State, Ga.",DT,Grover Stewart,,,Albany,20/10/1993,False,True,,True
+44959,06-Apr,250,09/10/1993,Iowa,TE,George Kittle,,,Iowa,09/10/1993,True,True,,True
+44962,05-Nov,190,05/06/1993,San Diego State,SS,Damontae Kazee,,,San Diego St.,05/06/1993,False,True,,True
+44964,05-Oct,201,14/12/1994,Iowa,CB,Desmond King,Desmond King II,,#N/A,#N/A,#N/A,#N/A,Desmond King II,Desmond King II
+44967,06-May,255,10/08/1994,Arkansas,TE,Jeremy Sprinkle,,,Arkansas,10/08/1994,True,True,,True
+44968,6-0,226,26/02/1995,UCLA,ILB,Jayon Brown,,,UCLA,26/02/1995,True,True,,True
+44970,06-Jul,312,14/09/1993,Vanderbilt,T,Will Holden,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+44971,6-0,185,30/06/1994,Temple,CB,Nate Hairston,,,Temple,30/06/1994,True,True,,True
+44972,06-Apr,335,13/12/1994,Texas A&amp;M,G,Jermaine Eluemunor,,,Texas AM,13/12/1994,False,True,,True
+44974,06-Jan,230,08/08/1995,Northwestern,MLB,Anthony Walker,Anthony Walker Jr,,#N/A,#N/A,#N/A,#N/A,Anthony Walker Jr,Anthony Walker Jr
+44975,05-Sep,205,26/12/1995,Boise State,RB,Jeremy McNichols,,,Boise State,26/12/1995,True,True,,True
+44976,6-0,223,28/07/1994,Boston College,OLB,Matt Milano,,,Boston College,28/07/1994,True,True,,True
+44978,05-Oct,190,03/04/1995,San Diego,WR,Jamal Agnew,,,San Diego,03/04/1995,True,True,,True
+44984,06-Feb,225,04/05/1994,Pittsburgh,QB,Nathan Peterman,,,#N/A,#N/A,#N/A,#N/A,Dare Ogunbowale,Dare Ogunbowale
+44985,05-Aug,173,09/04/1995,Georgia,WR,Isaiah McKenzie,,,Georgia,09/04/1995,True,True,,True
+44987,06-May,253,01/05/1994,Drake,TE,Eric Saubert,,,Drake,09/05/1994,True,False,,False
+44991,06-Mar,311,11/11/1994,Louisiana State,NT,Davon Godchaux,,,LSU,11/11/1994,False,True,,True
+44995,05-Sep,208,02/12/1994,Texas-El Paso,RB,Aaron Jones,,,UTEP,02/12/1994,False,True,,True
+44999,6-0,205,19/04/1995,Virginia Tech,SS,Chuck Clark,,,Virginia Tech,19/04/1995,True,True,,True
+45004,05-Nov,202,26/07/1995,Louisiana Tech,FS,Xavier Woods,,,LA. Tech,26/07/1995,False,True,,True
+45005,06-Feb,255,17/05/1994,West Georgia,RB,Alex Armah,Alex Armah Jr,,#N/A,#N/A,#N/A,#N/A,Alex Armah Jr,Alex Armah Jr
+45006,06-Mar,242,27/01/1995,Oklahoma,OLB,Jordan Evans,,,Oklahoma,27/01/1995,True,True,,True
+45007,06-Mar,311,05/01/1994,Oklahoma State,DT,Vincent Taylor,,,Oklahoma St.,05/01/1994,False,True,,True
+45008,06-Jan,228,16/12/1994,Boise State,ILB,Tanner Vallejo,,,Boise State,16/12/1994,True,True,,True
+45009,06-Apr,250,28/03/1995,Miami,DE,Al-Quadin Muhammad,,,Miami,28/03/1995,True,True,,True
+45011,6-0,321,19/01/1995,Mississippi,DT,D.J. Jones,,,Ole Miss,19/01/1995,False,True,,True
+45012,06-Apr,312,23/08/1993,Wyoming,C,Chase Roullier,,,Wyoming,23/08/1993,True,True,,True
+45020,05-Oct,200,27/07/1994,Houston,FS,Brandon Wilson,,,Houston,27/07/1994,True,True,,True
+45021,6-0,204,01/11/1994,Auburn,SS,Rudy Ford,,,Auburn,01/11/1994,True,True,,True
+45030,06-Apr,307,12/08/1994,Chattanooga,C,Corey Levin,,,#N/A,#N/A,#N/A,#N/A,Ryan Anderson,Ryan Anderson
+45033,06-Mar,258,08/04/1994,Northwestern,DE,Ifeadi Odenigbo,,,Northwestern,08/04/1994,True,True,,True
+45038,06-Apr,280,22/04/1995,Notre Dame,DE,Isaac Rochell,,,Notre Dame,22/04/1995,True,True,,True
+45039,6-0,215,15/01/1995,East Central,WR,David Moore,,,East Central Univ.,15/01/1995,False,True,,True
+45042,06-Feb,205,06/10/1993,Miami,FS,Adrian Colbert,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+45045,06-Feb,229,08/02/1996,Kansas State,OLB,Elijah Lee,,,Kansas State,08/02/1996,True,True,,True
+45050,06-Feb,195,09/02/1996,Virginia Tech,WR,Isaiah Ford,,,#N/A,#N/A,#N/A,#N/A,Amani Oruwariye,Amani Oruwariye
+45052,06-Feb,225,06/01/1996,Ohio State,WR,Noah Brown,,,Ohio State,06/01/1996,True,True,,True
+45056,06-May,320,04/03/1994,Baylor,G,Kyle Fuller,,,Virginia Tech,16/02/1992,False,False,,False
+45062,05-Nov,222,16/09/1994,Oklahoma State,RB,Chris Carson,,,Oklahoma St.,16/09/1994,False,True,,True
+45063,06-Apr,270,01/11/1993,Eastern Michigan,DE,Pat O'Connor,,,Eastern Michigan,01/11/1993,True,True,,True
+45069,06-May,260,27/01/1994,San Diego State,G,Daniel Brunskill,,,San Diego St.,27/01/1994,False,True,,True
+45094,06-Apr,232,23/11/1994,Oregon,TE,Johnny Mundt,,,Oregon,23/11/1994,True,True,,True
+45102,06-Feb,214,18/12/1994,Old Dominion,WR,Zach Pascal,,,Old Dominion,18/12/1994,True,True,,True
+45142,06-Mar,256,22/11/1994,Washington,TE,Darrell Daniels,,,Washington,22/11/1994,True,True,,True
+45159,05-Nov,212,26/02/1995,Temple,QB,Phillip Walker,,,#N/A,#N/A,#N/A,#N/A,Jayon Brown,Jayon Brown
+45185,06-Jan,203,04/08/1995,Eastern Washington,WR,Kendrick Bourne,,,Eastern Wash.,04/08/1995,False,True,,True
+45186,05-Oct,190,28/02/1995,Georgia Southern,RB,Matt Breida,,,Ga. Southern,28/02/1995,False,True,,True
+45203,06-May,250,18/02/1995,Louisiana State,DE,Tashawn Bower,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+45215,06-Jan,230,26/09/1994,Cincinnati,OLB,Eric Wilson,,,Cincinnati,26/09/1994,True,True,,True
+45217,06-Mar,248,05/09/1995,Nebraska,TE,Cethan Carter,,,Nebraska,05/09/1995,True,True,,True
+45223,6-0,235,05/01/1994,Illinois,ILB,Hardy Nickerson,,,Illinois,05/01/1994,True,True,,True
+45226,06-Mar,345,02/05/1994,Colorado,NT,Josh Tupou,,,Colorado,02/05/1994,True,True,,True
+45244,06-Feb,221,23/08/1990,Brigham Young,QB,Taysom Hill,,,BYU,23/08/1990,False,True,,True
+45255,06-Jan,180,12/12/1993,Chattanooga,WR,C.J. Board,,,Tenn-Chat,12/12/1993,False,True,,True
+45267,06-Apr,212,23/11/1993,Utah,WR,Tim Patrick,,,Utah,23/11/1993,True,True,,True
+45268,06-Mar,311,27/05/1994,Maine,FB,Patrick Ricard,,,Maine,27/05/1994,True,True,,True
+45274,06-May,300,12/04/1994,Vanderbilt,DE,Adam Butler,,,Vanderbilt,12/04/1994,True,True,,True
+45281,06-Apr,245,18/11/1993,Wyoming,TE,Jacob Hollister,,,Wyoming,18/11/1993,True,True,,True
+45286,06-Feb,252,24/09/1992,Brigham Young,ILB,Harvey Langi,,,BYU,24/09/1992,False,True,,True
+45287,05-Sep,190,23/08/1995,Valdosta State,CB,Kenny Moore,Kenny Moore II,,#N/A,#N/A,#N/A,#N/A,Kenny Moore II,Kenny Moore II
+45302,05-Nov,188,10/04/1995,Nevada-Las Vegas,CB,Torry McTyer,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+45321,06-Jun,256,28/05/1993,"Laval, Can.",TE,Antony Auclair,,,#N/A,#N/A,#N/A,#N/A,Damien Wilson,Damien Wilson
+45330,06-Feb,200,25/06/1994,Iowa,CB,Greg Mabin,,,Iowa,25/06/1994,True,True,,True
+45335,6-0,189,22/07/1995,Duke,CB,Breon Borders,,,Duke,22/07/1995,True,True,,True
+45339,06-Jun,258,04/05/1994,Oregon,TE,Pharaoh Brown,,,#N/A,#N/A,#N/A,#N/A,Dare Ogunbowale,Dare Ogunbowale
+45346,06-Apr,339,15/07/1994,Southern California,G,Jordan Simmons,,,USC,15/07/1994,False,True,,True
+45355,06-Feb,246,19/02/1995,Harvard,TE,Anthony Firkser,,,Harvard,19/02/1995,True,True,,True
+45369,06-Apr,210,14/08/1995,Hawaii,WR,Marcus Kemp,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+45395,05-Oct,190,13/07/1993,Memphis,CB,Arthur Maulet,,,Memphis,13/07/1993,True,True,,True
+45414,06-Mar,325,08/06/1994,UCLA,DT,Eli Ankou,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+45481,06-May,243,15/03/1995,Texas A&amp;M,TE,Ricky Seals-Jones,,,Texas AM,15/03/1995,False,True,,True
+45532,06-May,260,16/07/1994,Oklahoma State,TE,Blake Jarwin,,,Oklahoma St.,16/07/1994,False,True,,True
+45533,6-0,231,21/02/1994,Northwestern,ILB,Joseph Jones,Joe Jones,,#N/A,#N/A,#N/A,#N/A,Joe Jones,Joe Jones
+45536,06-Mar,225,21/11/1993,Central Michigan,QB,Cooper Rush,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+45550,06-Jun,329,10/02/1995,Massachusetts,T,Elijah Wilkinson,,,Massachusetts,10/02/1995,True,True,,True
+45555,06-Jan,194,20/04/1993,Kentucky Wesleyan,WR,Keelan Cole,Keelan Cole Sr,,#N/A,#N/A,#N/A,#N/A,Keelan Cole Sr,Keelan Cole Sr
+45571,06-Feb,196,06/01/1995,Brigham Young,CB,Michael Davis,,,BYU,06/01/1995,False,True,,True
+45573,05-Oct,200,17/05/1995,"Western State, Colo.",RB,Austin Ekeler,,,Western Colorado,17/05/1995,False,True,,True
+45594,06-Apr,255,15/12/1993,Temple,TE,Colin Thompson,,,#N/A,#N/A,#N/A,#N/A,Anthony Brown,Anthony Brown
+45599,05-Oct,220,02/11/1994,Wisconsin,RB,Corey Clement,,,Wisconsin,02/11/1994,True,True,,True
+45607,05-Nov,190,12/07/1995,Houston,WR,Greg Ward,Greg Ward Jr,,#N/A,#N/A,#N/A,#N/A,Greg Ward Jr,Greg Ward Jr
+45630,06-Jul,317,16/05/1994,Toledo,T,Storm Norton,,,#N/A,#N/A,#N/A,#N/A,Kamu Grugier-Hill,Kamu Grugier-Hill
+45635,06-May,237,30/04/1994,Indiana State,TE,Robert Tonyan,,,Indiana St.,30/04/1994,False,True,,True
+45719,05-Oct,205,04/05/1994,Wisconsin,RB,Dare Ogunbowale,,,Wisconsin,04/05/1994,True,True,,True
+45785,06-Jun,220,15/03/1995,Wisconsin-Platteville,TE,Dan Arnold,,,University of Wisconsin-Platteville,15/03/1995,False,True,,True
+46070,06-Jan,215,14/04/1995,Oklahoma,QB,Baker Mayfield,,,Oklahoma,14/04/1995,True,True,,True
+46071,05-Nov,233,09/02/1997,Penn State,RB,Saquon Barkley,,,Penn State,09/02/1997,True,True,,True
+46072,06-Mar,225,05/06/1997,Southern California,QB,Sam Darnold,,,USC,05/06/1997,False,True,,True
+46073,05-Nov,191,28/04/1997,Ohio State,CB,Denzel Ward,,,Ohio State,28/04/1997,True,True,,True
+46074,06-Apr,275,24/06/1996,North Carolina State,OLB,Bradley Chubb,,,N.C. State,24/06/1996,False,True,,True
+46075,06-May,330,19/03/1996,Notre Dame,G,Quenton Nelson,,,Notre Dame,19/03/1996,True,True,,True
+46076,06-May,237,21/05/1996,Wyoming,QB,Josh Allen,,,Wyoming,21/05/1996,True,True,,True
+46077,6-0,230,08/04/1997,Georgia,ILB,Roquan Smith,,,Georgia,08/04/1997,True,True,,True
+46078,06-Aug,315,12/01/1995,Notre Dame,T,Mike McGlinchey,,,Notre Dame,12/01/1995,True,True,,True
+46079,06-Apr,226,10/02/1997,UCLA,QB,Josh Rosen,,,UCLA,10/02/1997,True,True,,True
+46080,06-Jan,207,17/11/1996,Alabama,SS,Minkah Fitzpatrick,,,Alabama,17/11/1996,True,True,,True
+46081,06-Apr,347,05/02/1995,Washington,NT,Vita Vea,,,Washington,05/02/1995,True,True,,True
+46082,06-Mar,320,27/05/1997,Alabama,DT,Daron Payne,Da'Ron Payne,,#N/A,#N/A,#N/A,#N/A,Da'Ron Payne,Da'Ron Payne
+46083,06-Jun,265,04/09/1996,Texas-San Antonio,DE,Marcus Davenport,,,UTSA,04/09/1996,False,True,,True
+46084,06-Aug,325,09/10/1995,UCLA,T,Kolton Miller,,,UCLA,09/10/1995,True,True,,True
+46085,06-May,250,02/05/1998,Virginia Tech,MLB,Tremaine Edmunds,,,Virginia Tech,02/05/1998,True,True,,True
+46086,06-Feb,215,03/08/1996,Florida State,FS,Derwin James,Derwin James Jr,,#N/A,#N/A,#N/A,#N/A,Derwin James Jr,Derwin James Jr
+46087,05-Oct,196,09/02/1997,Louisville,CB,Jaire Alexander,,,Louisville,09/02/1997,True,True,,True
+46088,06-Apr,256,08/02/1996,Boise State,OLB,Leighton Vander Esch,,,Boise State,08/02/1996,True,True,,True
+46089,06-May,311,17/05/1996,Arkansas,C,Frank Ragnow,,,Arkansas,17/05/1996,True,True,,True
+46090,06-Apr,312,11/10/1994,Ohio State,C,Billy Price,,,Ohio State,11/10/1994,True,True,,True
+46091,06-Feb,234,08/11/1995,Alabama,ILB,Rashaan Evans,,,Alabama,08/11/1995,True,True,,True
+46092,06-Feb,310,09/12/1995,Georgia,T,Isaiah Wynn,,,Georgia,09/12/1995,True,True,,True
+46093,05-Nov,215,14/04/1997,Maryland,WR,D.J. Moore,,,Maryland,14/04/1997,True,True,,True
+46094,06-Apr,245,24/08/1993,South Carolina,TE,Hayden Hurst,,,South Carolina,24/08/1993,True,True,,True
+46095,06-Jan,190,20/12/1994,Alabama,WR,Calvin Ridley,,,Alabama,20/12/1994,True,True,,True
+46096,05-Nov,220,02/02/1996,San Diego State,RB,Rashaad Penny,,,San Diego St.,02/02/1996,False,True,,True
+46097,06-Jan,217,20/01/1997,Virginia Tech,SS,Terrell Edmunds,,,Virginia Tech,20/01/1997,True,True,,True
+46098,06-Apr,291,11/03/1996,Florida,DT,Taven Bryan,,,Florida,11/03/1996,True,True,,True
+46099,05-Oct,191,11/02/1997,Central Florida,CB,Mike Hughes,,,UCF,11/02/1997,False,True,,True
+46100,05-Nov,215,17/02/1995,Georgia,RB,Sony Michel,,,Georgia,17/02/1995,True,True,,True
+46101,06-Feb,212,07/01/1997,Louisville,QB,Lamar Jackson,,,Louisville,07/01/1997,True,True,,True
+46102,06-Apr,305,05/09/1995,Nevada,G,Austin Corbett,,,Nevada,05/09/1995,True,True,,True
+46103,06-Feb,327,02/09/1995,Texas-El Paso,G,Will Hernandez,,,UTEP,02/09/1995,False,True,,True
+46104,05-Nov,225,27/12/1995,Georgia,RB,Nick Chubb,,,Georgia,27/12/1995,True,True,,True
+46105,06-Feb,230,27/07/1995,South Carolina State,MLB,Shaquille Leonard,,,#N/A,#N/A,#N/A,#N/A,Darius Leonard,Darius Leonard
+46106,06-Jun,315,25/03/1996,Auburn,T,Braden Smith,,,Auburn,25/03/1996,True,True,,True
+46107,05-Nov,208,03/08/1997,Southern California,RB,Ronald Jones,Ronald Jones II,,#N/A,#N/A,#N/A,#N/A,Ronald Jones II,Ronald Jones II
+46108,06-Mar,305,13/09/1997,Iowa,G,James Daniels,,,Iowa,13/09/1997,True,True,,True
+46109,06-Apr,216,10/10/1995,Southern Methodist,WR,Courtland Sutton,,,SMU,10/10/1995,False,True,,True
+46110,06-Feb,250,05/06/1996,Boston College,OLB,Harold Landry,Harold Landry III,,#N/A,#N/A,#N/A,#N/A,Harold Landry III,Harold Landry III
+46111,06-Jun,252,03/10/1995,Penn State,TE,Mike Gesicki,,,Penn State,03/10/1995,True,True,,True
+46113,06-Jan,195,23/10/1995,Washington,WR,Dante Pettis,,,Washington,23/10/1995,True,True,,True
+46116,05-Nov,200,18/11/1996,Texas A&amp;M,WR,Christian Kirk,,,Texas AM,18/11/1996,False,True,,True
+46117,06-Feb,251,28/12/1996,Southern California,OLB,Uchenna Nwosu,,,USC,28/12/1996,False,True,,True
+46118,06-May,256,03/01/1995,South Dakota State,TE,Dallas Goedert,,,S. Dakota St.,03/01/1995,False,True,,True
+46119,06-May,298,12/05/1997,Texas,G,Connor Williams,,,Texas,12/05/1997,True,True,,True
+46120,05-Nov,199,09/10/1994,Memphis,WR,Anthony Miller,,,Memphis,09/10/1994,True,True,,True
+46121,06-May,248,11/07/1995,Rutgers,DE,Kemoko Turay,,,Rutgers,11/07/1995,True,True,,True
+46122,05-Nov,205,16/09/1995,North Carolina,SS,M.J. Stewart,,,#N/A,#N/A,#N/A,#N/A,Samaje Perine,Samaje Perine
+46123,06-Jan,200,26/02/1997,Wake Forest,FS,Jessie Bates,Jessie Bates III,,#N/A,#N/A,#N/A,#N/A,Jessie Bates III,Jessie Bates III
+46124,05-Oct,180,08/11/1995,Louisiana State,CB,Donte Jackson,,,LSU,08/11/1995,False,True,,True
+46127,6-0,210,30/09/1996,Colorado,CB,Isaiah Oliver,,,Colorado,30/09/1996,True,True,,True
+46129,05-Nov,213,02/04/1996,Oklahoma State,WR,James Washington,,,Oklahoma St.,02/04/1996,False,True,,True
+46130,06-Apr,198,23/09/1996,Louisiana State,WR,D.J. Chark,D.J. Chark Jr,,#N/A,#N/A,#N/A,#N/A,D.J. Chark Jr,D.J. Chark Jr
+46131,06-Jul,297,15/09/1995,Pittsburgh,T,Brian O'Neill,,,Pittsburgh,15/09/1995,True,True,,True
+46132,06-Jan,206,31/12/1996,Auburn,CB,Carlton Davis,Carlton Davis III,,#N/A,#N/A,#N/A,#N/A,Carlton Davis III,Carlton Davis III
+46133,06-Mar,277,30/01/1995,Ohio State,DE,Tyquan Lewis,,,Ohio State,30/01/1995,True,True,,True
+46134,06-Aug,320,21/10/1995,North Carolina A&amp;T,T,Brandon Parker,,,N.C. AT,21/10/1995,False,True,,True
+46135,06-May,250,10/12/1995,Georgia,OLB,Lorenzo Carter,,,Georgia,10/12/1995,True,True,,True
+46137,06-Jan,204,15/02/1997,Stanford,SS,Justin Reid,,,Stanford,15/02/1997,True,True,,True
+46138,06-Mar,311,20/04/1995,North Carolina State,DT,B.J. Hill,,,N.C. State,20/04/1996,False,False,,False
+46139,06-Mar,236,19/11/1996,Brigham Young,MLB,Fred Warner,,,BYU,19/11/1996,False,True,,True
+46140,6-0,238,24/02/1996,Oregon,RB,Royce Freeman,,,Oregon,24/02/1996,True,True,,True
+46141,06-Apr,315,09/10/1993,Fort Hays State,DT,Nathan Shepherd,,,Fort Hays State,09/10/1993,True,True,,True
+46142,06-Feb,225,25/12/1996,Ohio State,ILB,Jerome Baker,,,Ohio State,25/12/1996,True,True,,True
+46143,06-Jun,315,10/09/1996,Louisville,T,Geron Christian,,,#N/A,#N/A,#N/A,#N/A,Jason Strowbridge,Jason Strowbridge
+46144,06-Jan,310,09/05/1996,Florida State,DT,Derrick Nnadi,,,Florida State,09/05/1996,True,True,,True
+46146,06-May,265,29/06/1995,Ohio State,DE,Sam Hubbard,,,Ohio State,29/06/1995,True,True,,True
+46148,06-Apr,279,15/05/1997,Southern California,DE,Rasheem Green,,,USC,15/05/1997,False,True,,True
+46150,06-Jan,200,04/03/1996,Colorado State,WR,Michael Gallup,,,Colorado St.,04/04/1996,False,False,,False
+46151,06-Jan,210,01/02/1995,Louisiana-Lafayette,FS,Tracy Walker,,,UL Lafayette,01/02/1995,False,True,,True
+46152,06-Aug,345,02/05/1996,Oklahoma,T,Orlando Brown,Orlando Brown Jr,,#N/A,#N/A,#N/A,#N/A,Orlando Brown Jr,Orlando Brown Jr
+46153,06-Mar,309,28/08/1996,North Carolina State,DT,Justin Jones,,,N.C. State,28/08/1996,False,True,,True
+46155,06-May,255,06/09/1995,Oklahoma,TE,Mark Andrews,,,Oklahoma,06/09/1995,True,True,,True
+46156,06-May,240,03/05/1996,Louisiana State,DE,Arden Key,,,LSU,03/05/1996,False,True,,True
+46157,06-Mar,233,21/03/1995,Vanderbilt,ILB,Oren Burks,,,Vanderbilt,21/03/1995,True,True,,True
+46158,06-May,321,19/06/1995,Texas Christian,T,Joseph Noteboom,,,TCU,19/06/1995,False,True,,True
+46160,06-Feb,210,07/01/1996,Central Florida,WR,Tre'Quan Smith,,,UCF,07/01/1996,False,True,,True
+46161,06-Jun,320,08/08/1997,Western Michigan,T,Chukwuma Okorafor,,,W. Michigan,08/08/1997,False,True,,True
+46162,06-Mar,214,18/04/1997,Alabama,SS,Ronnie Harrison,Ronnie Harrison Jr,,#N/A,#N/A,#N/A,#N/A,Ronnie Harrison Jr,Ronnie Harrison Jr
+46163,06-Jun,305,27/01/1995,Humboldt State,G,Alex Cappa,,,Humboldt State,27/01/1995,True,True,,True
+46165,06-Mar,307,25/01/1996,Stanford,DT,Harrison Phillips,,,Stanford,25/01/1996,True,True,,True
+46166,06-May,292,28/03/1996,Michigan,C,Mason Cole,,,Michigan,28/03/1996,True,True,,True
+46167,06-Apr,243,19/04/1992,Central Florida,TE,Jordan Akins,,,UCF,19/04/1992,False,True,,True
+46168,06-Jan,190,20/02/1996,Boston College,CB,Isaac Yiadom,,,Boston College,20/02/1996,True,True,,True
+46169,06-Jan,220,04/09/1994,Clemson,OLB,Dorian O'Daniel,,,Clemson,04/09/1994,True,True,,True
+46170,06-Mar,260,06/06/1996,Indiana,TE,Ian Thomas,,,Indiana,06/06/1996,True,True,,True
+46171,06-May,283,25/01/1996,Ohio State,DE,Jalyn Holmes,,,Ohio State,25/01/1996,True,True,,True
+46172,05-Nov,180,14/01/1997,Texas Tech,WR,Keke Coutee,,,Texas Tech,14/01/1997,True,True,,True
+46173,05-Sep,198,12/11/1996,North Carolina State,RB,Nyheim Hines,,,N.C. State,12/11/1996,False,True,,True
+46175,06-Jan,236,25/12/1994,Iowa,ILB,Josey Jewell,,,Iowa,25/12/1994,True,True,,True
+46176,06-Apr,252,23/02/1996,Miami,TE,Christopher Herndon,Christopher Herndon IV,,#N/A,#N/A,#N/A,#N/A,Christopher Herndon IV,Christopher Herndon IV
+46180,06-Feb,302,11/10/1995,Michigan State,C,Brian Allen,,,Michigan St.,11/10/1995,False,True,,True
+46183,06-Mar,297,14/11/1995,Alabama,DE,Da'Shawn Hand,,,Alabama,14/11/1995,True,True,,True
+46185,06-Apr,255,10/06/1997,Kansas,DE,Dorance Armstrong,,,Kansas,10/06/1997,True,True,,True
+46186,05-Oct,198,18/03/1997,Pittsburgh,SS,Jordan Whitehead,,,Pittsburgh,18/03/1997,True,True,,True
+46187,05-Nov,178,30/11/1994,Alabama,CB,Anthony Averett,,,Alabama,30/11/1994,True,True,,True
+46188,06-Feb,216,24/03/1996,West Virginia,ILB,Kyzir White,,,West Virginia,24/03/1996,True,True,,True
+46189,06-Apr,267,08/07/1996,Washington,TE,Will Dissly,,,Washington,08/07/1996,True,True,,True
+46190,05-Nov,192,27/07/1996,Weber State,CB,Taron Johnson,,,Weber State,27/07/1996,True,True,,True
+46191,06-Jan,235,15/11/1994,UCLA,ILB,Kenny Young,,,UCLA,15/11/1995,True,False,,False
+46192,06-Jun,260,09/08/1995,Notre Dame,TE,Durham Smythe,,,Notre Dame,09/08/1995,True,True,,True
+46193,05-Nov,205,19/03/1996,Texas A&amp;M,SS,Armani Watts,,,Texas AM,19/03/1996,False,True,,True
+46194,05-Sep,184,31/03/1996,Pittsburgh,CB,Avonte Maddox,,,Pittsburgh,31/03/1996,True,True,,True
+46197,06-Feb,287,08/05/1996,North Carolina State,DE,Kentavius Street,,,N.C. State,08/05/1996,False,True,,True
+46198,06-Jun,303,04/01/1996,North Carolina State,T,Will Richardson,,,#N/A,#N/A,#N/A,#N/A,Michael Dickson,Michael Dickson
+46199,06-May,253,29/03/1997,Florida State,DE,Josh Sweat,,,Florida State,29/03/1997,True,True,,True
+46200,06-Feb,230,22/12/1995,Arizona State,RB,Kalen Ballage,,,Arizona St.,22/12/1995,False,True,,True
+46203,05-Sep,210,13/04/1996,Fordham,RB,Chase Edmonds,,,Fordham,13/04/1996,True,True,,True
+46204,06-Apr,288,26/09/1996,Stephen F. Austin,DE,John Franklin-Myers,,,Stephen F. Austin,26/09/1996,True,True,,True
+46205,06-Feb,235,16/12/1993,Mississippi,DE,Marquis Haynes,,,#N/A,#N/A,#N/A,#N/A,Jarran Reed,Jarran Reed
+46206,06-May,242,11/07/1996,Stanford,TE,Dalton Schultz,,,Stanford,11/07/1996,True,True,,True
+46209,06-Feb,291,09/05/1995,Michigan,DT,Maurice Hurst,,,Michigan,09/05/1995,True,True,,True
+46211,05-Sep,188,11/11/1996,Kansas State,CB,D.J. Reed,D.J. Reed Jr,,#N/A,#N/A,#N/A,#N/A,D.J. Reed Jr,D.J. Reed Jr
+46212,06-Feb,255,24/08/1996,Purdue,ILB,Ja'Whaun Bentley,,,Purdue,24/08/1996,True,True,,True
+46214,06-Mar,313,14/09/1996,Delaware,DE,Bilal Nichols,,,Delaware,14/09/1996,True,True,,True
+46215,06-Mar,203,02/06/1995,Oklahoma State,CB,Tre Flowers,,,Oklahoma St.,02/06/1995,False,True,,True
+46216,6-0,244,25/01/1995,Virginia,ILB,Micah Kiser,,,Virginia,25/01/1995,True,True,,True
+46219,6-0,250,26/04/1995,Memphis,OLB,Genard Avery,,,Memphis,26/04/1995,True,True,,True
+46221,06-Jan,209,27/04/1995,Arizona,SS,Dane Cruikshank,,,Arizona,27/04/1995,True,True,,True
+46223,6-0,205,04/08/1994,Jacksonville State,CB,Siran Neal,,,Jacksonville State,04/08/1994,True,True,,True
+46226,06-Mar,254,30/07/1995,Central Michigan,TE,Tyler Conklin,,,Central Michigan,30/07/1995,True,True,,True
+46229,06-Jan,253,24/04/1995,Oklahoma,OLB,Ogbonnia Okoronkwo,,,Oklahoma,24/04/1995,True,True,,True
+46230,6-0,225,14/01/1995,Maryland,MLB,Jermaine Carter,Jermaine Carter Jr,,#N/A,#N/A,#N/A,#N/A,Jermaine Carter Jr,Jermaine Carter Jr
+46232,06-Mar,308,11/07/1997,Virginia Tech,DT,Tim Settle,,,Virginia Tech,11/07/1997,True,True,,True
+46235,06-Apr,315,21/11/1994,Virginia Tech,G,Wyatt Teller,,,Virginia Tech,21/11/1994,True,True,,True
+46237,06-Apr,293,04/06/1996,Ohio State,T,Jamarco Jones,,,Ohio State,04/06/1996,True,True,,True
+46238,06-Jan,217,18/07/1994,Mississippi,RB,Jordan Wilkins,,,Ole Miss,18/07/1994,False,True,,True
+46239,05-Oct,190,26/06/1995,Western Michigan,CB,Darius Phillips,,,W. Michigan,26/06/1996,False,False,,False
+46240,06-Apr,225,25/03/1995,Western Kentucky,QB,Mike White,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46243,06-Apr,207,10/10/1994,South Florida,WR,Marquez Valdes-Scantling,,,USF,10/10/1994,False,True,,True
+46249,06-Apr,318,04/03/1995,Connecticut,DT,Folorunso Fatukasi,,,Connecticut,04/03/1995,True,True,,True
+46250,06-Mar,260,11/10/1994,Utah,OLB,Kylie Fitts,,,Utah,11/10/1994,True,True,,True
+46253,6-0,208,09/06/1994,Florida,OLB,Marcell Harris,,,Florida,09/06/1994,True,True,,True
+46255,06-Feb,242,11/12/1995,Temple,DE,Jacob Martin,,,Temple,11/12/1995,True,True,,True
+46256,05-Sep,190,15/10/1996,Clemson,WR,Ray-Ray McCloud,,,#N/A,#N/A,#N/A,#N/A,Jamel Dean,Jamel Dean
+46259,06-Jan,210,21/04/1997,Texas,FS,DeShon Elliott,,,Texas,21/04/1997,True,True,,True
+46263,6-0,184,22/01/1996,Louisiana State,WR,Russell Gage,Russell Gage Jr,,#N/A,#N/A,#N/A,#N/A,Russell Gage Jr,Russell Gage Jr
+46264,06-Apr,310,21/03/1995,Rutgers,NT,Sebastian Joseph,Sebastian Joseph-Day,,#N/A,#N/A,#N/A,#N/A,Sebastian Joseph-Day,Sebastian Joseph-Day
+46265,6-0,190,20/07/1996,Central Arkansas,CB,Tremon Smith,,,Central Arkansas,20/07/1996,True,True,,True
+46267,06-Mar,320,03/01/1997,Tennessee,G,Reginald McKenzie,,,#N/A,#N/A,#N/A,#N/A,Henry Black,Henry Black
+46269,06-Feb,215,02/08/1995,Yale,ILB,Foyesade Oluokun,,,Yale,02/08/1995,True,True,,True
+46270,05-Jun,203,27/04/1995,Louisiana Tech,RB,Boston Scott,,,LA. Tech,27/04/1995,False,True,,True
+46273,05-Nov,185,23/07/1994,Virginia State,RB,Trenton Cannon,,,Virginia State,23/07/1994,True,True,,True
+46275,06-Jul,332,16/12/1994,Texas Christian,T,Matt Pryor,,,TCU,16/12/1994,False,True,,True
+46276,06-May,214,30/09/1996,Notre Dame,WR,Equanimeous St. Brown,,,Notre Dame,30/09/1996,True,True,,True
+46277,06-May,188,10/03/1995,Boise State,WR,Cedrick Wilson,,,Boise State,20/11/1995,True,False,,False
+46279,05-Sep,190,06/10/1995,Miami,WR,Braxton Berrios,,,Miami,06/10/1995,True,True,,True
+46284,06-May,317,24/11/1994,Alabama,C,Bradley Bozeman,,,Alabama,24/11/1994,True,True,,True
+46300,06-Jan,219,10/05/1996,Texas Christian,ILB,Travin Howard,,,TCU,10/05/1996,False,True,,True
+46302,06-Aug,344,31/03/1997,No College,T,Jordan Mailata,,,No College,31/03/1997,True,True,,True
+46304,6-0,236,02/07/1996,Syracuse,OLB,Zaire Franklin,,,Syracuse,02/07/1996,True,True,,True
+46307,06-Jun,290,07/09/1995,Ferris State,DT,Zach Sieler,,,Ferris State,07/09/1995,True,True,,True
+46312,05-Oct,185,17/04/1996,Western Carolina,CB,Keion Crossen,,,W. Carolina,17/04/1996,False,True,,True
+46313,06-Apr,265,23/12/1994,Southern Methodist,OLB,Justin Lawler,,,SMU,23/12/1994,False,True,,True
+46314,06-May,311,10/12/1995,Louisiana State,C,Will Clapp,,,LSU,19/09/1996,False,False,,False
+46320,6-0,200,22/04/1996,Northwestern,RB,Justin Jackson,,,Northwestern,22/04/1996,True,True,,True
+46322,06-May,228,03/02/1997,Florida State,WR,Auden Tate,,,Florida State,03/02/1997,True,True,,True
+46323,06-Jun,305,17/05/1995,Cincinnati,T,Korey Cunningham,,,#N/A,#N/A,#N/A,#N/A,Austin Ekeler,Austin Ekeler
+46329,05-Sep,190,17/11/1995,Southern U.,CB,Danny Johnson,,,Southern,17/11/1995,False,True,,True
+46331,06-May,240,26/01/1995,San Diego,TE,Ross Dwelley,,,San Diego,26/01/1995,True,True,,True
+46349,06-Jan,202,03/11/1993,Central Arkansas,FS,George Odum,,,Central Arkansas,03/11/1993,True,True,,True
+46354,05-Nov,184,25/03/1996,Tennessee,CB,Emmanuel Moseley,,,Tennessee,25/03/1996,True,True,,True
+46362,06-May,214,06/01/1996,Alabama,WR,Cam Sims,,,Alabama,06/01/1996,True,True,,True
+46367,05-Aug,190,24/07/1994,Colorado,RB,Phillip Lindsay,,,Colorado,24/07/1994,True,True,,True
+46369,6-0,207,13/02/1996,Florida State,SS,Trey Marshall,,,Florida State,13/02/1996,True,True,,True
+46376,06-May,285,28/07/1995,Washington,G,Coleman Shelton,,,#N/A,#N/A,#N/A,#N/A,Logan Cooke,Logan Cooke
+46378,6-0,202,18/01/1996,Mississippi State,SS,J.T. Gray,,,Mississippi St.,18/01/1996,False,True,,True
+46387,06-Mar,295,23/05/1995,Tennessee,DT,Kendal Vickers,,,#N/A,#N/A,#N/A,#N/A,Tyus Bowser,Tyus Bowser
+46394,06-Jan,181,08/06/1996,Northern Illinois,WR,Christian Blake,,,N. Illinois,08/06/1996,False,True,,True
+46404,06-Feb,295,01/09/1994,Alabama,C,J.C. Hassenauer,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46416,06-Feb,285,25/07/1996,UCLA,OLB,Jacob Tuioti-Mariner,,,UCLA,25/07/1996,True,True,,True
+46424,06-Jan,235,17/03/1996,Penn State,FB,Jason Cabinda,,,Penn State,17/03/1996,True,True,,True
+46438,06-Mar,315,04/11/1994,Northwestern,NT,Tyler Lancaster,,,Northwestern,04/11/1994,True,True,,True
+46456,05-Sep,187,15/03/1993,Alabama-Birmingham,CB,Darious Williams,,,UAB,15/03/1993,False,True,,True
+46457,06-Jan,248,12/09/1997,Toledo,OLB,Olasunkanmi Adeniyi,,,Toledo,12/09/1997,True,True,,True
+46461,05-Oct,205,30/07/1995,Cincinnati,RB,Mike Boone,,,Cincinnati,30/07/1995,True,True,,True
+46487,05-Nov,310,19/11/1995,Texas,NT,Poona Ford,,,Texas,19/11/1995,True,True,,True
+46504,06-Mar,300,13/01/1994,Washington State,DT,Daniel Ekuale,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46521,06-Feb,233,27/07/1995,Iowa,ILB,Ben Niemann,,,Iowa,27/07/1995,True,True,,True
+46522,06-Jan,205,17/11/1993,Kansas State,WR,Byron Pringle,,,Kansas State,17/11/1993,True,True,,True
+46526,05-Nov,224,15/04/1995,Louisiana State,RB,Darrel Williams,,,LSU,15/04/1995,False,True,,True
+46527,06-Mar,235,19/09/1996,Washington State,OLB,Frankie Luvu,,,Wash. St.,19/09/1996,False,True,,True
+46536,06-Feb,245,07/09/1994,Nevada-Las Vegas,FB,Johnny Stanton,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46542,06-Mar,210,26/12/1994,Temple,WR,Keith Kirkwood,,,Temple,26/12/1994,True,True,,True
+46543,06-Apr,280,19/09/1995,Oregon,DE,Henry Mondeaux,,,Oregon,19/09/1995,True,True,,True
+46544,06-Apr,255,06/03/1995,Western Kentucky,TE,Deon Yelder,,,#N/A,#N/A,#N/A,#N/A,Andrew Billings,Andrew Billings
+46618,06-Feb,305,18/08/1995,South Carolina,DT,Taylor Stallworth,,,South Carolina,18/08/1995,True,True,,True
+46629,06-May,307,27/11/1995,Nebraska,C,Nick Gates,,,Nebraska,27/11/1995,True,True,,True
+46630,05-Oct,185,02/02/1996,Utah State,CB,Jalen Davis,,,Utah State,02/02/1996,True,True,,True
+46633,06-Jan,218,27/03/1996,Florida Atlantic,RB,Buddy Howell,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46652,05-Nov,189,07/08/1996,Georgia State,CB,Chandon Sullivan,,,Georgia State,07/08/1996,True,True,,True
+46657,6-0,232,09/08/1994,Sioux Falls,OLB,Dennis Gardeck,,,Sioux Falls,09/08/1994,True,True,,True
+46671,06-Jan,219,26/02/1996,Vanderbilt,WR,Trent Sherfield,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46672,05-Oct,205,11/03/1996,Ferris State,CB,Tavierre Thomas,,,#N/A,#N/A,#N/A,#N/A,Taven Bryan,Taven Bryan
+46674,06-Feb,214,09/06/1996,Washington,ILB,Ezekiel Turner,,,#N/A,#N/A,#N/A,#N/A,Vyncint Smith,Vyncint Smith
+46679,06-Feb,302,16/09/1996,Southern Methodist,C,Evan Brown,,,#N/A,#N/A,#N/A,#N/A,James Pierre,James Pierre
+46680,05-Oct,205,27/04/1996,Temple,SS,Sean Chandler,,,Temple,27/04/1996,True,True,,True
+46689,06-Jun,318,05/10/1994,Iowa,G,Ike Boettger,,,Iowa,07/12/1995,True,False,,False
+46698,6-0,179,12/06/1995,Alabama,CB,Levi Wallace,,,Alabama,12/06/1995,True,True,,True
+46699,06-Jan,193,02/20/1995,Miami,CB,Dee Delaney,,,Miami,20/02/1995,True,False,,False
+46700,05-Nov,185,05/03/1996,Vanderbilt,CB,Tre Herndon,,,Vanderbilt,05/03/1996,True,True,,True
+46705,06-May,227,11/12/1995,Iowa State,WR,Allen Lazard,,,Iowa State,11/12/1995,True,True,,True
+46711,06-Mar,200,24/12/1995,Southern Illinois,SS,Ryan Neal,,,S. Illinois,24/12/1995,False,True,,True
+46729,06-Feb,197,08/09/1994,Virginia Tech,CB,Brandon Facyson,,,Virginia Tech,08/09/1994,True,True,,True
+46755,06-May,320,25/01/1994,Grambling,T,Trenton Scott,,,#N/A,#N/A,#N/A,#N/A,Rayshawn Jenkins,Rayshawn Jenkins
+46757,06-Jan,195,16/05/1996,Middle Tennessee,CB,Charvarius Ward,,,Mid Tenn St.,16/05/1996,False,True,,True
+46772,06-Feb,255,17/09/1995,Miami,OLB,Trent Harris,,,Miami,17/09/1995,True,True,,True
+46775,06-Jan,198,17/11/1995,Maryland,CB,J.C. Jackson,JC Jackson,,#N/A,#N/A,#N/A,#N/A,JC Jackson,JC Jackson
+46778,05-Nov,202,15/12/1995,Mississippi,FS,A.J. Moore,A.J. Moore Jr,,#N/A,#N/A,#N/A,#N/A,A.J. Moore Jr,A.J. Moore Jr
+46781,06-Feb,237,27/12/1995,Oregon State,RB,Ryan Nall,,,Oregon State,27/12/1995,True,True,,True
+46786,06-Apr,275,07/16/1995,Old Dominion,DE,Bunmi Rotimi,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46796,06-Apr,272,30/12/1995,Buffalo,DE,Demone Harris,,,Buffalo,30/12/1995,True,True,,True
+46797,06-May,239,12/11/1994,Southern Arkansas,TE,Tanner Hudson,,,Southern Arkansas,12/11/1994,True,True,,True
+46798,6-0,212,09/10/1994,Northwestern,RB,Godwin Igwebuike,,,Northwestern,10/09/1994,True,False,,False
+46807,6-0,195,10/02/1996,San Jose State,CB,Andre Chachere,,,San Jose St.,10/02/1996,False,True,,True
+46823,6-0,196,04/08/1995,Southeast Missouri,CB,Mike Ford,,,SE Missouri St.,04/08/1995,False,True,,True
+46825,6-0,200,13/08/1995,Nebraska,CB,Chris Jones,,,Mississippi St.,03/07/1994,False,False,,False
+46836,05-Sep,175,20/12/1995,Texas Tech,WR,Cameron Batson,,,Texas Tech,20/12/1995,True,True,,True
+46843,06-Apr,250,01/10/1995,Temple,OLB,Sharif Finch,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46852,06-Mar,312,18/02/1994,James Madison,G,Aaron Stinnie,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46902,06-Jan,229,14/12/1995,Western Michigan,OLB,Robert Spillane,,,W. Michigan,14/12/1995,False,True,,True
+46908,05-Oct,195,08/08/1994,Utah State,FS,Dallin Leavitt,,,Utah State,08/08/1994,True,True,,True
+46915,06-Jun,258,13/12/1992,Southeastern Oklahoma,TE,Codey McElroy,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+46958,06-Feb,230,23/07/1995,North Dakota State,MLB,Chris Board,,,North Dakota St.,23/07/1995,False,True,,True
+46992,06-Feb,205,03/01/1995,Prairie View,WR,KhaDarel Hodge,,,P. View AM,03/01/1995,False,True,,True
+46998,06-Feb,200,30/01/1996,Illinois,WR,Malik Turner,,,Illinois,30/01/1996,True,True,,True
+47016,06-Feb,255,24/12/1991,Tennessee,ILB,A.J. Johnson,Alexander Johnson,,#N/A,#N/A,#N/A,#N/A,Alexander Johnson,Alexander Johnson
+47180,06-Jan,200,16/10/1995,Wake Forest,QB,John Wolford,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+47605,05-Oct,208,27/02/1996,South Florida,RB,D'Ernest Johnson,,,USF,27/02/1996,False,True,,True
+47749,06-Mar,255,15/12/1994,Tennessee,FB,Jakob Johnson,,,Tennessee,15/12/1994,True,True,,True
+47784,05-Oct,207,07/08/1997,Oklahoma,QB,Kyler Murray,,,Oklahoma,07/08/1997,True,True,,True
+47785,06-Apr,266,23/10/1997,Ohio State,DE,Nick Bosa,,,Ohio State,23/10/1997,True,True,,True
+47786,06-Mar,303,21/12/1997,Alabama,NT,Quinnen Williams,,,Alabama,20/12/1997,True,False,,False
+47787,06-Apr,265,17/05/1997,Clemson,DE,Clelin Ferrell,,,Clemson,17/05/1997,True,True,,True
+47788,6-0,237,17/02/1998,Louisiana State,ILB,Devin White,,,LSU,17/02/1998,False,True,,True
+47789,06-May,220,27/05/1997,Duke,QB,Daniel Jones,,,Duke,27/05/1997,True,True,,True
+47790,06-May,262,13/07/1997,Kentucky,OLB,Josh Allen,,,Wyoming,21/05/1996,False,False,,False
+47791,06-May,248,03/07/1997,Iowa,TE,T.J. Hockenson,,,Iowa,03/07/1997,True,True,,True
+47792,06-Jan,287,12/12/1997,Houston,DT,Ed Oliver,,,Houston,12/12/1997,True,True,,True
+47793,05-Nov,233,18/07/1998,Michigan,ILB,Devin Bush,,,Michigan,18/07/1998,True,True,,True
+47794,06-Apr,305,17/11/1997,Alabama,T,Jonah Williams,,,Alabama,17/11/1997,True,True,,True
+47795,06-May,277,03/12/1997,Michigan,OLB,Rashan Gary,,,Michigan,03/12/1997,True,True,,True
+47796,06-Apr,315,20/12/1995,Clemson,DT,Christian Wilkins,,,Clemson,20/12/1995,True,True,,True
+47797,06-Apr,307,08/02/1997,Boston College,G,Chris Lindstrom,,,Boston College,28/02/1997,True,False,,False
+47799,06-May,250,23/04/1998,Florida State,DE,Brian Burns,,,Florida State,23/04/1998,True,True,,True
+47800,06-Apr,342,12/11/1997,Clemson,DE,Dexter Lawrence,Dexter Lawrence II,,#N/A,#N/A,#N/A,#N/A,Dexter Lawrence II,Dexter Lawrence II
+47801,06-Mar,305,20/06/1995,North Carolina State,C,Garrett Bradbury,,,N.C. State,20/06/1995,False,True,,True
+47802,06-Apr,300,28/07/1997,Mississippi State,DT,Jeffery Simmons,,,Mississippi St.,28/07/1997,False,True,,True
+47803,06-Apr,249,20/11/1997,Iowa,TE,Noah Fant,,,Iowa,20/11/1997,True,True,,True
+47804,05-Nov,200,30/07/1997,Maryland,SS,Darnell Savage,,,Maryland,30/07/1997,True,True,,True
+47805,06-May,315,03/10/1995,Washington State,T,Andre Dillard,,,Wash. St.,03/10/1995,False,True,,True
+47806,06-May,322,23/05/1996,Alabama State,T,Tytus Howard,,,Alabama St.,23/05/1996,False,True,,True
+47807,05-Oct,220,11/02/1998,Alabama,RB,Josh Jacobs,,,Alabama,11/02/1998,True,True,,True
+47808,05-Sep,170,04/06/1997,Oklahoma,WR,Marquise Brown,,,Oklahoma,04/06/1997,True,True,,True
+47809,06-Jun,262,04/09/1996,Mississippi State,DE,Montez Sweat,,,Mississippi St.,04/09/1996,False,True,,True
+47810,6-0,205,25/10/1996,Mississippi State,SS,Johnathan Abram,,,Mississippi St.,25/10/1996,False,True,,True
+47811,06-Jun,295,08/10/1996,Notre Dame,DT,Jerry Tillery,,,Notre Dame,08/10/1996,True,True,,True
+47812,06-Feb,291,12/09/1995,Texas Christian,DE,L.J. Collier,,,TCU,12/09/1995,False,True,,True
+47813,05-Nov,180,04/09/1997,Georgia,CB,Deandre Baker,,,Georgia,04/09/1996,True,False,,False
+47814,06-Jun,306,22/02/1995,Washington,T,Kaleb McGary,,,Washington,22/02/1995,True,True,,True
+47815,06-Apr,225,17/12/1997,Arizona State,WR,N'Keal Harry,,,Arizona St.,17/12/1997,False,True,,True
+47816,05-Nov,190,18/01/1998,Washington,CB,Byron Murphy,Byron Murphy Jr,,#N/A,#N/A,#N/A,#N/A,Byron Murphy Jr,Byron Murphy Jr
+47817,6-0,190,23/05/1996,Temple,CB,Rock Ya-Sin,,,Temple,23/05/1996,True,True,,True
+47818,06-May,312,25/11/1997,Florida,T,Jawaan Taylor,,,Florida,25/11/1997,True,True,,True
+47819,05-Nov,214,15/01/1996,South Carolina,WR,Deebo Samuel,,,South Carolina,15/01/1996,True,True,,True
+47821,06-Mar,329,28/12/1996,Oklahoma,G,Cody Ford,,,Oklahoma,28/12/1996,True,True,,True
+47822,6-0,195,19/06/1997,Central Michigan,CB,Sean Murphy-Bunting,,,Central Michigan,19/06/1997,True,True,,True
+47823,06-Feb,200,20/09/1997,Clemson,CB,Trayvon Mullen,,,Clemson,20/09/1997,True,True,,True
+47824,06-May,312,13/07/1995,Kansas State,G,Dalton Risner,,,Kansas State,13/07/1995,True,True,,True
+47825,06-Apr,228,10/11/1996,Missouri,QB,Drew Lock,,,Missouri,10/11/1996,True,True,,True
+47826,06-Feb,250,28/09/1996,Hawaii,MLB,Jahlani Tavai,,,Hawaii,28/09/1996,True,True,,True
+47827,06-May,310,26/12/1995,Mississippi State,G,Elgton Jenkins,,,Mississippi St.,26/12/1995,False,True,,True
+47828,06-Mar,212,06/12/1997,Vanderbilt,CB,Joejuan Williams,,,Vanderbilt,06/12/1997,True,True,,True
+47829,06-Feb,184,03/12/1997,Louisiana State,CB,Greedy Williams,,,LSU,03/12/1997,False,True,,True
+47830,06-Feb,195,18/07/1997,Utah,FS,Marquise Blair,,,Utah,18/07/1997,True,True,,True
+47831,06-Apr,315,27/08/1997,Texas A&amp;M,C,Erik McCoy,,,Texas AM,27/08/1997,False,True,,True
+47832,06-Mar,252,19/01/1996,Texas Christian,DE,Ben Banogu,,,TCU,19/01/1996,False,True,,True
+47834,6-0,226,30/06/1997,Mississippi,WR,A.J. Brown,,,Ole Miss,30/06/1997,False,True,,True
+47835,06-Apr,259,16/04/1996,Washington,TE,Drew Sample,,,Washington,16/04/1996,True,True,,True
+47836,05-Nov,211,01/05/1997,Penn State,RB,Miles Sanders,,,Penn State,01/05/1997,True,True,,True
+47837,06-Feb,213,04/11/1995,Kentucky,CB,Lonnie Johnson,Lonnie Johnson Jr,,#N/A,#N/A,#N/A,#N/A,Lonnie Johnson Jr,Lonnie Johnson Jr
+47838,06-Jun,325,10/08/1996,Northern Illinois,G,Max Scharping,,,N. Illinois,10/08/1996,False,True,,True
+47839,05-Oct,187,12/03/1998,Georgia,WR,Mecole Hardman,,,Georgia,12/03/1998,True,True,,True
+47840,06-Feb,225,31/12/1996,Stanford,TE,J.J. Arcega-Whiteside,,,Stanford,31/12/1996,True,True,,True
+47842,6-0,205,16/07/1997,Ohio State,WR,Parris Campbell,,,Ohio State,16/07/1997,True,True,,True
+47843,6-0,206,31/05/1997,Delaware,FS,Nasir Adderley,,,Delaware,31/05/1997,True,True,,True
+47844,6-0,208,22/12/1997,Washington,FS,Taylor Rapp,,,Washington,22/12/1997,True,True,,True
+47846,6-0,205,19/10/1995,Virginia,FS,Juan Thornhill,,,Virginia,19/10/1995,True,True,,True
+47847,06-Apr,230,14/12/1997,Mississippi,WR,DK Metcalf,D.K. Metcalf,,#N/A,#N/A,#N/A,#N/A,D.K. Metcalf,D.K. Metcalf
+47848,06-Apr,281,20/08/1997,Boston College,DE,Zach Allen,,,Boston College,20/08/1997,True,True,,True
+47849,05-Oct,181,05/07/1996,Toledo,WR,Diontae Johnson,,,Toledo,05/07/1996,True,True,,True
+47852,06-May,250,21/03/1997,San Jose State,TE,Josh Oliver,,,San Jose St.,21/03/1997,False,True,,True
+47853,05-Aug,200,19/08/1997,Memphis,RB,Darrell Henderson,Darrell Henderson Jr,,#N/A,#N/A,#N/A,#N/A,Darrell Henderson Jr,Darrell Henderson Jr
+47854,06-Mar,281,05/01/1997,Ohio State,DE,Dre'Mont Jones,,,Ohio State,05/01/1997,True,True,,True
+47855,06-Feb,245,21/05/1996,North Carolina State,OLB,Germaine Pratt,,,N.C. State,21/05/1996,False,True,,True
+47856,05-Oct,222,07/06/1997,Iowa State,RB,David Montgomery,,,Iowa State,07/06/1997,True,True,,True
+47857,05-Jul,203,03/09/1997,Florida Atlantic,RB,Devin Singletary,,,FAU,03/09/1997,False,True,,True
+47859,6-0,210,15/09/1995,Ohio State,WR,Terry McLaurin,,,Ohio State,15/09/1996,True,False,,False
+47860,06-Mar,251,19/04/1995,Michigan,DE,Chase Winovich,,,Michigan,19/04/1995,True,True,,True
+47861,06-Jun,310,03/09/1996,Wisconsin,C,Michael Deiter,,,Wisconsin,03/09/1996,True,True,,True
+47862,05-Nov,196,06/02/1998,Michigan,CB,David Long,David Long Jr,,#N/A,#N/A,#N/A,#N/A,David Long Jr,David Long Jr
+47863,06-Jan,238,08/06/1995,Brigham Young,OLB,Sione Takitaki,,,BYU,08/06/1996,False,False,,False
+47864,06-Jan,207,19/12/1995,Boston College,SS,Will Harris,,,Boston College,19/12/1995,True,True,,True
+47865,06-Mar,316,23/09/1996,North Carolina-Charlotte,G,Nate Davis,,,Charlotte,23/09/1996,False,True,,True
+47866,06-Feb,192,12/01/1998,Michigan State,CB,Justin Layne,,,Michigan St.,12/01/1998,False,True,,True
+47867,6-0,324,09/08/1996,Western Illinois,DT,Khalen Saunders,,,W. Illinois,09/08/1996,False,True,,True
+47868,06-May,275,14/12/1995,Louisiana Tech,OLB,Jaylon Ferguson,,,LA. Tech,14/12/1995,False,True,,True
+47870,05-Nov,215,11/02/1997,Alabama,RB,Damien Harris,,,Alabama,11/02/1997,True,True,,True
+47871,06-Feb,237,13/11/1996,Utah,MLB,Cody Barton,,,Utah,13/11/1996,True,True,,True
+47872,06-Jan,234,29/07/1996,Stanford,MLB,Bobby Okereke,,,Stanford,29/07/1996,True,True,,True
+47873,06-May,308,03/11/1997,Penn State,G,Connor McGovern,,,Missouri,27/04/1993,False,False,,False
+47874,06-Jun,307,05/09/1996,Sioux Falls,T,Trey Pipkins,,,#N/A,#N/A,#N/A,#N/A,Nate Brooks,Nate Brooks
+47875,06-Mar,308,25/05/1997,Southern California,T,Chuma Edoga,,,USC,25/05/1997,False,True,,True
+47876,06-Apr,220,12/10/1996,Notre Dame,WR,Miles Boykin,,,Notre Dame,12/10/1996,True,True,,True
+47877,06-Jan,206,15/10/1996,Auburn,CB,Jamel Dean,,,Auburn,15/10/1996,True,True,,True
+47878,06-Apr,250,07/12/1996,Old Dominion,OLB,Oshane Ximines,,,Old Dominion,07/12/1996,True,True,,True
+47879,06-Apr,254,14/11/1996,Mississippi,TE,Dawson Knox,,,Ole Miss,14/11/1996,False,True,,True
+47880,06-Apr,312,24/03/1997,Oklahoma,G,Bobby Evans,,,#N/A,#N/A,#N/A,#N/A,Darrell Taylor,Darrell Taylor
+47881,05-Nov,226,28/08/1996,Murray State,OLB,Quincy Williams,,,Murray State,28/08/1996,True,True,,True
+47882,05-Oct,200,18/05/1996,Kentucky,FS,Mike Edwards,,,Kentucky,18/05/1996,True,True,,True
+47884,06-May,310,21/02/1996,West Virginia,T,Yodny Cajuste,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+47885,05-Nov,220,19/06/1998,Boise State,RB,Alexander Mattison,,,Boise State,19/06/1998,True,True,,True
+47888,05-Nov,208,20/12/1997,Florida,SS,Chauncey Gardner-Johnson,,,#N/A,#N/A,#N/A,#N/A,Quinnen Williams,Quinnen Williams
+47889,06-May,255,22/08/1997,Eastern Michigan,DE,Maxx Crosby,,,Eastern Michigan,22/08/1997,True,True,,True
+47890,06-Jul,272,04/03/1997,Iowa,OLB,Anthony Nelson,,,Iowa,04/03/1997,True,True,,True
+47891,05-Nov,193,19/03/1998,Notre Dame,SS,Julian Love,,,Notre Dame,19/03/1998,True,True,,True
+47892,05-Nov,215,07/05/1996,Michigan State,SS,Khari Willis,,,Michigan St.,07/05/1996,False,True,,True
+47899,05-Nov,210,14/06/1998,Iowa,FS,Amani Hooker,,,Iowa,14/06/1998,True,True,,True
+47900,06-Jun,261,12/11/1996,Clemson,OLB,Austin Bryant,,,Clemson,12/11/1996,True,True,,True
+47902,6-0,196,06/11/1996,Miami,FS,Sheldrick Redwine,,,Miami,06/11/1996,True,True,,True
+47904,06-Mar,267,12/09/1995,West Virginia,TE,Trevon Wesco,,,West Virginia,12/09/1995,True,True,,True
+47905,05-Oct,223,27/02/1998,Kentucky,RB,Benny Snell,,,Kentucky,26/02/1998,True,False,,False
+47906,06-Apr,310,29/10/1996,Oklahoma,G,Ben Powers,,,Oklahoma,29/10/1996,True,True,,True
+47911,6-0,209,30/04/1997,Memphis,RB,Tony Pollard,,,Memphis,30/04/1997,True,True,,True
+47913,06-Feb,234,15/08/1995,Notre Dame,ILB,Drue Tranquill,,,Notre Dame,15/08/1995,True,True,,True
+47914,06-Mar,316,09/05/1996,Indiana,G,Wes Martin,,,Indiana,09/05/1996,True,True,,True
+47915,05-Sep,201,16/05/1997,Oregon,FS,Ugochukwu Amadi,Ugo Amadi,,#N/A,#N/A,#N/A,#N/A,Ugo Amadi,Ugo Amadi
+47917,06-Jan,312,06/05/1996,Washington,NT,Greg Gaines,,,Washington,06/05/1996,True,True,,True
+47919,06-Jun,315,25/01/1998,Ohio State,G,Michael Jordan,,,Ohio State,25/01/1998,True,True,,True
+47920,06-Apr,250,06/05/1997,Louisiana State,TE,Foster Moreau,,,LSU,06/05/1997,False,True,,True
+47922,06-Jan,196,11/02/1997,Alabama,SS,Deionte Thompson,,,Alabama,11/02/1997,True,True,,True
+47924,06-Aug,265,10/09/1996,Michigan,TE,Zach Gentry,,,#N/A,#N/A,#N/A,#N/A,Jason Strowbridge,Jason Strowbridge
+47929,06-Feb,203,09/02/1996,Penn State,CB,Amani Oruwariye,,,Penn State,09/02/1996,True,True,,True
+47931,6-0,225,25/05/1997,Arkansas,OLB,Dre Greenlaw,,,Arkansas,25/05/1997,True,True,,True
+47932,05-Oct,185,21/12/1995,Clemson,WR,Hunter Renfrow,,,Clemson,25/12/1995,True,False,,False
+47933,06-Mar,288,26/09/1996,Texas A&amp;M,DE,Kingsley Keke,,,Texas AM,26/09/1996,False,True,,True
+47934,06-Apr,242,01/07/1995,Wisconsin,OLB,Andrew Van Ginkel,,,Wisconsin,01/07/1995,True,True,,True
+47938,06-Jan,240,14/02/1998,Alabama,OLB,Mack Wilson,,,Alabama,14/02/1998,True,True,,True
+47939,06-May,248,15/01/1996,Oregon,OLB,Justin Hollins,,,Oregon,15/01/1996,True,True,,True
+47940,06-Jan,235,10/05/1996,Minnesota,ILB,Blake Cashman,,,Minnesota,10/05/1996,True,True,,True
+47944,06-May,280,20/08/1997,Texas,DE,Charles Omenihu,,,Texas,20/08/1997,True,True,,True
+47947,06-Apr,230,01/06/1995,Tarleton State,OLB,E.J. Speed,,,Tarleton State,01/06/1995,True,True,,True
+47948,06-Apr,275,20/12/1996,Miami,DE,Joe Jackson,,,Miami,20/12/1996,True,True,,True
+47952,06-Jun,308,20/03/1997,Wisconsin,G,David Edwards,,,Wisconsin,20/03/1997,True,True,,True
+47954,06-Jan,190,12/01/1997,Auburn,WR,Darius Slayton,,,Auburn,12/01/1997,True,True,,True
+47956,06-Jan,240,30/07/1996,North Carolina,OLB,Cole Holcomb,,,North Carolina,30/06/1996,True,False,,False
+47959,06-May,252,24/04/1997,Stanford,TE,Kaden Smith,,,Stanford,24/04/1997,True,True,,True
+47964,05-Oct,190,13/11/1995,Miami,FS,Jaquan Johnson,,,Miami,06/11/1995,True,False,,False
+47965,05-Aug,206,18/10/1997,Texas A&amp;M,RB,Trayveon Williams,,,Texas AM,18/10/1997,False,True,,True
+47969,05-Oct,210,17/09/1997,Maryland,RB,Ty Johnson,,,Maryland,17/09/1997,True,True,,True
+47970,06-Mar,215,04/09/1996,Colorado,WR,Juwann Winfree,,,Colorado,04/09/1996,True,True,,True
+47971,05-Nov,224,12/10/1996,West Virginia,ILB,David Long,,,#N/A,#N/A,#N/A,#N/A,Miles Boykin,Miles Boykin
+47973,06-May,295,22/07/1996,Arkansas,NT,Armon Watts,,,Arkansas,22/07/1996,True,True,,True
+47974,6-0,191,27/01/1996,Wyoming,SS,Marcus Epps,,,Wyoming,27/01/1996,True,True,,True
+47975,06-Mar,295,24/08/1996,Alabama,DE,Isaiah Buggs,,,Alabama,24/08/1996,True,True,,True
+47976,06-May,323,14/02/1997,Elon,T,Olisaemeka Udoh,,,Elon University,14/02/1997,False,True,,True
+47978,05-Nov,185,10/12/1995,Central Michigan,CB,Xavier Crawford,,,Central Michigan,10/12/1995,True,True,,True
+47984,05-Nov,188,17/02/1997,South Carolina,CB,Rashad Fenton,,,South Carolina,17/02/1997,True,True,,True
+47985,06-Jul,305,29/07/1997,Ohio State,T,Isaiah Prince,,,Ohio State,29/07/1997,True,True,,True
+47987,05-Oct,202,07/08/1998,Miami,RB,Travis Homer,,,Miami,07/08/1998,True,True,,True
+47988,05-Aug,183,08/10/1996,Kansas State,CB,Duke Shelley,,,Kansas State,08/10/1996,True,True,,True
+47991,05-Nov,174,31/07/1997,Bowling Green,WR,Scott Miller,Scotty Miller,,#N/A,#N/A,#N/A,#N/A,Scotty Miller,Scotty Miller
+47995,06-Jun,324,07/08/1996,South Carolina,G,Dennis Daley,,,South Carolina,07/08/1996,True,True,,True
+47996,6-0,204,21/02/1995,Texas A&amp;M,SS,Donovan Wilson,,,Texas AM,21/02/1995,False,True,,True
+48000,05-Nov,201,12/09/1996,Texas,CB,Kris Boyd,,,Texas,12/09/1996,True,True,,True
+48008,06-Jun,253,04/04/1997,North Carolina A&amp;T,DE,Darryl Johnson,Darryl Johnson Jr,,#N/A,#N/A,#N/A,#N/A,Darryl Johnson Jr,Darryl Johnson Jr
+48009,06-Jan,240,31/12/1995,Texas Christian,ILB,Ty Summers,,,TCU,31/12/1995,False,True,,True
+48011,06-May,251,01/07/1995,Boston College,TE,Tommy Sweeney,,,Boston College,01/07/1995,True,True,,True
+48017,05-Oct,200,15/02/1997,Washington,RB,Myles Gaskin,,,Washington,15/02/1997,True,True,,True
+48026,05-Nov,200,17/05/1995,Penn State,SS,Nick Scott,,,Penn State,17/05/1995,True,True,,True
+48027,06-Mar,240,10/06/1995,Idaho,OLB,Kaden Elliss,,,Idaho,10/07/1995,True,False,,False
+48032,06-Mar,284,05/05/1996,Temple,DE,Michael Dogbe,,,Temple,05/05/1996,True,True,,True
+48034,06-Jan,232,02/11/1995,Texas Tech,OLB,Dakota Allen,,,#N/A,#N/A,#N/A,#N/A,Takkarist McKinley,Takkarist McKinley
+48053,6-0,180,16/01/1997,East Central,WR,Trinity Benson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48085,06-Jul,326,05/06/1997,Florida,T,Fred Johnson,,,#N/A,#N/A,#N/A,#N/A,Sam Darnold,Sam Darnold
+48089,06-Feb,235,05/08/1996,Nevada,OLB,Malik Reed,,,Nevada,05/08/1996,True,True,,True
+48094,06-May,300,25/03/1996,Texas,T,Calvin Anderson,,,#N/A,#N/A,#N/A,#N/A,Braden Smith,Braden Smith
+48096,06-Mar,255,15/05/1996,Texas,TE,Andrew Beck,,,Texas,15/05/1996,True,True,,True
+48097,06-Feb,200,09/11/1996,North Carolina State,WR,Jakobi Meyers,,,N.C. State,08/11/1996,False,False,,False
+48117,06-Feb,209,04/09/1996,Arizona,MLB,Demetrius Flannigan-Fowles,,,#N/A,#N/A,#N/A,#N/A,Montez Sweat,Montez Sweat
+48118,06-Jan,215,15/05/1997,Malone,WR,Ashton Dulin,,,#N/A,#N/A,#N/A,#N/A,Rasheem Green,Rasheem Green
+48119,05-Aug,180,05/07/1996,Georgia State,WR,Penny Hart,,,Georgia State,05/07/1996,True,True,,True
+48123,06-Jan,285,01/03/1997,Penn State,DT,Kevin Givens,,,Penn State,01/03/1997,True,True,,True
+48137,6-0,200,31/07/1995,Purdue,QB,David Blough,,,#N/A,#N/A,#N/A,#N/A,Tim Harris,Tim Harris
+48145,06-Mar,255,24/10/1996,Boston College,DE,Wyatt Ray,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48158,06-May,314,08/09/1995,Notre Dame,G,Alex Bars,,,Notre Dame,08/09/1995,True,True,,True
+48159,06-Feb,311,13/08/1996,Notre Dame,C,Sam Mustipher,,,Notre Dame,13/08/1996,True,True,,True
+48181,06-Jul,314,02/01/1996,Virginia Tech,T,Yosuah Nijman,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48198,06-Mar,366,20/10/1995,Michigan,NT,Bryan Mone,,,Michigan,20/10/1995,True,True,,True
+48207,6-0,233,01/07/1996,Vanderbilt,FB,Khari Blasingame,,,Vanderbilt,01/07/1996,True,True,,True
+48220,06-Apr,308,13/08/1997,California,G,Patrick Mekari,,,California,13/08/1997,True,True,,True
+48233,06-Jan,242,09/07/1996,Wisconsin,FB,Alec Ingold,,,Wisconsin,09/07/1996,True,True,,True
+48234,06-Apr,206,22/10/1997,Texas Tech,WR,Antoine Wesley,,,Texas Tech,22/10/1997,True,True,,True
+48235,06-Apr,300,02/05/1997,UCLA,C,Andre James,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48241,05-Oct,200,22/06/1997,South Carolina,CB,Keisean Nixon,,,South Carolina,22/06/1997,True,True,,True
+48247,06-Jun,255,11/08/1997,Old Dominion,DE,Tim Ward,,,Old Dominion,11/08/1997,True,True,,True
+48268,06-Feb,228,04/08/1997,Florida Atlantic,MLB,Azeez Al-Shaair,,,FAU,04/08/1997,False,True,,True
+48318,6-0,225,02/10/1996,Nebraska,RB,Devine Ozigbo,,,Nebraska,02/10/1996,True,True,,True
+48364,06-Feb,230,09/10/1996,Illinois,OLB,Del'Shawn Phillips,,,Illinois,09/10/1996,True,True,,True
+48374,05-Aug,193,23/07/1997,Virginia,WR,Olamide Zaccheaus,,,Virginia,23/07/1997,True,True,,True
+48415,05-Jun,170,04/12/1997,Assumption,WR,Deonte Harty,,,#N/A,#N/A,#N/A,#N/A,Deonte Harris,Deonte Harris
+48447,05-Oct,202,12/02/1997,Texas,FS,P.J. Locke,,,Texas,12/02/1997,True,True,,True
+48454,05-Nov,195,15/12/1995,Mississippi,FS,C.J. Moore,,,Ole Miss,15/12/1995,False,True,,True
+48455,06-Jul,299,19/12/1995,Iowa,T,Matt Nelson,John Johnson III,,#N/A,#N/A,#N/A,#N/A,John Johnson III,John Johnson III
+48456,06-Aug,237,16/08/1997,Stetson University,TE,Donald Parham,Donald Parham Jr,,#N/A,#N/A,#N/A,#N/A,Donald Parham Jr,Donald Parham Jr
+48462,06-Apr,285,05/08/1996,Texas-San Antonio,DE,Kevin Strong,,,UTSA,05/08/1996,False,True,,True
+48471,06-Feb,207,10/12/1995,Stanford,WR,Trenton Irwin,,,Stanford,10/12/1995,True,True,,True
+48472,6-0,205,17/08/1995,California,RB,Patrick Laird,,,California,17/08/1995,True,True,,True
+48473,06-Apr,280,12/09/1997,Georgia,DE,Jonathan Ledbetter,,,Georgia,12/09/1997,True,True,,True
+48475,06-May,255,06/10/1995,Temple,TE,Chris Myarick,,,#N/A,#N/A,#N/A,#N/A,Braxton Berrios,Braxton Berrios
+48476,6-0,193,04/11/1996,Texas-El Paso,CB,Nik Needham,,,UTEP,04/11/1996,False,True,,True
+48480,06-May,218,27/03/1997,Colorado State,WR,Preston Williams,,,Colorado St.,27/03/1997,False,True,,True
+48482,6-0,237,25/06/1998,Texas A&amp;M,MLB,Tyrel Dodson,,,Texas AM,25/06/1998,False,True,,True
+48485,06-May,310,11/01/1996,Northwestern,G,Blake Hance,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48487,05-Sep,185,13/04/1997,Buffalo,CB,Cameron Lewis,Cam Lewis,,#N/A,#N/A,#N/A,#N/A,Cam Lewis,Cam Lewis
+48489,06-Mar,210,29/05/1996,West Virginia,WR,David Sills,David Sills V,,#N/A,#N/A,#N/A,#N/A,David Sills V,David Sills V
+48508,6-0,209,05/12/1996,Wyoming,FS,Andrew Wingard,,,Wyoming,05/12/1996,True,True,,True
+48512,06-Apr,300,14/02/1997,Penn State,C,Ryan Bates,,,#N/A,#N/A,#N/A,#N/A,Tyler Bass,Tyler Bass
+48513,06-Apr,334,10/07/1998,Stanford,G,Nate Herbig,,,Stanford,10/07/1998,True,True,,True
+48516,06-Jan,240,12/08/1996,Wisconsin,ILB,T.J. Edwards,,,Wisconsin,12/08/1996,True,True,,True
+48520,06-May,350,01/09/1996,Alabama-Birmingham,DT,Anthony Rush,,,#N/A,#N/A,#N/A,#N/A,Jack Fox,Jack Fox
+48524,6-0,190,31/05/1995,Coastal Carolina,CB,Anthony Chesley,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48530,6-0,205,07/09/1996,Nebraska,WR,Stanley Morgan,Stanley Morgan Jr,,#N/A,#N/A,#N/A,#N/A,Stanley Morgan Jr,Stanley Morgan Jr
+48537,06-May,261,18/12/1996,Wyoming,DE,Carl Granderson,,,Wyoming,18/12/1996,True,True,,True
+48541,06-Apr,225,19/04/1998,Texas,WR,Lil'Jordan Humphrey,,,Texas,19/04/1998,True,True,,True
+48544,06-Mar,300,20/10/1995,Tennessee,DT,Shy Tuttle,,,Tennessee,20/10/1995,True,True,,True
+48554,06-Jan,225,16/11/1996,Michigan State,OLB,Andrew Dowell,,,Michigan St.,16/11/1996,False,True,,True
+48555,06-Mar,245,28/08/1995,Nebraska,OLB,Luke Gifford,,,Nebraska,28/08/1995,True,True,,True
+48556,06-Jan,212,07/06/1997,North Texas,WR,Jalen Guyton,,,North Texas,07/06/1997,True,True,,True
+48565,06-Apr,197,10/07/1997,Kentucky,CB,Chris Westry,,,Kentucky,10/07/1997,True,True,,True
+48566,06-Mar,279,01/16/1996,Kansas,DE,Daniel Wise,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48581,6-0,205,12/05/1997,Tulane,CB,Roderic Teamer,,,#N/A,#N/A,#N/A,#N/A,Connor Williams,Connor Williams
+48599,06-Mar,305,27/06/1997,Clemson,DT,Albert Huggins,,,#N/A,#N/A,#N/A,#N/A,Ben Skowronek,Ben Skowronek
+48601,06-Jan,193,08/01/1996,Oklahoma State,WR,Tyron Johnson,,,Oklahoma St.,08/01/1996,False,True,,True
+48624,06-Feb,216,21/12/1995,Ferris State,WR,Malik Taylor,,,Ferris State,21/12/1995,True,True,,True
+48657,06-Jan,195,21/04/1997,Boston College,WR,Jeff Smith,,,Boston College,21/04/1997,True,True,,True
+48663,06-Apr,280,06/02/1998,Oklahoma,DE,Amani Bledsoe,,,Oklahoma,06/02/1998,True,True,,True
+48671,06-Mar,250,15/11/1995,Sam Houston State,OLB,Derick Roberson,,,Sam Houston,15/11/1995,False,True,,True
+48678,05-Nov,190,02/06/1997,North Texas,CB,Kemon Hall,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48680,05-Oct,194,29/07/1996,Bryant,WR,Tom Kennedy,,,N/A,29/07/1996,False,True,,True
+48683,06-Jun,230,07/12/1995,Valdosta State,TE,Joe Fortson,,,#N/A,#N/A,#N/A,#N/A,Trey Quinn,Trey Quinn
+48685,06-Jan,235,13/08/1997,Citadel,OLB,Noah Dawkins,,,Citadel,13/08/1997,True,True,,True
+48700,06-Mar,237,27/02/1997,Princeton,TE,Jesper Horsted,,,Princeton,27/02/1997,True,True,,True
+48723,06-Mar,261,26/05/1995,Iowa,TE,Parker Hesse,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48766,06-Jun,260,10/11/1995,Missouri,TE,Kendall Blanton,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+48780,06-Mar,245,13/09/1994,Delaware,ILB,Troy Reeder,,,Delaware,13/09/1994,True,True,,True
+48988,6-0,190,26/11/1996,Bemidji State,WR,Gunner Olszewski,,,Bemidji State,26/11/1996,True,True,,True
+49410,05-Nov,190,18/07/1998,Washington State,FS,Jalen Thompson,,,Wash. St.,18/07/1998,False,True,,True
+49476,05-Oct,212,13/12/1994,Louisiana-Monroe,RB,Derrick Gore,,,#N/A,#N/A,#N/A,#N/A,Jermaine Eluemunor,Jermaine Eluemunor
+50756,06-Feb,202,08/01/1999,West Virginia,FS,Kenny Robinson,,,#N/A,#N/A,#N/A,#N/A,Monty Rice,Monty Rice
+50963,06-Mar,234,07/01/1997,Florida State,RB,Jacques Patrick,,,#N/A,#N/A,#N/A,#N/A,Lamar Jackson,Lamar Jackson
+52409,06-Apr,216,10/12/1996,Louisiana State,QB,Joe Burrow,,,LSU,10/12/1996,False,True,,True
+52410,06-May,265,14/04/1999,Ohio State,DE,Chase Young,,,Ohio State,01/01/1999,True,False,,False
+52411,06-Jan,200,02/02/1999,Ohio State,CB,Jeff Okudah,,,Ohio State,02/02/1999,True,True,,True
+52412,06-May,326,22/01/1999,Georgia,T,Andrew Thomas,,,Georgia,22/01/1999,True,True,,True
+52413,06-Jan,218,02/03/1998,Alabama,QB,Tua Tagovailoa,,,Alabama,02/03/1998,True,True,,True
+52414,06-Jun,237,10/03/1998,Oregon,QB,Justin Herbert,,,Oregon,10/03/1998,True,True,,True
+52415,06-May,318,15/04/1998,Auburn,DT,Derrick Brown,,,Auburn,15/04/1998,True,True,,True
+52416,06-Mar,225,26/07/1998,Clemson,ILB,Isaiah Simmons,,,Clemson,26/07/1998,True,True,,True
+52417,06-Jan,191,30/09/1998,Florida,CB,C.J. Henderson,,,Florida,30/09/1998,True,True,,True
+52418,06-May,320,17/05/1999,Alabama,T,Jedrick Wills,Jedrick Wills Jr,,#N/A,#N/A,#N/A,#N/A,Jedrick Wills Jr,Jedrick Wills Jr
+52419,06-Jul,355,18/04/1999,Louisville,T,Mekhi Becton,,,Louisville,18/04/1999,True,True,,True
+52420,6-0,190,24/01/1999,Alabama,WR,Henry Ruggs,,,#N/A,#N/A,#N/A,#N/A,Tristan Wirfs,Tristan Wirfs
+52421,06-May,322,24/01/1999,Iowa,T,Tristan Wirfs,,,Iowa,24/01/1999,True,True,,True
+52422,06-Jun,310,03/10/1997,South Carolina,DT,Javon Kinlaw,,,South Carolina,03/10/1997,True,True,,True
+52423,06-Jan,192,24/04/1999,Alabama,WR,Jerry Jeudy,,,Alabama,24/04/1999,True,True,,True
+52424,06-Feb,190,23/09/1998,Clemson,CB,A.J. Terrell,A.J. Terrell Jr,,#N/A,#N/A,#N/A,#N/A,A.J. Terrell Jr,A.J. Terrell Jr
+52425,06-Feb,189,08/04/1999,Oklahoma,WR,CeeDee Lamb,,,Oklahoma,08/04/1999,True,True,,True
+52426,06-Jun,310,11/08/1999,Southern California,T,Austin Jackson,,,USC,11/08/1999,False,True,,True
+52427,6-0,195,NA,Ohio State,CB,Damon Arnette,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52428,06-Apr,250,25/07/1999,Louisiana State,OLB,K'Lavon Chaisson,,,LSU,25/07/1999,False,True,,True
+52429,05-Nov,195,02/01/1999,Texas Christian,WR,Jalen Reagor,,,TCU,02/01/1999,False,True,,True
+52430,06-Mar,192,NA,Louisiana State,WR,Justin Jefferson,,,LSU,16/06/1999,False,False,,False
+52431,06-Mar,234,16/11/1998,Oklahoma,ILB,Kenneth Murray,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52432,06-Mar,319,14/06/1999,Michigan,G,Cesar Ruiz,,,Michigan,14/06/1999,True,True,,True
+52433,06-Jan,206,17/03/1998,Arizona State,WR,Brandon Aiyuk,,,Arizona St.,17/03/1998,False,True,,True
+52434,06-Apr,220,02/11/1998,Utah State,QB,Jordan Love,,,Utah State,02/11/1998,True,True,,True
+52435,06-Jan,245,21/10/1997,Texas Tech,OLB,Jordyn Brooks,,,Texas Tech,21/10/1997,True,True,,True
+52436,06-Jan,227,13/08/1999,Louisiana State,MLB,Patrick Queen,,,LSU,13/08/1999,False,True,,True
+52438,05-Nov,196,27/11/1999,Auburn,CB,Noah Igbinoghene,,,Auburn,27/11/1999,True,True,,True
+52440,05-Aug,209,11/04/1999,Louisiana State,RB,Clyde Edwards-Helaire,,,LSU,11/04/1999,False,True,,True
+52441,06-Apr,210,18/01/1999,Clemson,WR,Tee Higgins,,,Clemson,18/01/1999,True,True,,True
+52442,06-Apr,220,05/10/1997,Southern California,WR,Michael Pittman,Michael Pittman Jr,,#N/A,#N/A,#N/A,#N/A,Michael Pittman Jr,Michael Pittman Jr
+52443,05-Oct,211,14/01/1999,Georgia,RB,D'Andre Swift,,,Georgia,14/01/1999,True,True,,True
+52444,06-Jan,197,08/08/1998,"Alabama-Tuscaloosa, University",FS,Xavier McKinney,,,Alabama,08/08/1998,False,True,,True
+52445,06-Feb,216,22/03/1996,Lenoir-Rhyne,FS,Kyle Dugger,,,Lenoir-Rhyne University,22/03/1996,False,True,,True
+52446,06-May,264,26/02/1998,Penn State,DE,Yetur Gross-Matos,,,Penn State,26/02/1998,True,True,,True
+52447,06-May,322,25/08/1996,Louisiana-Lafayette,G,Robert Hunt,,,UL Lafayette,25/08/1996,False,True,,True
+52448,06-Apr,305,09/07/1998,Texas Christian,DT,Ross Blacklock,,,TCU,09/07/1998,False,True,,True
+52449,05-Nov,221,19/01/1999,Wisconsin,RB,Jonathan Taylor,,,Wisconsin,19/01/1999,True,True,,True
+52450,06-Feb,220,05/10/1998,Colorado,WR,Laviska Shenault,Laviska Shenault Jr,,#N/A,#N/A,#N/A,#N/A,Laviska Shenault Jr,Laviska Shenault Jr
+52451,06-Jun,258,10/03/1999,Notre Dame,TE,Cole Kmet,,,Notre Dame,10/03/1999,True,True,,True
+52452,06-Mar,203,20/09/1998,NA,SS,Grant Delpit,,,LSU,20/09/1998,False,True,,True
+52453,05-Sep,205,16/08/1998,Minnesota,FS,Antoine Winfield,Antoine Winfield Jr,,#N/A,#N/A,#N/A,#N/A,Antoine Winfield Jr,Antoine Winfield Jr
+52454,05-Sep,176,08/07/1999,Penn State,WR,K.J. Hamler,,,Penn State,08/07/1999,True,True,,True
+52455,06-Mar,279,11/05/1998,Auburn,DT,Marlon Davidson,,,Auburn,11/05/1998,True,True,,True
+52456,06-Mar,253,24/03/1997,Tennessee,DE,Darrell Taylor,,,Tennessee,24/03/1997,True,True,,True
+52457,06-Apr,227,07/07/1998,Notre Dame,WR,Chase Claypool,,,Notre Dame,07/07/1998,True,True,,True
+52458,6-0,195,19/04/1999,Utah,CB,Jaylon Johnson,,,Utah,19/04/1999,True,True,,True
+52459,06-Feb,207,NA,Alabama,CB,Trevon Diggs,,,Alabama,20/09/1997,True,False,,False
+52461,06-Feb,218,07/08/1998,Oklahoma,QB,Jalen Hurts,,,Oklahoma,07/08/1998,True,True,,True
+52462,06-May,280,15/09/1998,Iowa,DE,A.J. Epenesa,,,Iowa,15/09/1998,True,True,,True
+52464,06-Jul,310,NA,Alabama,NT,Raekwon Davis,,,Alabama,21/08/1997,True,False,,False
+52465,06-Feb,197,26/07/1996,Florida,WR,Van Jefferson,,,Florida,26/07/1996,True,True,,True
+52466,06-Jun,310,08/05/1998,Boise State,G,Ezra Cleveland,,,Boise State,08/05/1998,True,True,,True
+52467,06-Mar,208,10/10/1997,Baylor,WR,Denzel Mims,,,Baylor,10/10/1997,True,True,,True
+52468,06-Feb,250,18/09/1998,Michigan,OLB,Josh Uche,,,Michigan,18/09/1998,True,True,,True
+52469,6-0,200,03/09/1998,Louisiana State,CB,Kristian Fulton,,,LSU,03/09/1998,False,True,,True
+52470,06-Jan,250,02/05/1998,Boston College,RB,A.J. Dillon,,,Boston College,02/05/1998,True,True,,True
+52471,06-Feb,235,15/02/1998,Mississippi State,OLB,Willie Gay,,,Mississippi St.,15/02/1998,False,True,,True
+52472,06-Mar,212,26/02/1998,Southern Illinois,FS,Jeremy Chinn,,,S. Illinois,26/02/1998,False,True,,True
+52473,06-Feb,250,08/07/1996,Wyoming,ILB,Logan Wilson,,,Wyoming,08/07/1996,True,True,,True
+52474,06-Feb,221,23/06/1998,Memphis,RB,Antonio Gibson,,,Memphis,23/06/1998,True,True,,True
+52475,06-May,241,27/12/1997,Notre Dame,OLB,Julian Okwara,,,Notre Dame,27/12/1997,True,True,,True
+52476,06-Jan,200,10/10/1996,California,SS,Ashtyn Davis,,,California,10/10/1996,True,True,,True
+52477,06-Mar,332,21/03/1997,Louisiana State,G,Damien Lewis,,,LSU,21/03/1997,False,True,,True
+52478,6-0,205,02/04/1998,Texas,SS,Brandon Jones,,,Texas,02/04/1998,True,True,,True
+52479,06-Mar,300,17/11/1997,Texas A&amp;M,DT,Justin Madubuike,,,Texas AM,17/11/1997,False,True,,True
+52480,06-Jul,310,22/06/1997,Houston,G,Josh Jones,,,N.C. State,20/09/1994,False,False,,False
+52481,06-Apr,310,01/02/1997,Ohio State,DT,Davon Hamilton,,,Ohio State,01/02/1997,True,True,,True
+52482,06-Mar,235,30/12/1996,Wisconsin,OLB,Zack Baun,,,Wisconsin,30/12/1996,True,True,,True
+52483,06-Apr,305,05/02/1997,Ohio State,G,Jonah Jackson,,,Ohio State,05/02/1997,True,True,,True
+52484,05-Oct,215,04/05/1997,Vanderbilt,RB,Ke'Shawn Vaughn,,,Vanderbilt,04/05/1997,True,True,,True
+52486,06-Apr,290,17/11/1997,Temple,C,Matt Hennessy,,,Temple,17/11/1997,True,True,,True
+52487,06-Mar,264,14/08/1997,Florida,DE,Jabari Zuniga,,,Florida,14/08/1997,True,True,,True
+52489,06-Mar,215,13/11/1998,South Carolina,WR,Bryan Edwards,,,South Carolina,13/11/1998,True,True,,True
+52491,06-Apr,315,22/11/1997,Louisiana State,C,Lloyd Cushenberry,Lloyd Cushenberry III,,#N/A,#N/A,#N/A,#N/A,Lloyd Cushenberry III,Lloyd Cushenberry III
+52492,06-May,252,25/08/1998,Alabama,OLB,Terrell Lewis,,,Alabama,25/08/1998,True,True,,True
+52493,06-Jan,204,24/08/1998,Utah,FS,Julian Blackmon,,,Utah,24/08/1998,True,True,,True
+52494,05-Oct,215,15/12/1997,Utah,RB,Zack Moss,,,Utah,15/12/1997,True,True,,True
+52496,06-Apr,315,23/11/1997,Missouri,DT,Jordan Elliott,,,Missouri,23/11/1997,True,True,,True
+52497,06-Feb,185,03/09/1998,Mississippi State,CB,Cameron Dantzler,,,Mississippi St.,03/09/1998,False,True,,True
+52498,06-Mar,259,25/05/1997,Florida,DE,Jonathan Greenard,,,Florida,25/05/1997,True,True,,True
+52500,05-Nov,210,12/09/1997,Texas,WR,Devin Duvernay,,,Texas,12/09/1997,True,True,,True
+52501,05-Nov,200,09/07/1998,Appalachian State,RB,Darrynton Evans,,,Appalach. St.,09/07/1998,False,True,,True
+52502,06-Mar,240,14/02/1997,Cincinnati,TE,Josiah Deguara,,,Cincinnati,14/02/1997,True,True,,True
+52503,06-Mar,300,25/09/1997,Arkansas,DE,McTelvin Agim,,,Arkansas,25/09/1997,True,True,,True
+52504,06-Jul,328,NA,NA,T,Lucas Niang,,,TCU,19/08/1998,False,False,,False
+52506,06-Mar,245,05/03/1998,Ohio State,OLB,Malik Harrison,,,Ohio State,05/03/1998,True,True,,True
+52507,06-Jul,303,11/06/1997,Connecticut,T,Matt Peart,Matthew Peart,,#N/A,#N/A,#N/A,#N/A,Matthew Peart,Matthew Peart
+52510,06-Apr,242,07/08/1997,North Carolina-Charlotte,OLB,Alex Highsmith,,,Charlotte,07/08/1997,False,True,,True
+52511,06-Feb,225,05/08/1998,Colorado,OLB,Davion Taylor,,,Colorado,05/08/1998,True,True,,True
+52512,6-0,198,18/08/1997,Utah,FS,Terrell Burgess,,,Utah,12/11/1998,True,False,,False
+52513,06-Jun,253,05/02/1997,Dayton,TE,Adam Trautman,,,Dayton,05/02/1997,True,True,,True
+52514,06-May,345,29/01/1997,Mississippi State,G,Tyre Phillips,,,Mississippi St.,29/01/1997,False,True,,True
+52515,06-Feb,215,21/09/1997,Appalachian State,ILB,Akeem Davis-Gaither,,,Appalach. St.,21/09/1997,False,True,,True
+52516,06-Apr,295,26/07/1999,Louisiana State,T,Saahdiq Charles,,,LSU,26/07/1999,False,True,,True
+52517,06-Apr,330,19/08/1997,Clemson,G,John Simpson,,,Clemson,19/08/1997,True,True,,True
+52518,05-Oct,198,23/06/1998,UCLA,CB,Darnay Holmes,,,UCLA,23/06/1998,True,True,,True
+52519,06-Apr,335,31/07/1997,Georgia,G,Solomon Kindley,,,Georgia,31/07/1997,True,True,,True
+52520,05-Nov,219,20/11/1997,UCLA,RB,Joshua Kelley,,,UCLA,20/11/1997,True,True,,True
+52522,06-May,335,23/08/1998,Utah,DT,Leki Fotu,,,Utah,23/08/1998,True,True,,True
+52523,06-May,240,23/04/1998,Florida Atlantic,TE,Harrison Bryant,,,FAU,23/04/1998,False,True,,True
+52524,06-Jun,305,22/07/1998,"St. John's, Minn.",T,Ben Bartch,,,St. John's,22/07/1998,False,True,,True
+52525,06-May,260,31/10/1997,South Carolina,DE,D.J. Wonnum,,,South Carolina,31/10/1997,True,True,,True
+52526,06-May,255,25/04/1998,Missouri,TE,Albert Okwuegbunam,,,Missouri,25/04/1998,True,True,,True
+52527,06-Mar,219,28/08/1997,Fresno State,ILB,Mykal Walker,,,Fresno State,28/08/1997,True,True,,True
+52528,05-Nov,220,30/01/1998,Florida,RB,La'Mical Perine,,,Florida,30/01/1998,True,True,,True
+52530,06-Jun,227,17/11/1997,Washington,QB,Jacob Eason,,,Washington,17/11/1997,True,True,,True
+52532,05-Sep,198,04/03/1998,Maryland,RB,Anthony McFarland,,,Maryland,04/03/1999,True,False,,False
+52534,06-Aug,315,20/11/1996,North Carolina,T,Charlie Heck,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52535,05-Nov,208,25/07/1997,Clemson,SS,K'Von Wallace,,,Clemson,25/07/1997,True,True,,True
+52536,06-Mar,213,01/03/1999,Central Florida,WR,Gabe Davis,,,#N/A,#N/A,#N/A,#N/A,Eric Stokes,Eric Stokes
+52538,06-Apr,295,20/01/1999,Baylor,NT,James Lynch,,,Baylor,20/01/1999,True,True,,True
+52539,06-Feb,308,NA,Louisiana State,NT,Rashard Lawrence,,,LSU,27/09/1998,False,False,,False
+52541,06-Jul,251,08/01/1999,Stanford,TE,Colby Parkinson,,,Stanford,08/01/1999,True,True,,True
+52542,06-Feb,210,25/08/1997,California,FS,Jaylinn Hawkins,,,California,25/08/1997,True,True,,True
+52543,06-Apr,321,18/09/1996,Louisiana-Lafayette,G,Kevin Dotson,,,UL Lafayette,18/09/1996,False,True,,True
+52545,05-Oct,175,05/04/1999,Michigan State,CB,Josiah Scott,,,Michigan St.,05/04/1999,False,True,,True
+52546,06-Jan,193,21/01/1997,Louisiana Tech,CB,L'Jarius Sneed,,,LA. Tech,21/01/1997,False,True,,True
+52547,05-Sep,183,06/07/1998,Louisiana Tech,CB,Amik Robertson,,,LA. Tech,06/07/1998,False,True,,True
+52548,06-Jan,235,28/10/1997,Miami,MLB,Shaquille Quarterman,,,Miami,28/10/1997,True,True,,True
+52549,05-Oct,181,15/05/1996,Penn State,CB,John Reid,,,Penn State,15/05/1996,True,True,,True
+52550,06-Apr,220,11/04/1998,Liberty,WR,Antonio Gandy-Golden,,,Liberty,11/04/1998,True,True,,True
+52551,06-Apr,325,20/02/1998,Michigan,G,Ben Bredeson,,,Michigan,20/02/1998,True,True,,True
+52552,05-Oct,214,16/09/1998,Miami,RB,DeeJay Dallas,,,Miami,16/09/1998,True,True,,True
+52553,06-May,296,01/04/1997,Auburn,T,Jack Driscoll,,,Auburn,01/04/1997,True,True,,True
+52554,06-Mar,320,20/11/1997,Wisconsin,C,Tyler Biadasz,,,Wisconsin,20/11/1997,True,True,,True
+52555,06-Apr,265,28/04/1998,Notre Dame,DE,Khalid Kareem,,,Notre Dame,28/04/1998,True,True,,True
+52556,06-Apr,260,02/06/1998,Syracuse,DE,Alton Robinson,,,Syracuse,15/06/1998,True,False,,False
+52557,06-Apr,300,19/06/1996,Ball State,G,Danny Pinter,,,Ball State,19/06/1996,True,True,,True
+52558,06-Apr,317,12/05/1997,Oregon,G,Shane Lemieux,,,Oregon,12/05/1997,True,True,,True
+52563,06-Apr,268,13/06/1997,Tulsa,OLB,Trevis Gipson,,,Tulsa,13/06/1997,True,True,,True
+52564,06-Mar,310,25/07/1998,San Diego State,C,Keith Ismael,,,San Diego St.,25/07/1998,False,True,,True
+52565,05-Nov,209,01/07/1998,Auburn,SS,Daniel Thomas,,,Auburn,01/07/1998,True,True,,True
+52566,06-Jan,201,NA,NA,CB,Bryce Hall,,,Virginia,05/11/1997,False,False,,False
+52569,06-Feb,205,25/08/1998,Minnesota,WR,Tyler Johnson,,,Minnesota,25/08/1998,True,True,,True
+52570,6-0,220,06/12/1997,Michigan,MLB,Khaleke Hudson,,,Michigan,06/12/1997,True,True,,True
+52571,05-Nov,190,11/12/1997,Georgia Southern,CB,Kindle Vildor,,,Ga. Southern,11/12/1997,False,True,,True
+52573,06-Jun,215,23/09/1997,Texas,WR,Collin Johnson,,,Texas,23/09/1997,True,True,,True
+52574,06-Jan,205,01/04/1998,Wisconsin,WR,Quintez Cephus,,,Wisconsin,01/04/1998,True,True,,True
+52578,06-Mar,305,04/12/1996,Texas Tech,DT,Broderick Washington,Broderick Washington Jr,,#N/A,#N/A,#N/A,#N/A,Broderick Washington Jr,Broderick Washington Jr
+52581,05-Nov,172,29/10/1997,Tulane,WR,Darnell Mooney,,,Tulane,29/10/1997,True,True,,True
+52582,06-Mar,291,24/04/1997,North Carolina State,DT,Larrell Murchison,,,N.C. State,24/04/1997,False,True,,True
+52584,6-0,200,10/06/1997,Miami,WR,K.J. Osborn,,,Miami,10/06/1997,True,True,,True
+52585,06-Feb,255,NA,Michigan,DE,Michael Danna,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52586,06-Mar,235,21/08/1996,NA,ILB,Justin Strnad,,,Wake Forest,21/08/1996,False,True,,True
+52587,06-Mar,265,NA,Utah,DE,Bradlee Anae,,,Utah,17/01/1998,True,False,,False
+52589,06-Mar,307,27/03/1999,Fresno State,G,Netane Muti,,,Fresno State,27/03/1999,True,True,,True
+52590,06-Mar,350,10/12/1997,Michigan,G,Michael Onwenu,,,Michigan,10/12/1997,True,True,,True
+52591,06-May,233,01/04/1998,Penn State,OLB,Cam Brown,,,Penn State,01/04/1998,True,True,,True
+52592,06-Jan,333,NA,Baylor,DT,Bravvion Roy,,,Baylor,01/01/1997,True,False,,False
+52594,05-Nov,202,17/09/1997,Notre Dame,SS,Alohi Gilman,,,Notre Dame,17/09/1997,True,True,,True
+52595,06-Feb,208,19/02/1999,Michigan,WR,Donovan Peoples-Jones,,,Michigan,19/02/1999,True,True,,True
+52598,06-May,245,16/10/1997,Georgia,TE,Charlie Woerner,,,Georgia,16/10/1997,True,True,,True
+52600,06-May,321,08/08/1997,Michigan,G,Jon Runyan,,,Michigan,08/08/1997,True,True,,True
+52602,06-Feb,315,22/08/1996,Nebraska,DT,Khalil Davis,,,Nebraska,22/08/1996,True,True,,True
+52603,06-May,290,27/11/1995,Wake Forest,T,Justin Herron,,,#N/A,#N/A,#N/A,#N/A,A.J. Cole III,A.J. Cole III
+52604,06-Jan,230,08/04/1997,Temple,ILB,Shaun Bradley,,,#N/A,#N/A,#N/A,#N/A,Roquan Smith,Roquan Smith
+52605,06-Feb,333,31/05/1997,Utah,NT,John Penisini,,,Utah,31/05/1997,True,True,,True
+52607,06-Feb,205,04/03/1998,Ohio State,SS,Jordan Fuller,,,Ohio State,04/03/1998,True,True,,True
+52608,06-Feb,190,09/06/1998,Southern Mississippi,WR,Quez Watkins,,,Southern Miss,09/06/1998,False,True,,True
+52609,6-0,193,20/09/1996,Southern Methodist,WR,James Proche,,,SMU,21/09/1996,False,False,,False
+52614,06-Apr,250,02/04/1997,Georgia Tech,TE,Tyler Davis,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52619,05-Oct,170,07/01/1998,Massachusetts,CB,Isaiah Rodgers,,,Massachusetts,07/01/1998,True,True,,True
+52622,6-0,199,04/08/1998,Florida,WR,Freddie Swain,,,Florida,04/08/1998,True,True,,True
+52623,06-Jan,240,07/03/1997,Purdue,ILB,Markus Bailey,,,Purdue,07/03/1997,True,True,,True
+52624,06-Feb,203,NA,Arkansas,FS,Kamren Curl,,,Arkansas,31/03/1999,True,False,,False
+52625,06-Mar,214,10/07/1997,Tennessee,WR,Jauan Jennings,,,Tennessee,10/07/1997,True,True,,True
+52626,06-Apr,245,NA,Minnesota,ILB,Carter Coughlin,,,Minnesota,21/07/1997,True,False,,False
+52627,05-Nov,210,19/04/1999,Iowa,SS,Geno Stone,,,Iowa,19/04/1999,True,True,,True
+52628,6-0,197,15/09/1997,Ohio State,WR,K.J. Hill,K.J. Hill Jr,,#N/A,#N/A,#N/A,#N/A,K.J. Hill Jr,K.J. Hill Jr
+52629,06-Feb,184,04/06/1998,Florida International,CB,Stantley Thomas-Oliver,Stantley Thomas-Oliver III,,#N/A,#N/A,#N/A,#N/A,Stantley Thomas-Oliver III,Stantley Thomas-Oliver III
+52631,6-0,176,NA,Memphis,CB,Chris Claybrooks,,,Memphis,17/07/1997,True,False,,False
+52633,06-Apr,250,22/07/1997,NA,DE,Kenny Willekes,,,Michigan St.,22/07/1997,False,True,,True
+52635,06-May,315,NA,NA,G,Lachavious Simmons,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52637,06-Mar,265,NA,North Carolina State,DE,James Smith-Williams,,,N.C. State,30/07/1997,False,False,,False
+52640,06-Feb,320,22/08/1996,Nebraska,DT,Carlos Davis,,,Nebraska,22/08/1996,True,True,,True
+52641,06-Apr,247,22/08/1996,Stanford,DE,Casey Toohill,,,Stanford,22/08/1996,True,True,,True
+52642,06-Jan,232,08/08/1996,Baylor,MLB,Clay Johnston,,,Baylor,08/08/1996,True,True,,True
+52643,06-Mar,285,NA,NA,DE,Jashon Cornell,,,Ohio State,30/12/1996,False,False,,False
+52645,06-Jan,200,09/11/1997,Tulane,CB,Thakarius Keyes,,,#N/A,#N/A,#N/A,#N/A,Richie Grant,Richie Grant
+52647,05-Nov,185,29/11/1996,Pittsburgh,CB,Dane Jackson,,,Pittsburgh,29/11/1996,True,True,,True
+52649,06-Jan,230,20/01/1997,Temple,MLB,Chapelle Russell,,,#N/A,#N/A,#N/A,#N/A,Terrell Edmunds,Terrell Edmunds
+52650,06-Apr,250,28/07/1999,Miami,OLB,Jonathan Garvin,,,Miami,28/07/1999,True,True,,True
+52651,6-0,186,13/04/1998,Marshall,CB,Chris Jackson,,,Marshall,13/04/1998,True,True,,True
+52655,6-0,205,19/05/1997,Minnesota,CB,Chris Williamson,,,Minnesota,19/05/1997,True,True,,True
+52660,06-Feb,205,20/09/1997,Florida,WR,Tyrie Cleveland,,,Florida,20/09/1997,True,True,,True
+52662,06-May,246,NA,North Dakota State,OLB,Derrek Tuszka,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52663,06-Mar,235,12/03/1997,Georgia,ILB,Tae Crowder,,,Georgia,12/03/1997,True,True,,True
+52665,06-Mar,290,09/06/1998,Texas,DT,Malcolm Roach,,,Texas,09/06/1998,True,True,,True
+52666,06-May,318,16/08/1996,Oregon,T,Calvin Throckmorton,,,Oregon,16/08/1996,True,True,,True
+52673,06-Apr,245,07/11/1996,South Florida,TE,Mitchell Wilcox,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52697,06-Feb,185,16/09/1996,Florida Atlantic,CB,James Pierre,,,FAU,16/09/1996,False,True,,True
+52708,05-Sep,205,12/09/1996,Baylor,RB,Jamycal Hasty,,,Baylor,12/09/1996,True,True,,True
+52725,06-Mar,250,01/09/1996,North Dakota State,TE,Ben Ellefson,,,#N/A,#N/A,#N/A,#N/A,Jack Fox,Jack Fox
+52733,05-Oct,220,09/08/1998,Illinois State,RB,James Robinson,,,Illinois St.,09/08/1998,False,True,,True
+52750,05-Sep,175,12/07/1998,Southern Mississippi,WR,DeMichael Harris,De'Michael Harris,,#N/A,#N/A,#N/A,#N/A,De'Michael Harris,De'Michael Harris
+52759,06-Feb,305,16/06/1998,Wagner,DT,Chris Williams,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52762,05-Nov,225,24/11/1997,Notre Dame,RB,Tony Jones,,,#N/A,#N/A,#N/A,#N/A,Braden Mann,Braden Mann
+52766,6-0,195,19/02/1997,Wake Forest,WR,Kendall Hinton,,,Wake Forest,19/02/1997,True,True,,True
+52783,06-Jul,330,21/05/1998,Missouri,G,Yasir Durant,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52792,06-Apr,255,25/06/1998,Missouri S&amp;T,DT,Tershawn Wharton,,,Missouri University of Science & Technology,25/06/1998,False,True,,True
+52793,06-Mar,210,28/11/1998,NA,WR,Cody White,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52797,06-Feb,235,26/02/1998,Michigan State,OLB,Joe Bachie,,,#N/A,#N/A,#N/A,#N/A,Jeremy Chinn,Jeremy Chinn
+52805,06-Apr,275,27/09/1996,Northwestern,DE,Joe Gaziano,,,Northwestern,27/09/1996,True,True,,True
+52810,06-Mar,243,05/11/1997,Florida State,FB,Gabe Nabers,,,Florida State,05/11/1997,True,True,,True
+52829,06-Feb,295,15/10/1996,Louisiana State,NT,Breiden Fehoko,,,LSU,15/10/1996,False,True,,True
+52830,06-Apr,270,30/01/1998,Texas-San Antonio,DT,Eric Banks,,,UTSA,30/01/1998,False,True,,True
+52835,06-Apr,310,05/10/1997,Brown,DT,Michael Hoecht,,,Brown,05/10/1997,True,True,,True
+52846,06-May,275,17/08/1995,Weber State,DE,Jonah Williams,,,Alabama,17/11/1997,False,False,,False
+52852,05-Nov,211,05/08/1997,Mississippi,FS,Myles Hartsfield,,,Ole Miss,05/08/1997,False,True,,True
+52858,06-Mar,240,16/10/1996,Western Michigan,FB,Giovanni Ricci,,,#N/A,#N/A,#N/A,#N/A,Nick Nelson,Nick Nelson
+52859,05-Nov,210,28/02/1996,NA,RB,Rodney Smith,,,Minnesota,28/02/1996,False,True,,True
+52863,06-Jan,235,02/04/1998,UCLA,ILB,Krys Barnes,,,UCLA,02/04/1998,True,True,,True
+52864,05-Nov,204,03/01/1997,Baylor,SS,Henry Black,,,Baylor,03/01/1997,True,True,,True
+52878,06-Mar,202,25/02/1997,Penn State,WR,Dan Chisena,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52886,06-Mar,225,14/02/1997,Baylor,OLB,Blake Lynch,,,Baylor,14/02/1997,True,True,,True
+52887,06-Mar,296,14/06/1996,Boise State,DT,David Moa,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52894,06-Apr,315,23/03/1998,Missouri,C,Trystan Colon,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52895,06-Jan,205,03/02/1998,Utah,QB,Tyler Huntley,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52912,6-0,210,07/07/1998,Notre Dame,DB,Jalen Elliott,,,#N/A,#N/A,#N/A,#N/A,Chase Claypool,Chase Claypool
+52913,06-Apr,205,25/04/1998,Norfolk State,FS,Bobby Price,,,#N/A,#N/A,#N/A,#N/A,Albert Okwuegbunam,Albert Okwuegbunam
+52922,05-Nov,196,29/12/1998,Washington,RB,Salvon Ahmed,,,Washington,29/12/1998,True,True,,True
+52932,06-Mar,260,18/01/1998,North Texas,OLB,Ladarius Hamilton,,,#N/A,#N/A,#N/A,#N/A,Byron Murphy Jr,Byron Murphy Jr
+52938,06-Jun,310,04/06/1997,Texas Tech,T,Terence Steele,,,#N/A,#N/A,#N/A,#N/A,Marquise Brown,Marquise Brown
+52939,06-Mar,210,02/02/1996,Temple,SS,Sam Franklin,,,Temple,02/02/1996,True,True,,True
+52942,06-Apr,231,13/09/1996,Oregon,TE,Juwan Johnson,,,Oregon,13/09/1996,True,True,,True
+52945,05-Nov,185,16/07/1995,Arizona,CB,Jace Whittaker,,,Arizona,16/07/1995,True,True,,True
+52962,06-Apr,248,21/11/1996,Maryland,TE,Tyler Mabry,,,Maryland,21/11/1996,True,True,,True
+52971,06-Mar,255,NA,NA,OLB,Jamir Jones,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52972,05-Aug,211,06/10/1997,Mississippi,RB,Scottie Phillips,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52979,06-Mar,275,12/06/1997,Mississippi State,OLB,Chauncey Rivers,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+52980,05-Nov,188,19/07/1998,Fresno State,FS,Juju Hughes,,,Fresno State,19/07/1998,True,True,,True
+52991,05-Aug,180,02/01/1998,Washington,CB,Myles Bryant,,,Washington,02/01/1998,True,True,,True
+53000,05-Jun,185,04/01/1998,Arizona,RB,J.J. Taylor,,,Arizona,04/01/1998,True,True,,True
+53018,06-Jan,185,09/06/1998,Oklahoma State,CB,A.J. Green,,,Georgia,31/07/1988,False,False,,False
+53039,06-Apr,235,NA,NA,DE,Azur Kamara,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53051,05-Oct,190,06/08/1998,Utah,CB,Javelin Guidry,,,Utah,06/08/1998,True,True,,True
+53053,06-Mar,255,17/04/1998,Memphis,DE,Bryce Huff,,,Memphis,17/04/1998,True,True,,True
+53059,06-Mar,239,24/05/1998,Iowa,MLB,Kristian Welch,,,Iowa,24/05/1998,True,True,,True
+53063,06-Mar,270,28/10/1997,Texas State,C,Aaron Brewer,,,#N/A,#N/A,#N/A,#N/A,Antoine Brooks Jr,Antoine Brooks Jr
+53065,06-May,255,22/02/1997,Arizona State,TE,Tommy Hudson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53073,06-Mar,290,28/02/1997,Florida International,DT,Teair Tart,,,FIU,28/02/1997,False,True,,True
+53074,06-Mar,215,21/03/1997,Indiana,WR,Nick Westbrook-Ikhine,,,Indiana,21/03/1997,True,True,,True
+53079,06-Jan,255,20/08/1997,Toledo,FB,Reggie Gilliam,,,Toledo,20/08/1997,True,True,,True
+53091,05-Nov,208,17/05/1996,Oregon State,RB,Artavis Pierce,,,Oregon State,17/05/1996,True,True,,True
+53098,06-Feb,204,27/03/1998,Tennessee,WR,Marquez Callaway,,,Tennessee,27/03/1998,True,True,,True
+53172,06-Mar,235,03/06/1997,Indiana State,TE,Dominique Dafney,,,Indiana St.,03/06/1997,False,True,,True
+53180,6-0,220,NA,NA,RB,Ty'Son Williams,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53315,06-Apr,245,NA,NA,OLB,Aaron Patrick,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53430,06-Jun,220,NA,NA,QB,Trevor Lawrence,,,Clemson,06/10/1999,False,False,,False
+53431,06-Feb,208,NA,NA,QB,Zach Wilson,,,BYU,03/08/1999,False,False,,False
+53432,06-Apr,226,NA,NA,QB,Trey Lance,,,North Dakota St.,09/05/2000,False,False,,False
+53433,06-Jun,250,NA,NA,TE,Kyle Pitts,,,Florida,06/10/2000,False,False,,False
+53434,06-Jan,200,NA,NA,WR,Ja'Marr Chase,,,LSU,01/03/2000,False,False,,False
+53435,05-Oct,182,NA,NA,WR,Jaylen Waddle,,,Alabama,25/11/1998,False,False,,False
+53436,06-Jun,325,NA,NA,T,Penei Sewell,,,Oregon,09/10/2000,False,False,,False
+53437,06-Jan,200,NA,NA,CB,Jaycee Horn,,,South Carolina,26/11/1999,False,False,,False
+53438,06-Feb,203,NA,NA,CB,Patrick Surtain,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53439,06-Jan,165,NA,NA,WR,DeVonta Smith,,,Alabama,14/11/1998,False,False,,False
+53440,06-Mar,223,NA,NA,QB,Justin Fields,,,Ohio State,05/03/1999,False,False,,False
+53441,06-Mar,245,NA,NA,OLB,Micah Parsons,,,Penn State,26/05/1999,False,False,,False
+53442,06-Mar,305,NA,NA,T,Rashawn Slater,,,Northwestern,26/03/1999,False,False,,False
+53443,06-Apr,310,NA,NA,G,Alijah Vera-Tucker,,,USC,17/06/1999,False,False,,False
+53444,06-Mar,214,NA,NA,QB,Mac Jones,,,Alabama,05/09/1998,False,False,,False
+53445,06-Apr,260,NA,NA,ILB,Zaven Collins,,,Tulsa,19/05/1999,False,False,,False
+53446,06-May,305,NA,NA,T,Alex Leatherwood,,,Alabama,05/01/1999,False,False,,False
+53447,06-May,266,NA,NA,OLB,Jaelan Phillips,,,Miami,28/05/1999,False,False,,False
+53448,06-Apr,234,NA,NA,MLB,Jamin Davis,,,Kentucky,12/12/1998,False,False,,False
+53449,6-0,193,NA,NA,WR,Kadarius Toney,,,Florida,27/01/1999,False,False,,False
+53450,06-Mar,265,NA,NA,DE,Kwity Paye,,,Michigan,19/11/1998,False,False,,False
+53451,06-Feb,207,NA,NA,CB,Caleb Farley,,,Virginia Tech,02/11/1998,False,False,,False
+53452,06-May,314,NA,NA,T,Christian Darrisaw,,,Virginia Tech,02/06/1999,False,False,,False
+53453,06-Feb,230,NA,NA,RB,Najee Harris,,,Alabama,09/03/1998,False,False,,False
+53455,06-Jan,188,NA,NA,CB,Greg Newsome,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53456,06-Feb,210,NA,NA,WR,Rashod Bateman,,,Minnesota,29/11/1999,False,False,,False
+53457,06-Jun,270,NA,NA,DE,Payton Turner,,,Houston,07/01/1999,False,False,,False
+53458,06-Jan,190,NA,NA,CB,Eric Stokes,,,Georgia,01/03/1999,False,False,,False
+53459,06-Jul,253,NA,NA,DE,Gregory Rousseau,,,Miami,05/04/2000,False,False,,False
+53460,06-May,252,NA,NA,OLB,Odafe Oweh,,,Penn State,15/12/1998,False,False,,False
+53461,06-May,262,NA,NA,OLB,Joe Tryon,,,Washington,30/04/1999,False,False,,False
+53462,06-Feb,185,NA,NA,CB,Tyson Campbell,,,Georgia,17/03/2000,False,False,,False
+53463,05-Sep,184,NA,NA,WR,Elijah Moore,,,Ole Miss,27/03/2000,False,False,,False
+53464,05-Oct,220,NA,NA,RB,Javonte Williams,,,North Carolina,25/04/2000,False,False,,False
+53465,06-Jan,196,NA,NA,FS,Jevon Holland,,,Oregon,03/03/2000,False,False,,False
+53466,06-Jun,325,NA,NA,G,Landon Dickerson,,,Alabama,30/09/1998,False,False,,False
+53467,06-May,310,NA,NA,DT,Christian Barmore,,,Alabama,28/07/1999,False,False,,False
+53469,6-0,194,NA,NA,SS,Richie Grant,,,UCF,09/11/1997,False,False,,False
+53470,06-Mar,293,NA,NA,DE,Levi Onwuzurike,,,Washington,02/03/1998,False,False,,False
+53471,06-Jun,308,NA,NA,T,Liam Eichenberg,,,Notre Dame,19/01/1998,False,False,,False
+53472,06-Feb,202,NA,NA,FS,Trevon Moehrig,,,TCU,16/06/1999,False,False,,False
+53473,06-Jan,195,NA,NA,CB,Kelvin Joseph,,,Kentucky,11/11/1999,False,False,,False
+53475,06-May,345,NA,NA,G,Jackson Carman,,,Clemson,22/01/2000,False,False,,False
+53476,05-Oct,180,NA,NA,CB,Asante Samuel,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53478,05-Sep,180,NA,NA,WR,Rondale Moore,,,Purdue,09/06/2000,False,False,,False
+53479,06-Feb,250,NA,NA,OLB,Azeez Ojulari,,,Georgia,16/06/2000,False,False,,False
+53480,06-May,295,NA,NA,T,Samuel Cosmi,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53481,06-Jan,215,NA,NA,OLB,Jeremiah Owusu-Koramoah,,,Notre Dame,04/11/1999,False,False,,False
+53482,06-Jun,299,NA,NA,T,Dillon Radunz,,,North Dakota St.,28/03/1998,False,False,,False
+53483,06-Jun,280,NA,NA,DE,Dayo Odeyingbo,,,Vanderbilt,24/09/1999,False,False,,False
+53484,06-May,258,NA,NA,TE,Pat Freiermuth,,,Penn State,25/10/1998,False,False,,False
+53485,05-Sep,190,NA,NA,WR,D'Wayne Eskridge,,,W. Michigan,23/03/1997,False,False,,False
+53487,6-0,232,NA,NA,ILB,Nick Bolton,,,Missouri,10/03/2000,False,False,,False
+53488,06-Apr,200,NA,NA,WR,Terrace Marshall,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53489,06-Mar,242,NA,NA,OLB,Pete Werner,,,Ohio State,05/06/1998,False,False,,False
+53490,06-Apr,273,NA,NA,DE,Carlos Basham,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53491,06-May,312,NA,NA,C,Josh Myers,,,Ohio State,16/07/1998,False,False,,False
+53492,06-May,316,NA,NA,C,Creed Humphrey,,,Oklahoma,28/06/1998,False,False,,False
+53494,6-0,203,NA,NA,SS,Andre Cisco,,,Syracuse,23/03/2000,False,False,,False
+53496,06-Apr,225,NA,NA,QB,Davis Mills,,,Stanford,21/10/1998,False,False,,False
+53497,06-May,320,NA,NA,G,Jalen Mayfield,,,Michigan,23/05/2000,False,False,,False
+53499,06-Jun,297,NA,NA,T,Brady Christensen,,,BYU,27/09/1996,False,False,,False
+53500,6-0,193,NA,NA,CB,Aaron Robinson,,,UCF,10/11/1997,False,False,,False
+53501,06-Feb,315,NA,NA,NT,Alim McNeill,,,N.C. State,11/05/2000,False,False,,False
+53502,06-Apr,278,NA,NA,DT,Milton Williams,,,LA. Tech,06/04/1999,False,False,,False
+53503,06-Mar,205,NA,NA,CB,Benjamin St-Juste,,,Minnesota,08/09/1997,False,False,,False
+53504,06-Feb,280,NA,NA,DT,Osa Odighizuwa,,,UCLA,13/08/1998,False,False,,False
+53505,6-0,193,NA,NA,CB,Paulson Adebo,,,Stanford,03/07/1999,False,False,,False
+53506,06-Feb,210,NA,NA,WR,Josh Palmer,,,Tennessee,22/09/1999,False,False,,False
+53509,06-Mar,223,NA,NA,OLB,Divine Deablo,,,Virginia Tech,17/08/1998,False,False,,False
+53510,06-May,253,NA,NA,TE,Hunter Long,,,Boston College,19/08/1998,False,False,,False
+53511,06-Jan,185,NA,NA,WR,Dyami Brown,,,North Carolina,01/11/1999,False,False,,False
+53512,06-Apr,248,NA,NA,TE,Tommy Tremble,,,Notre Dame,02/06/1998,False,False,,False
+53513,06-May,270,NA,NA,DE,Chauncey Golston,,,Iowa,10/02/1998,False,False,,False
+53514,05-Oct,215,NA,NA,WR,Amari Rodgers,,,Clemson,23/09/1999,False,False,,False
+53516,06-Mar,310,NA,NA,C,Kendrick Green,,,Illinois,22/12/1998,False,False,,False
+53517,06-Jan,215,NA,NA,RB,Trey Sermon,,,Ohio State,30/01/1999,False,False,,False
+53518,06-Apr,222,NA,NA,WR,Nico Collins,,,Michigan,19/03/1999,False,False,,False
+53520,6-0,179,NA,NA,WR,Anthony Schwartz,,,Auburn,05/09/2000,False,False,,False
+53521,06-Jan,233,NA,NA,ILB,Monty Rice,,,Georgia,08/01/1999,False,False,,False
+53522,06-Sep,321,NA,NA,T,Spencer Brown,,,Northern Iowa,28/02/1998,False,False,,False
+53523,06-Jul,344,NA,NA,G,Ben Cleveland,,,Georgia,25/08/1998,False,False,,False
+53524,06-May,295,NA,NA,T,Robert Hainsey,,,Notre Dame,12/08/1998,False,False,,False
+53526,06-May,245,NA,NA,TE,Tre' McKitty,,,Georgia,12/01/1999,False,False,,False
+53527,06-Mar,320,NA,NA,G,Quinn Meinerz,,,Wisc-Whitewater,15/11/1998,False,False,,False
+53528,6-0,188,NA,NA,CB,Nahshon Wright,,,Oregon State,23/09/1997,False,False,,False
+53529,05-Oct,190,NA,NA,CB,Elijah Molden,,,Washington,30/01/1999,False,False,,False
+53530,06-Mar,213,NA,NA,CB,Ifeatu Melifonwu,,,Syracuse,02/05/1999,False,False,,False
+53531,6-0,182,NA,NA,CB,Ambry Thomas,,,Michigan,09/09/1999,False,False,,False
+53532,06-Feb,230,NA,NA,ILB,Ernest Jones,,,South Carolina,22/11/1999,False,False,,False
+53533,6-0,206,NA,NA,FS,Brandon Stephens,,,SMU,29/12/1997,False,False,,False
+53534,06-Mar,240,NA,NA,ILB,Baron Browning,,,Ohio State,19/02/1999,False,False,,False
+53535,06-Mar,305,NA,NA,DT,Jay Tufele,,,USC,25/07/1999,False,False,,False
+53536,05-Oct,200,NA,NA,RB,Michael Carter,,,North Carolina,07/05/1999,False,False,,False
+53537,6-0,190,NA,NA,CB,Darren Hall,,,San Diego St.,02/05/2000,False,False,,False
+53539,06-May,310,NA,NA,T,James Hudson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53540,06-Mar,280,NA,NA,DE,Cameron Sample,,,Tulane,20/09/1999,False,False,,False
+53541,06-Jan,195,NA,NA,WR,Amon-Ra St. Brown,,,USC,24/10/1999,False,False,,False
+53542,06-Jan,245,NA,NA,ILB,Derrick Barnes,,,Purdue,29/05/1999,False,False,,False
+53543,06-Mar,300,NA,NA,C,Drew Dalman,,,Stanford,15/10/1998,False,False,,False
+53544,06-Mar,233,NA,NA,MLB,Jabril Cox,,,LSU,16/04/1998,False,False,,False
+53546,06-Apr,325,NA,NA,NT,Bobby Brown,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53547,06-Apr,235,NA,NA,OLB,Chris Rumph,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53549,6-0,246,NA,NA,RB,Rhamondre Stevenson,,,Oklahoma,23/02/1998,False,False,,False
+53553,06-Jun,256,NA,NA,TE,John Bates,,,Boise State,06/11/1997,False,False,,False
+53554,06-Jan,195,NA,NA,FS,Camryn Bynum,,,California,19/07/1998,False,False,,False
+53555,06-Jan,207,NA,NA,RB,Chuba Hubbard,,,Oklahoma St.,11/06/1999,False,False,,False
+53556,06-Mar,235,NA,NA,TE,Kylen Granson,,,SMU,27/03/1998,False,False,,False
+53557,06-May,315,NA,NA,T,Dan Moore,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53558,05-Sep,174,NA,NA,WR,Jaelon Darden,,,North Texas,14/01/1999,False,False,,False
+53559,06-Feb,195,NA,NA,CB,Robert Rochell,,,Central Arkansas,26/04/1998,False,False,,False
+53560,6-0,190,NA,NA,WR,Tylan Wallace,,,Oklahoma St.,13/05/1999,False,False,,False
+53564,06-May,270,NA,NA,OLB,Rashad Weaver,,,Pittsburgh,10/11/1997,False,False,,False
+53565,05-Nov,191,NA,NA,CB,Marco Wilson,,,Florida,03/03/1999,False,False,,False
+53566,05-Oct,186,NA,NA,DB,Tre Brown,,,Oklahoma,24/09/1997,False,False,,False
+53570,06-May,211,NA,NA,TE,Jacob Harris,,,UCF,16/04/1997,False,False,,False
+53571,06-May,305,NA,NA,T,Royce Newman,,,Ole Miss,17/08/1997,False,False,,False
+53572,6-0,210,NA,NA,SS,Tyree Gillespie,,,Missouri,05/09/1998,False,False,,False
+53573,06-Jul,265,NA,NA,DE,Joshua Kaindoh,,,Florida State,27/12/1998,False,False,,False
+53574,06-Jun,258,NA,NA,TE,Luke Farrell,,,Ohio State,14/10/1997,False,False,,False
+53575,06-Jan,220,NA,NA,ILB,Jamien Sherwood,,,Auburn,12/01/2000,False,False,,False
+53576,06-Mar,245,NA,NA,TE,Brevin Jordan,,,Miami,16/07/2000,False,False,,False
+53577,06-Apr,285,NA,NA,DE,Ta'Quon Graham,,,Texas,01/12/1998,False,False,,False
+53579,05-Nov,191,NA,NA,RB,Kenneth Gainwell,,,Memphis,14/03/1999,False,False,,False
+53580,06-Jun,332,NA,NA,T,Larry Borom,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53581,06-Jan,205,NA,NA,FS,Caden Sterns,,,Texas,02/11/1999,False,False,,False
+53583,05-Oct,190,NA,NA,CB,Michael Carter,,,North Carolina,07/05/1999,False,False,,False
+53584,06-May,315,NA,NA,T,Jaylon Moore,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53585,06-Jul,293,NA,NA,DE,Isaiahh Loudermilk,,,Wisconsin,10/10/1997,False,False,,False
+53586,06-Jan,179,NA,NA,WR,Ihmir Smith-Marsette,,,Iowa,29/08/1999,False,False,,False
+53587,06-Mar,305,NA,NA,DT,Daviyon Nixon,,,Iowa,13/12/1998,False,False,,False
+53590,06-Aug,315,NA,NA,T,Tommy Doyle,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53591,06-Apr,240,NA,NA,TE,Noah Gray,,,Duke,30/04/1999,False,False,,False
+53595,06-Mar,195,NA,NA,CB,Keith Taylor,,,Washington,20/11/1998,False,False,,False
+53596,6-0,195,NA,NA,CB,Nate Hobbs,,,Illinois,24/06/1999,False,False,,False
+53598,05-Nov,192,NA,NA,FS,Richard LeCounte,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53599,06-Feb,230,NA,NA,OLB,Garret Wallow,,,TCU,25/01/1999,False,False,,False
+53600,06-Mar,258,NA,NA,OLB,Daelin Hayes,,,Notre Dame,16/05/1998,False,False,,False
+53601,05-Nov,202,NA,NA,CB,Deommodore Lenoir,,,Oregon,06/10/1999,False,False,,False
+53602,06-May,340,NA,NA,DT,Tedarrell Slaton,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53605,6-0,228,NA,NA,ILB,K.J. Britt,,,Auburn,04/06/1999,False,False,,False
+53607,05-Nov,190,NA,NA,CB,Shemar Jean-Charles,,,Appalach. St.,20/06/1998,False,False,,False
+53609,06-Jan,215,NA,NA,SS,Talanoa Hufanga,,,USC,01/02/2000,False,False,,False
+53611,06-Apr,268,NA,NA,OLB,Adetokunbo Ogundeji,,,Notre Dame,09/10/1998,False,False,,False
+53612,05-Sep,195,NA,NA,RB,Avery Williams,,,Boise State,15/07/1998,False,False,,False
+53614,06-Apr,235,NA,NA,ILB,Nick Niemann,,,Iowa,02/12/1997,False,False,,False
+53615,06-Apr,215,NA,NA,ILB,Hamsah Nasirildeen,,,Florida State,17/01/1999,False,False,,False
+53618,06-Mar,305,NA,NA,DT,Marlon Tuipulotu,,,USC,01/06/1999,False,False,,False
+53619,06-Mar,330,NA,NA,C,Trey Hill,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53620,06-Feb,260,NA,NA,DE,Tarron Jackson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53621,06-May,355,NA,NA,DT,Quinton Bohanna,,,Kentucky,16/03/1999,False,False,,False
+53623,05-Nov,221,NA,NA,RB,Elijah Mitchell,,,UL Lafayette,02/05/1998,False,False,,False
+53624,06-Feb,318,NA,NA,DT,Roy Lopez,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53625,06-Jan,218,NA,NA,RB,Gary Brightwell,,,Arizona,28/02/1998,False,False,,False
+53627,05-Oct,210,NA,NA,RB,Larry Rountree,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53629,05-Nov,178,NA,NA,CB,Brandin Echols,,,Kentucky,16/10/1997,False,False,,False
+53630,6-0,190,NA,NA,CB,Rodarius Williams,,,Oklahoma St.,12/09/1996,False,False,,False
+53631,05-Nov,216,NA,NA,RB,Chris Evans,,,Michigan,05/10/1997,False,False,,False
+53633,05-Oct,190,NA,NA,WR,Shi Smith,,,South Carolina,26/10/1998,False,False,,False
+53634,06-Mar,224,NA,NA,WR,Racey McMath,,,LSU,14/06/1999,False,False,,False
+53635,06-Jul,305,NA,NA,T,Landon Young,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53636,06-Mar,317,NA,NA,DT,Jonathan Marshall,,,Arkansas,16/09/1997,False,False,,False
+53639,06-Mar,265,NA,NA,OLB,Victor Dimukeje,,,Duke,18/11/1999,False,False,,False
+53640,05-Sep,185,NA,NA,RB,Demetric Felton,,,UCLA,16/07/1998,False,False,,False
+53641,06-Jan,195,NA,NA,SS,Damar Hamlin,,,Pittsburgh,24/03/1998,False,False,,False
+53645,06-Mar,232,NA,NA,OLB,Quincy Roche,,,Miami,10/02/1998,False,False,,False
+53646,05-Sep,212,NA,NA,RB,Khalil Herbert,,,Virginia Tech,21/04/1998,False,False,,False
+53652,06-Feb,185,NA,NA,CB,Tay Gowan,,,UCF,07/01/1998,False,False,,False
+53655,06-Jun,325,NA,NA,G,Trey Smith,,,Tennessee,16/06/1999,False,False,,False
+53656,06-Apr,205,NA,NA,SS,Israel Mukuamu,,,South Carolina,28/11/1999,False,False,,False
+53658,06-May,205,NA,NA,WR,Mike Strachan,,,University of Charleston,13/08/1997,False,False,,False
+53662,05-Oct,205,NA,NA,RB,Jake Funk,,,Maryland,11/01/1998,False,False,,False
+53663,06-Feb,251,NA,NA,ILB,Patrick Johnson,,,Tulane,10/01/1999,False,False,,False
+53668,06-Apr,257,NA,NA,OLB,Jonathon Cooper,,,Ohio State,08/01/1998,False,False,,False
+53670,06-Jan,200,NA,NA,FS,Mark Webb,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53674,6-0,180,NA,NA,FS,Tre Norwood,,,Oklahoma,19/04/1999,False,False,,False
+53675,06-Mar,252,NA,NA,DE,Shaka Toney,,,Penn State,07/01/1998,False,False,,False
+53678,06-Mar,220,NA,NA,WR,Ben Skowronek,,,Notre Dame,27/06/1997,False,False,,False
+53679,06-Apr,340,NA,NA,NT,Khyiris Tonga,,,BYU,07/07/1996,False,False,,False
+53681,06-Apr,245,NA,NA,LB,Chris Garrett,,,Concordia University-St. Paul,12/06/1998,False,False,,False
+53685,05-Nov,215,NA,NA,RB,Kylin Hill,,,Mississippi St.,18/08/1998,False,False,,False
+53686,05-Oct,209,NA,NA,RB,Jermar Jefferson,,,Oregon State,15/04/2000,False,False,,False
+53687,06-Jan,190,NA,NA,WR,Dax Milne,,,BYU,23/06/1999,False,False,,False
+53688,06-Jan,225,NA,NA,ILB,Grant Stuard,,,Houston,15/10/1998,False,False,,False
+53711,6-0,193,NA,NA,CB,Isaiah Dunn,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53724,06-Apr,234,NA,NA,TE,Matt Bushman,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53740,06-Mar,300,NA,NA,DT,Josiah Bronson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53819,05-Aug,178,NA,NA,FS,Ar'Darius Washington,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53854,06-Jan,190,NA,NA,CB,Nick McCloud,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53861,06-May,330,NA,NA,G,Robert Jones,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53868,06-Jun,315,NA,NA,T,Alaric Jackson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53876,06-Mar,270,NA,NA,DE,Raymond Johnson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53896,6-0,244,NA,NA,TE,Tory Carter,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53900,06-Apr,340,NA,NA,DT,Naquan Jones,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53910,06-Feb,275,NA,NA,OLB,Sam Kamara,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53921,06-Jan,235,NA,NA,ILB,Amen Ogbongbemiga,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53930,06-Mar,249,NA,NA,OLB,Andre Mintze,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53933,06-Mar,240,NA,NA,ILB,Curtis Robinson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53935,06-Feb,245,NA,NA,DE,Darius Hodge,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53946,06-Apr,260,NA,NA,TE,Jack Stoll,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53953,05-Nov,198,NA,NA,CB,Jerry Jacobs,,,Arkansas,26/09/1998,False,False,,False
+53954,06-May,319,NA,NA,G,Tommy Kraemer,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53957,05-Nov,178,NA,NA,CB,A.J. Parker,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53959,06-Apr,255,NA,NA,TE,Brock Wright,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53960,05-Sep,195,NA,NA,RB,Jaret Patterson,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53978,06-Mar,295,NA,NA,DT,Austin Faoliu,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53991,06-Jan,320,NA,NA,DT,Forrest Merrill,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53994,06-May,300,NA,NA,C,Ryan McCollum,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+53999,06-Apr,312,NA,NA,DT,Jack Heflin,,,Iowa,08/03/1998,False,False,,False
+54006,06-Jun,330,NA,NA,T,Jake Curhan,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
+54038,06-Jun,245,NA,NA,QB,Feleipe Franks,,,#N/A,#N/A,#N/A,#N/A,#N/A,#N/A
