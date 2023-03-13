@@ -1,0 +1,13 @@
+name: ads
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pillow
+  - pandas
+  - matplotlib
+  - ipympl
+  - scipy
+  - ipywidgets
