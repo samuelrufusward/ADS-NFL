@@ -11,3 +11,4 @@ dependencies:
   - ipympl
   - scipy
   - ipywidgets
+  - scikit-learn
