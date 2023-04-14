@@ -83,7 +83,7 @@ def find_top_select_k_best(reg, train, test):
         train_scores.append(reg.score(Xk_train, Y_train))
         test_scores.append(reg.score(Xk_test, Y_test))
     k = np.argmax(test_scores) + 1 
-    return (k, test_scores[k - 1])
+    return (k, train_scores[k-1], test_scores[k - 1])
 
 def find_top_rfe(reg, train, test):
     X_train, Y_train = train
