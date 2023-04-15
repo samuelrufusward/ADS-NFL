@@ -26,13 +26,13 @@ Download test data from [NFL Big Data Bowl 2023](https://www.kaggle.com/c/nfl-bi
 
 Import functions needed for regression data
 
-```
+```python
 import nfl_regression
 ```
 
 Preprocess train/test splits of Madden stats
 
-```
+```python
 train_receiver_stats, train_player_stats, train_weeks = nfl_regression.preprocess_year_data('2021')
 X_train, Y_train = nfl_regression.get_yards_by_stats(train_receiver_stats, train_player_stats, train_weeks, '2021')
 
@@ -42,7 +42,7 @@ X_test, Y_test = nfl_regression.get_yards_by_stats(test_receiver_stats, test_pla
 
 We only consider these features
 
-```
+```python
 feature_columns = ['Age', 'Height', 'Weight', 'Overall', 'Speed',
  'Acceleration', 'Agility', 'Change of Dir', 'Strength', 'Jumping',
  'Awareness', 'Carrying', 'Break Tackle', 'Juke Move', 'Spin Move',
@@ -60,7 +60,7 @@ feature_columns = ['Age', 'Height', 'Weight', 'Overall', 'Speed',
 
 Train regression on average weekly yards gained 
 
-```
+```python
 from sklearn.svm import SVR
 reg = SVR(kernel='poly')
 reg = reg.fit(X_train, Y_train)
@@ -68,12 +68,12 @@ reg = reg.fit(X_train, Y_train)
 
 Score against test split
 
-```
+```python
 reg.score(X_test, Y_test)
 ```
 
 Predict average weekly yards gained by using only a player's statistics!
 
-```
+```python
 reg.predict(test_player_stats[test_player_stats['abrev_name'] == 't.brady'][feature_columns])
 ```
